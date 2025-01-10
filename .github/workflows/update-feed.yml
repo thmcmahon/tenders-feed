@@ -1,0 +1,24 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:        # Allows manual triggers
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Download RSS Feed
+        run: |
+          curl -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+          https://www.tenders.gov.au/public_data/rss/rss.xml > tenders.xml
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add tenders.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
