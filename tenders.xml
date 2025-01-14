@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 13 Jan 2025 16:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 16:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DVA-GEN 2023-24/29: Veterans' Recognition Covenant Pack preparation and distribution</title>
-      <link>https://www.tenders.gov.au/Atm/Show/0d10a0ea-d6d9-41b2-aa04-e80b17f11a53</link>
-      <description>&lt;p&gt;Veterans' Recognition Covenant Pack preparation and distribution&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/0d10a0ea-d6d9-41b2-aa04-e80b17f11a53</guid>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DHA-PROC-84736: QLD Weipa Bombax Court - Upgrades (2)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/d4435471-ca06-4bab-ab16-70d7a0def00b</link>
-      <description>&lt;p&gt;Defence Housing Australia (DHA) is seeking an experienced contractor to undertake upgrade works for two (2) properties in Weipa, QLD.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/d4435471-ca06-4bab-ab16-70d7a0def00b</guid>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>DHA-PROC-84093: WA-DHA Funded Upgrade-8 Montague St Secret Harbour (1)</title>
       <link>https://www.tenders.gov.au/Atm/Show/ec3810d0-aa7e-46c4-b164-5fe1772115b1</link>
@@ -107,7 +93,7 @@
     <item>
       <title>4584-2024-25: Pacific Project Communications</title>
       <link>https://www.tenders.gov.au/Atm/Show/781a0e4d-0b9d-448f-9075-143e0e1e8f8b</link>
-      <description>&lt;p&gt;&lt;span&gt;Pacific Project Communications&lt;/span&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Pacific Project Communications&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/781a0e4d-0b9d-448f-9075-143e0e1e8f8b</guid>
       <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
     </item>
@@ -176,20 +162,6 @@
       <description>&lt;p&gt;Program supporting Cambodia to mitigate and adapt to the impacts of climate change.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/fbb6b951-ab4c-4ce3-9723-9a5030cf0373</guid>
       <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST09255: Defence Science &amp; Technology Group Edinburgh Laboratory Refurbishment, SA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ace0c20a-3a6a-44f9-ae80-995245ba15a6</link>
-      <description>&lt;p&gt;Defence Science &amp;amp; Technology Group Edinburgh Laboratory Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ace0c20a-3a6a-44f9-ae80-995245ba15a6</guid>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST08571: RAAF Williamtown Accommodation Refurbishment, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/bcef305f-fc96-4be5-8bac-0d77eb4785b4</link>
-      <description>&lt;p&gt;RAAF Williamtown Accommodation Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/bcef305f-fc96-4be5-8bac-0d77eb4785b4</guid>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST08659: Kapooka Minor Repair &amp; Maintenance Package 1, NSW</title>
@@ -358,6 +330,13 @@
       <description>&lt;p&gt;HMAS Stirling Minor New Capability Works, WA&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/43218d37-e17e-4fde-b34c-cb9dd8df01db</guid>
       <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09255: Defence Science &amp; Technology Group Edinburgh Laboratory Refurbishment, SA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ace0c20a-3a6a-44f9-ae80-995245ba15a6</link>
+      <description>&lt;p&gt;Defence Science &amp;amp; Technology Group Edinburgh Laboratory Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ace0c20a-3a6a-44f9-ae80-995245ba15a6</guid>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST08646: Singleton Ranges Repairs and Maintenance, NSW</title>
@@ -587,6 +566,13 @@
       <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST08571: RAAF Williamtown Accommodation Refurbishment, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/bcef305f-fc96-4be5-8bac-0d77eb4785b4</link>
+      <description>&lt;p&gt;RAAF Williamtown Accommodation Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/bcef305f-fc96-4be5-8bac-0d77eb4785b4</guid>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM_2025_1013: To Establish a Contract for Technical Support and Advice</title>
       <link>https://www.tenders.gov.au/Atm/Show/095c6801-e78f-4509-a98d-249b3b979369</link>
       <description>&lt;p&gt;To establish a contract for technical support and advice.&lt;/p&gt;</description>
@@ -769,6 +755,13 @@
       <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>AWM001232: Exhibition Graphics Fabrication and Installation</title>
+      <link>https://www.tenders.gov.au/Atm/Show/27eb5282-4b18-489d-8517-2665e9e6cb93</link>
+      <description>&lt;p&gt;&lt;strong&gt;Fabricate and install high volumes of Exhibition Graphics across multiple galleries&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/27eb5282-4b18-489d-8517-2665e9e6cb93</guid>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ART2024-011: Uniformed Security Guard Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/0dbd6209-20ff-4406-b9f2-9e69a14b3422</link>
       <description>&lt;p&gt;The Administrative Review Tribunal (ART) is seeking an Australian based organisation with the capacity to provide full time certified and professional Uniformed Security Guard Services in ART Registries located in Sydney, Melbourne, Brisbane, Adelaide, Perth, and Canberra.&lt;/p&gt;
@@ -852,6 +845,14 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/791544b3-8019-47de-bfa9-1b219d94f264</guid>
       <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EOI Cobar: EOI Agent Services Cobar</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5b1961b5-9d02-4ebd-bc60-f9b7bbc40061</link>
+      <description>&lt;p&gt;The Australian Government agency Services Australia is seeking&lt;/p&gt;
+&lt;p&gt;Expressions of Interest from organisations to provide agent services in Cobar&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5b1961b5-9d02-4ebd-bc60-f9b7bbc40061</guid>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ILSCE-24: INFRASTRUCTURE AND LOGISTICS SERVICES  FOR COMMEMORATIVE EVENTS IN FRANCE, TÜRKIYE AND AUSTRALIA (2027-2029)</title>
