@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 12 Feb 2025 16:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 16:35:01 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>53384: Remaining Life Assessment on Defence Class B Pressure Vessels within the DSTG Transonic Wind Tunnel Facility</title>
-      <link>https://www.tenders.gov.au/Atm/Show/0ca55c61-9aa5-4434-a584-cc7271fab1b7</link>
-      <description>&lt;p&gt;Transonic Wind Tunnel Pressure Vessel Remaining Life Assessment&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/0ca55c61-9aa5-4434-a584-cc7271fab1b7</guid>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RFT1001016796: Provision of Furniture</title>
-      <link>https://www.tenders.gov.au/Atm/Show/fb157ee9-d0c6-4460-9a33-ca0a4341635d</link>
-      <description>&lt;p&gt;Establishment of a furniture supply and installation panel, including design, manufacture and prototyping.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/fb157ee9-d0c6-4460-9a33-ca0a4341635d</guid>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>ART2024-011: Uniformed Security Guard Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/0dbd6209-20ff-4406-b9f2-9e69a14b3422</link>
@@ -34,13 +20,6 @@
       <description>&lt;p&gt;Puckapunyal Various Works Package, Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/caad97a9-8df8-4241-a705-30a70b714b42</guid>
       <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ATM_2024_2863: KNP Potable Water to Ranger Stations, South Alligator Ranger Station (SARS), East Alligator Ranger Station (EARS) and Ig</title>
-      <link>https://www.tenders.gov.au/Atm/Show/025e57b0-cff5-48c6-85fb-43d11ee4ebb5</link>
-      <description>&lt;p&gt;The provision of water filtration systems and additional water tank capacity to deliver potable water to the Kakadu National Park (KNP) Ranger Stations, South Alligator Ranger Station (SARS), East Alligator Ranger Station (EARS) and Igoymarrwa (Mary River) Ranger Station (IRS).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/025e57b0-cff5-48c6-85fb-43d11ee4ebb5</guid>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM 2024 0975: Northern Endeavour Project Execution Advisory Team for Phase 2/3</title>
@@ -119,15 +98,6 @@
       <description>&lt;p&gt;Geoscience Australia seeks a qualified and experienced subject matter expert to develop a standardised symbology catalogue and Esri-compatible Style file (,Stylx) for application to our seabed geomorphology classification scheme in GIS feature layers.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/d79b4f27-c297-4748-96fb-de949ec8c2ba</guid>
       <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AASB-2024-12: AASB Innovative Research Proposals</title>
-      <link>https://www.tenders.gov.au/Atm/Show/791544b3-8019-47de-bfa9-1b219d94f264</link>
-      <description>&lt;p&gt;&lt;strong&gt;Reimagine reporting and inform the future of standard setting - Call for Research Proposals&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/791544b3-8019-47de-bfa9-1b219d94f264</guid>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFT10028591: Establishment of a specialist Technical Advisory Services Panel to support delivery of Commonwealth PFAS programs</title>
@@ -220,6 +190,13 @@
       <description>&lt;p&gt;RAAF Townsville Accommodation Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/b3179760-be28-43e8-a607-70cffa7fa3f0</guid>
       <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2024_2863: KNP Potable Water to Ranger Stations, South Alligator Ranger Station (SARS), East Alligator Ranger Station (EARS) and Ig</title>
+      <link>https://www.tenders.gov.au/Atm/Show/025e57b0-cff5-48c6-85fb-43d11ee4ebb5</link>
+      <description>&lt;p&gt;The provision of water filtration systems and additional water tank capacity to deliver potable water to the Kakadu National Park (KNP) Ranger Stations, South Alligator Ranger Station (SARS), East Alligator Ranger Station (EARS) and Igoymarrwa (Mary River) Ranger Station (IRS).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/025e57b0-cff5-48c6-85fb-43d11ee4ebb5</guid>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MSD/RFT/50332/1: Directorate of Maritime Engineering and Logistics (DMEL) Naval Asset Management System Support (NAMSS) Contract</title>
@@ -473,13 +450,6 @@
       <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AIMSRFT763: Asset Mapping and Maintenance Policy Development</title>
-      <link>https://www.tenders.gov.au/Atm/Show/f9aef78e-4539-4d3c-886e-b7e5409aa17d</link>
-      <description>&lt;p&gt;The Australian Institute of Marine Science (AIMS) requires an Asset and Maintenance Management contractor to carry out asset identification, asset mapping and maintenance policy document creation including safe work instructions to assist AIMS in managing its critical assets associated with the National Sea Simulation (SeaSim).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/f9aef78e-4539-4d3c-886e-b7e5409aa17d</guid>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>ATM_2024_0983: Space Situational Awareness (SSA) Capabilities for Launch and Return Support in Australia</title>
       <link>https://www.tenders.gov.au/Atm/Show/308ebb91-32a5-4508-b9b0-099b77b64254</link>
       <description>&lt;p&gt;Industry capability for monitoring launches and return support.&lt;/p&gt;</description>
@@ -655,6 +625,13 @@
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ATM_2025_1294: Kibo - ABC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7f918bbe-86f6-4f99-b806-4446e3682ddb</link>
+      <description>&lt;p&gt;Deliver Kibo - ABC initiatives on behalf of the Australian Space Agency to an Australian audience&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7f918bbe-86f6-4f99-b806-4446e3682ddb</guid>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>49923-1: RFT for Collective and Individual Training Support Services (CITSS)</title>
       <link>https://www.tenders.gov.au/Atm/Show/689b263b-5bbb-49d1-b36d-6e823545d096</link>
       <description>&lt;p&gt;Collective and Individual Training Support Services (CITSS) Standing Offer Panel&amp;nbsp;&lt;/p&gt;</description>
@@ -683,6 +660,13 @@
       <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>AIMSRFT763: Asset Mapping and Maintenance Policy Development</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f9aef78e-4539-4d3c-886e-b7e5409aa17d</link>
+      <description>&lt;p&gt;The Australian Institute of Marine Science (AIMS) requires an Asset and Maintenance Management contractor to carry out asset identification, asset mapping and maintenance policy document creation including safe work instructions to assist AIMS in managing its critical assets associated with the National Sea Simulation (SeaSim).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f9aef78e-4539-4d3c-886e-b7e5409aa17d</guid>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>LSD/RFI/54755/1: Joint Project 8218 Theatre Logistics-Deployable Camp Infrastructure Sub-program</title>
       <link>https://www.tenders.gov.au/Atm/Show/930d11b1-fb42-42d0-a1ac-2033c5fab192</link>
       <description>&lt;p&gt;Joint Project 8218 Deployable Camp Infrastructure Market Sounding&amp;nbsp;&lt;/p&gt;</description>
@@ -702,6 +686,20 @@
       <description>&lt;p&gt;The DTA is inviting all ERP providers to apply for Category 3 Enterprise Resource Planning Products and Service Solutions on the Software Marketplace and ERP panel.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/1e9710e5-dc52-4446-85d5-8ce8c484cc32</guid>
       <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>11735: Delivery of Digital Health Standards Training and Education</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b642292a-70e6-4f98-b252-fb60ee41c7a2</link>
+      <description>&lt;p&gt;Through this RFT the Agency is seeking a supplier who can deliver digital health standards training, initially deliveringvirtual workshops for four FHIR courses that have been tailored to the Australian market. There are plans for delivery of additional FHIR courses and other digital health standards courses to support digital health standards adoption and implementation.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b642292a-70e6-4f98-b252-fb60ee41c7a2</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST07504: RAAF Glenbrook Infrastructure Replacement, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/327eabb8-2ef4-41e8-bc3b-cf2ea0a04b0b</link>
+      <description>&lt;p&gt;RAAF Glenbrook Infrastructure Replacement Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/327eabb8-2ef4-41e8-bc3b-cf2ea0a04b0b</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AZ6575: PPIP-VAN-PVCPS Port Vila Central Police Station, George Pompidou, Vanuatu - Head Contractor (Design and Construct)</title>
@@ -829,13 +827,6 @@
       <description>&lt;p&gt;Demo ATM to test eLodgement and Download&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/7f03face-747d-481f-a7ba-0ab6dabfaa64</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ATM_2025_1294: Kibo - ABC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/7f918bbe-86f6-4f99-b806-4446e3682ddb</link>
-      <description>&lt;p&gt;Deliver Kibo - ABC initiatives on behalf of the Australian Space Agency to an Australian audience&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/7f918bbe-86f6-4f99-b806-4446e3682ddb</guid>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MGF_17: Supply of Medical Grade Footwear to eligible persons</title>
