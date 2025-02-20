@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 19 Feb 2025 16:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 16:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>EST08224: Gallipoli Barracks Power Infrastructure Upgrade Phase 2, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ceae18e8-091f-4c26-adad-e754c8802653</link>
-      <description>&lt;p&gt;Gallipoli Barracks Power Infrastructure Upgrade Phase 2, QLD&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ceae18e8-091f-4c26-adad-e754c8802653</guid>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ILSCE-24: INFRASTRUCTURE AND LOGISTICS SERVICES  FOR COMMEMORATIVE EVENTS IN FRANCE, TÜRKIYE AND AUSTRALIA (2027-2029)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/92cfc978-e9b1-4702-b776-1eee656d94d4</link>
-      <description>&lt;p&gt;DVA is seeking Expressions of Interest from suppliers for the provision of Infrastructure and Logistics Services for Commemorative Events in France, Türkiye and Australia (ILSCE) (2027-2029).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/92cfc978-e9b1-4702-b776-1eee656d94d4</guid>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWM001232: Exhibition Graphics Fabrication and Installation</title>
-      <link>https://www.tenders.gov.au/Atm/Show/27eb5282-4b18-489d-8517-2665e9e6cb93</link>
-      <description>&lt;p&gt;&lt;strong&gt;Fabricate and install high volumes of Exhibition Graphics across multiple galleries&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/27eb5282-4b18-489d-8517-2665e9e6cb93</guid>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>EST08548: Defence Science and Technology Group Edinburgh Refurbishment, SA</title>
       <link>https://www.tenders.gov.au/Atm/Show/30a8fee6-d518-4cf1-b911-89d8a20cb661</link>
@@ -377,13 +356,6 @@
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EST09927: HMAS Cerberus Multiple Building Works, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/eb15e9c0-d221-4070-9077-b44ce0e835d5</link>
-      <description>&lt;p&gt;HMAS Cerberus Multiple Building Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/eb15e9c0-d221-4070-9077-b44ce0e835d5</guid>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Health/E24-39492: Procurement of Fraud Case Management System (CMS)</title>
       <link>https://www.tenders.gov.au/Atm/Show/730b26c0-2410-47dd-9d69-f7fc70f1317f</link>
       <description>&lt;p&gt;The Department of Health and Aged Care is seeking to procure a new off-the-shelf Fraud CMS to enhance its fraud management capabilities. The new CMS should ensure compliance with the Australian Government Investigations Standards (AGIS), improve efficiency, accuracy, and reporting capabilities, and streamline processes.&lt;/p&gt;</description>
@@ -528,7 +500,7 @@
     <item>
       <title>MDBA-SRC000334: Hydraulic Models for Reviewing Rating Tables</title>
       <link>https://www.tenders.gov.au/Atm/Show/2ca16b17-9af9-4163-af51-d378b90bd6ae</link>
-      <description>&lt;p&gt;&lt;span&gt;MDBA has number for models and sub-models, event-based rainfall runoff modelling, for flood operations in the Upper Murray, Kiewa and Ovens. These models require suitably verified rating tables to ensure flood water level predictions are reasonably accurate, especially at the upper end of the rating tables where insufficient gauging exist.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;MDBA has number for models and sub-models, event-based rainfall runoff modelling, for flood operations in the Upper Murray, Kiewa and Ovens. These models require suitably verified rating tables to ensure flood water level predictions are reasonably accurate, especially at the upper end of the rating tables where insufficient gauging exist.&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/2ca16b17-9af9-4163-af51-d378b90bd6ae</guid>
       <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
@@ -611,6 +583,13 @@
       <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST09927: HMAS Cerberus Multiple Building Works, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/eb15e9c0-d221-4070-9077-b44ce0e835d5</link>
+      <description>&lt;p&gt;HMAS Cerberus Multiple Building Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/eb15e9c0-d221-4070-9077-b44ce0e835d5</guid>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>AZ6575: PPIP-VAN-PVCPS Port Vila Central Police Station, George Pompidou, Vanuatu - Head Contractor (Design and Construct)</title>
       <link>https://www.tenders.gov.au/Atm/Show/f3a78bfa-bb0c-461c-92d1-3a2c6e651c90</link>
       <description>&lt;p&gt;This Notice is for the purpose of informing Industry of the procurement for the services of Head Contractor (Design and Construct).&lt;/p&gt;</description>
@@ -639,6 +618,13 @@
       <description>&lt;p&gt;Establishment of a Deed of Standing Offer to provide Psychological (Adaptability) Assessments to the Australian Antarctic Division&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e727bb2f-a969-4257-9263-30ba86577887</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FIN-2024-25-00662: Commercial Negotiation Training Course</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1dd6c459-2117-4e74-b499-096f8731cc93</link>
+      <description>&lt;p&gt;The Department of Finance is seeking to engage a suitably qualified supplier to develop and deliver a half-day training course on commercial negotiation relevant to the Commonwealth Procurement Framework, specifically targeted towards APS officials.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1dd6c459-2117-4e74-b499-096f8731cc93</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-5138: Request for Information on assessment tool(s) suitable for children to support NDIS reform initiatives</title>
@@ -676,6 +662,34 @@
       <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PROC-9177223: NGN Chickpea time of sowing for disease control in Southern Queensland</title>
+      <link>https://www.tenders.gov.au/Advert/Show/297c08ef-46fc-4ebc-a24d-151cbb3b3038</link>
+      <description>&lt;p&gt;Chickpeas are an important part of winter crop rotations in Queensland; however, disease can be a major limitation to production. Ascochyta blight is a major disease of chickpea, for which current varieties lack resistance to. Fungicides are the primary method of controlling Ascochyta blight, often requiring multiple applications when conditions are conductive. The high cost of these applications and potential for the development of fungicide resistance means alternative control methods are needed. Using an integrated disease management strategy can improve disease control and limit the risks of developing resistance. Optimising the time of sowing can be an effective method to manage Ascochyta blight as later plantings can help to avoid disease impacts through limiting the number of rain events.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/297c08ef-46fc-4ebc-a24d-151cbb3b3038</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-9177215: NGN Faba bean variety and agronomy trials in Tasmania</title>
+      <link>https://www.tenders.gov.au/Advert/Show/8a9f4a4f-6613-4bf6-8f9e-1aa0fd897862</link>
+      <description>&lt;p&gt;The NGN faba bean variety and agronomy trials in Tasmania aim to address the current limitations in faba bean production within the region. Despite the high cost of importing new varieties and the limited adoption of faba beans due to lower returns compared to other field crops, there is a renewed interest in this legume rotation crop. This resurgence is driven by the development of local market opportunities.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/8a9f4a4f-6613-4bf6-8f9e-1aa0fd897862</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSIRORFT2025021: CSIRORFT2025021 Café Services - CSIRO Hobart</title>
+      <link>https://www.tenders.gov.au/Atm/Show/026780da-efe7-4817-a801-2e8a63210c6b</link>
+      <description>&lt;p&gt;CSIRO through this Request for Tender (RFT) is seeking responses from suitably qualified and experienced service providers for the provision of café style food and beverage services (Services) for the café located at CSIRO Hobart, Tasmania.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/026780da-efe7-4817-a801-2e8a63210c6b</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023-24RFQ002: Scoping Reviews for older adults and diet and sustainability to inform the revision of the Australian Dietary Guidelines</title>
+      <link>https://www.tenders.gov.au/Atm/Show/fef7ec2e-3867-4c27-8b53-fe0209da9826</link>
+      <description>&lt;p&gt;Services to conduct scoping reviews for older adults and diet and sustainability to inform the revision the Australian Dietary Guidelines.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/fef7ec2e-3867-4c27-8b53-fe0209da9826</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>10028704: Airport Building Control Services for Federally Leased Airports</title>
       <link>https://www.tenders.gov.au/Atm/Show/55060c68-abf4-43fc-8cce-b684abc05ce3</link>
       <description>&lt;p&gt;The department seeks to procure Airport Building Control services at 20 federally leased airports to administer and advise airport lessees and operators on the building control requirements outlined under the &lt;em&gt;Airports Act 1996&lt;/em&gt; and the Airports (Building Control) Regulations 1996.&lt;/p&gt;</description>
@@ -696,6 +710,13 @@
 &lt;p&gt;We are currently seeking tenders from a suitably qualified individual, organisation or consortium to consult with the arts, screen, games and cultural sector, and to develop and steward a new National Arts and Disability Code of Practice or appropriate Guidelines.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/f05c0f60-98e9-4995-8532-c6e0110b1241</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10514: Lismore Remediation &amp; Refurbishment Works, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/06168fd5-166d-46f3-b8df-7411e12c2728</link>
+      <description>&lt;p&gt;Lismore Remediation &amp;amp; Refurbishment Works, NSW&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/06168fd5-166d-46f3-b8df-7411e12c2728</guid>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Proc-84380: DHA Upgrade-Wattle Grove NSW</title>
