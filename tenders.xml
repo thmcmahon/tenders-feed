@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 03 Mar 2025 16:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 16:35:04 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>SWA-2025-A: 2025 Research Summit</title>
-      <link>https://www.tenders.gov.au/Atm/Show/57ea6e58-83ad-4321-ad54-230ac9ff2e82</link>
-      <description>&lt;p&gt;Provision of Conference Management and Workshop Facilitation Services.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/57ea6e58-83ad-4321-ad54-230ac9ff2e82</guid>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST08249: HMAS Albatross Electrical Upgrades and Building Works, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/984f099e-bd78-4450-8c23-931bc2872d67</link>
-      <description>&lt;p&gt;HMAS Albatross Electrical Upgrades and Building Works, NSW&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/984f099e-bd78-4450-8c23-931bc2872d67</guid>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>027 - NMI - 2024/25: Procurement of an automated sample preparation platform capable of immunoaffinity purification</title>
       <link>https://www.tenders.gov.au/Atm/Show/00b321b5-cb05-4171-a523-cf100a5a6e45</link>
@@ -181,13 +167,6 @@
       <link>https://www.tenders.gov.au/Atm/Show/be1de734-d9be-4114-ad67-f176a4093e60</link>
       <description>&lt;p&gt;Moorebank Military Area Building Refurbishment Works, NSW&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/be1de734-d9be-4114-ad67-f176a4093e60</guid>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST08352: HMAS Waterhen South Wharf Mid Life Refit</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c4d0cd41-201b-4c9f-b48c-6d2b41ea41a7</link>
-      <description>&lt;p&gt;HMAS Waterhen South Wharf Mid Life Refit&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c4d0cd41-201b-4c9f-b48c-6d2b41ea41a7</guid>
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -477,13 +456,6 @@
       <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>GA2024/3818: Adavale Basin stratigraphic drilling - Coring Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/559e8caf-9b9d-4d50-a485-2f3047eb3f26</link>
-      <description>&lt;p&gt;Geoscience Australia is seeking to procure comprehensive coring services in support of Geoscience Australia's drilling operations as described in the Scope of Services for the Adavale Basin Stratigraphic Drilling Project&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/559e8caf-9b9d-4d50-a485-2f3047eb3f26</guid>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>GA2024/3817: Adavale Basin stratigraphic drilling - wireline logging</title>
       <link>https://www.tenders.gov.au/Atm/Show/77fbc50f-73c0-40bc-a2a0-06e6000dc25d</link>
       <description>&lt;p&gt;Adavale Basin stratigraphic drilling - wireline Services&amp;nbsp;&lt;/p&gt;</description>
@@ -520,6 +492,13 @@
       <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST08352: HMAS Waterhen South Wharf Mid Life Refit</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c4d0cd41-201b-4c9f-b48c-6d2b41ea41a7</link>
+      <description>&lt;p&gt;HMAS Waterhen South Wharf Mid Life Refit&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c4d0cd41-201b-4c9f-b48c-6d2b41ea41a7</guid>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>HOMEAFFAIRS/2163/RFT: Provision of Maintenance and Repair of Navigational Aids and Moorings</title>
       <link>https://www.tenders.gov.au/Atm/Show/9b3b6866-209a-4e38-8970-bba89ab96274</link>
       <description>&lt;p&gt;The Australian Border Force (ABF) is seeking a Service Provider for the provision of maintenance and repair of navigational aids and moorings at Ashmore Reef and Christmas Island.&lt;/p&gt;</description>
@@ -541,11 +520,25 @@
       <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>RFT 2024-25 04: National Arts Participation Survey 2025</title>
+      <link>https://www.tenders.gov.au/Advert/Show/62e37739-7be8-40db-9099-d05bb25316cc</link>
+      <description>&lt;p&gt;Creative Australia is the Australian Government’s principal arts investment and advisory body. We are currently seeking the services of a research provider to undertake the National Arts Participation Survey 2025.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/62e37739-7be8-40db-9099-d05bb25316cc</guid>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ADSS/NOT/52004/1: Support to Space Domain Awareness (SDA) Capabilities</title>
       <link>https://www.tenders.gov.au/Atm/Show/40b4fd8a-b5a4-41be-b5d7-218fe9db0bde</link>
       <description>&lt;p&gt;Advance notice - invitation to register to Support SDA Capabilities at Exmouth ,WA and Edinburgh, SA&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/40b4fd8a-b5a4-41be-b5d7-218fe9db0bde</guid>
       <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPC-13683: Secure File Sharing Solution (SFSS)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b51a37dc-38b4-4bed-9c9d-f33a37a2fc66</link>
+      <description>&lt;p&gt;A secure file sharing solution is a technology service that allows for the safe and efficient exchange of files over a network, using encryption, authentication, and access restrictions to safeguard data from unauthorised access and breaches during transit.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b51a37dc-38b4-4bed-9c9d-f33a37a2fc66</guid>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CSIRORFT2025015: Boolardy Homestead Airstrip upgrade project, Murchison WA – Head Contractor Services</title>
@@ -581,6 +574,13 @@
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>NGA25-002: Fire Consultancy Services at National Gallery of Australia</title>
+      <link>https://www.tenders.gov.au/Atm/Show/cff0d274-a965-41e4-8c9a-e595c40b3f91</link>
+      <description>&lt;p&gt;The National Gallery is an aging asset and now requires improvements to its fire safety approach through a comprehensive review of fire compliance in the building and the creation of a forward plan. The Gallery seeks to engage a suitably qualified consultant with relevant experience to undertake this work.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/cff0d274-a965-41e4-8c9a-e595c40b3f91</guid>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>PMSP-2022-0003-01-1: Pacific Maritime Security Program Acquisition of Enhanced Aerial Surveillance Services (Fixed-Wing)</title>
       <link>https://www.tenders.gov.au/Atm/Show/fc3a3478-b243-4757-bbd9-79e0a55c6f5c</link>
       <description>&lt;p&gt;PMSP Acquisition of Enhanced Aerial Surveillance Services (Fixed-Wing)&lt;/p&gt;</description>
@@ -593,6 +593,13 @@
       <description>&lt;p&gt;Notice to industry regarding the upcoming Defence Search and Rescue Services (DSARS) RFT&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/42f312b4-dfa2-4718-87ab-65112e219370</guid>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>25AMSA005: Cleaning Services - Canberra Office</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b7aecca2-b774-412f-9d6c-e81a49d1432a</link>
+      <description>&lt;p&gt;AMSA HEad Office Cleaning Services - Canberra&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b7aecca2-b774-412f-9d6c-e81a49d1432a</guid>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM 24/3610: ATM 24/3610 Antarctic Helicopter Services</title>
@@ -638,6 +645,13 @@
       <description>&lt;p&gt;ANSTO is looking to contract a suitably qualified and experienced vendor for the provision of HVAC maintenance across our Lucas Heights facility&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/53d61457-3bb6-45f9-98c7-8763fa944a43</guid>
       <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GA2024/3818: Adavale Basin stratigraphic drilling - Coring Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/559e8caf-9b9d-4d50-a485-2f3047eb3f26</link>
+      <description>&lt;p&gt;Geoscience Australia is seeking to procure comprehensive coring services in support of Geoscience Australia's drilling operations as described in the Scope of Services for the Adavale Basin Stratigraphic Drilling Project&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/559e8caf-9b9d-4d50-a485-2f3047eb3f26</guid>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFP-48897: Pacific Maritime Security Program - Pacific Maritime Support Coordinator</title>
