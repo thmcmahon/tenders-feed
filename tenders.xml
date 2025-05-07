@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 06 May 2025 17:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 17:35:10 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>HOMEAFFAIRS/2183/RFT: Provision of an internet gateway security system</title>
-      <link>https://www.tenders.gov.au/Atm/Show/6bc6b532-29b7-4776-a6bb-06e8c50c0537</link>
-      <description>&lt;p&gt;The Department is seeking to modernise and futureproof its perimeter security services with the adoption of Secure Service Edge (SSE).&amp;nbsp; As part of this we are looking for a contemporary and effective secure web gateway service (also referred to as proxy). The Department is seeking a new secure web gateway solution that will need to be resilient, robust, and focused on ensuring minimal impact on the Department’s 24 hour, 365 day business needs.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/6bc6b532-29b7-4776-a6bb-06e8c50c0537</guid>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>P24/429: Request for Information – Intelligence Analysis Capability</title>
-      <link>https://www.tenders.gov.au/Atm/Show/bc22e3c8-4b96-46b7-8619-de5bff1988e1</link>
-      <description>&lt;p&gt;The Australian Criminal Intelligence Commission (ACIC) provides unique and incisive intelligence to combat the threats Australia faces from transnational serious and organised crime. Our integrated view of crime is made possible through connected systems and capabilities that are used to coordinate decision making with state and territory, Commonwealth and international partners.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/bc22e3c8-4b96-46b7-8619-de5bff1988e1</guid>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LIVERPOOL NSW RFI: Request for Information - Long Term Commonwealth Lease, Liverpool, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c09f8449-87c4-4f98-8abe-d1ea3dfd3fd8</link>
-      <description>&lt;p&gt;Commonwealth Leasing Opportunity, Liverpool NSW&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c09f8449-87c4-4f98-8abe-d1ea3dfd3fd8</guid>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>TE Industry Brief: Test and Evaluation Industry Briefing Session</title>
       <link>https://www.tenders.gov.au/Atm/Show/5fe89194-47ab-472b-8c68-778989c6a99d</link>
@@ -113,13 +92,6 @@
       <description>&lt;p&gt;To assist Tourism Australia with the developement and delivery of a report that provides a deep dive into Australias key markets&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/6ccfcae4-f257-40fa-aafe-9046779752fc</guid>
       <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>INFRA SAP - 10030129: Feasibility Study on decarbonising the electricity supply  in the Indian Ocean Territories 2025</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4c2af229-04c6-475f-9c6a-6d0984d8531e</link>
-      <description>&lt;p&gt;&lt;span&gt;A study into the feasibility of transitioning to a lower emissions energy system in the Indian Ocean Territories (Christmas Island and the Cocos (Keeling) Islands) and subsequently techno analysis and scope statements on selected options.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4c2af229-04c6-475f-9c6a-6d0984d8531e</guid>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CSIRORFT2025002: Cleaning Services Tasmania</title>
@@ -297,13 +269,6 @@
       <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>PSC002591: Plumbing Maintenance Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/a0a16ee5-2158-4b9c-9cc7-708daab0a4f5</link>
-      <description>&lt;p&gt;ANSTO is looking to contract a suitably qualified and fit-for-purpose vendor for the provision of PPM and Adhoc Plumbing Maintenance services at our Lucas Heights facility.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/a0a16ee5-2158-4b9c-9cc7-708daab0a4f5</guid>
-      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>10031065: Technology Consultant – Regional Communications 2025</title>
       <link>https://www.tenders.gov.au/Atm/Show/237047e9-8834-448a-ac41-5903729558f0</link>
       <description>&lt;p&gt;The Department is seeking technology consultancy services to provide advice on regional communications programs.&lt;/p&gt;</description>
@@ -346,6 +311,13 @@
       <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>INFRA SAP - 10030129: Feasibility Study on decarbonising the electricity supply  in the Indian Ocean Territories 2025</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4c2af229-04c6-475f-9c6a-6d0984d8531e</link>
+      <description>&lt;p&gt;A study into the feasibility of transitioning to a lower emissions energy system in the Indian Ocean Territories (Christmas Island and the Cocos (Keeling) Islands) and subsequently techno analysis and scope statements on selected options.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4c2af229-04c6-475f-9c6a-6d0984d8531e</guid>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EST07527: RAAF Richmond Infrastructure Relocation, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/6abcdcfc-450f-44aa-aa25-91e8fd1c9b60</link>
       <description>&lt;p&gt;RAAF Richmond Infrastructure Relocation&lt;/p&gt;</description>
@@ -366,6 +338,13 @@
 &lt;p&gt;The Contractor will provide all professional construction services, leading to the timely completion of the EIW project as detailed in this Request for Tender.The Contractor will be responsible for further developing and finalising the design and then constructing the works.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/0b776ee7-c4a8-4369-bdb3-18e38106a47c</guid>
       <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SBSWesternSydney25: Request for Expressions of Interest for the SBS Western Sydney Production Hub 2025</title>
+      <link>https://www.tenders.gov.au/Atm/Show/84f1eaf1-5d2b-44ad-b292-78ad638766e1</link>
+      <description>&lt;p&gt;SBS seeks expressions of interest for a suitable premises in Western Sydney for a planned new production hub.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/84f1eaf1-5d2b-44ad-b292-78ad638766e1</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFT41943: RAIL TRANSPORT STANDING OFFER FOR SERVICES</title>
@@ -461,6 +440,13 @@
       <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PSC002591: Plumbing Maintenance Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a0a16ee5-2158-4b9c-9cc7-708daab0a4f5</link>
+      <description>&lt;p&gt;ANSTO is looking to contract a suitably qualified and fit-for-purpose vendor for the provision of PPM and Adhoc Plumbing Maintenance services at our Lucas Heights facility.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a0a16ee5-2158-4b9c-9cc7-708daab0a4f5</guid>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>NS1270: Project Portfolio Management Solution</title>
       <link>https://www.tenders.gov.au/Atm/Show/20de5c88-4ea6-490c-8a07-6b9d0df4ee95</link>
       <description>&lt;p&gt;The ABC is seeking information from the market on solutions that provide Project Portfolio Management and Collaborative Work Management, to help the organisation manage and optimise our portfolio of projects.&lt;/p&gt;</description>
@@ -496,11 +482,25 @@
       <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>MECC-DNB-58853: Printing, Packaging and Distribution Coordination of Defence Newspapers</title>
+      <link>https://www.tenders.gov.au/Atm/Show/bcce2971-8bba-4bcb-ac22-362693202faa</link>
+      <description>&lt;p&gt;Printing, Packaging and Distribution Coordination of Army, Navy and Air Force newspapers for Department of Defence&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/bcce2971-8bba-4bcb-ac22-362693202faa</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>CSIRORFT2025004: Cleaning Services for South Australia and Irymple</title>
       <link>https://www.tenders.gov.au/Atm/Show/0cb35689-a1fa-4774-b4c8-95f90667e2cf</link>
       <description>&lt;p&gt;CSIRO through this RFT is seeking responses from suitably qualified and experienced service providers for the provision of cleaning services (Services) in South Australia and Irymple, for a contract term of 3-years with two possible extension options of 2-years each.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/0cb35689-a1fa-4774-b4c8-95f90667e2cf</guid>
       <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRN 2024-829: Personal Response System Products and associated services (PRS24)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/77774158-1fbd-40e9-95d8-688cd55f79d6</link>
+      <description>&lt;p&gt;The Department of Veterans' Affairs invites the submission of tenders for the provision of Personal Response System Products and associated services (PRS) in accordance with this Request for Tender (RFT).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/77774158-1fbd-40e9-95d8-688cd55f79d6</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>10031160: Property Management Agency Christmas Island Resort Site</title>
@@ -517,11 +517,32 @@
       <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GOSFORD NSW RFI: Request for Information - Long Term Commonwealth Lease, Gosford, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/64853d7f-1cb9-4df8-bb9a-ed754a293c59</link>
+      <description>&lt;p&gt;Commonwealth Leasing Opportunity, Gosford NSW&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/64853d7f-1cb9-4df8-bb9a-ed754a293c59</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EST10698: RAAF Pearce Irrigation Migration, WA</title>
       <link>https://www.tenders.gov.au/Atm/Show/c0edb3cc-5314-45cc-ba14-765fc7ec6537</link>
       <description>&lt;p&gt;RAAF Pearce Irrigation Migration, WA&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/c0edb3cc-5314-45cc-ba14-765fc7ec6537</guid>
       <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWM001440: Graphic Fabrication and Installation Services for Upper Anzac Hall, Afghanistan and Anzac Atrium</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3e87f4e3-e0d1-4d8f-b095-9da62cb48fe1</link>
+      <description>&lt;p&gt;&lt;span&gt;Graphic Fabrication and Installation Services for Upper Anzac Hall, Afghanistan and Anzac Atrium&lt;/span&gt;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3e87f4e3-e0d1-4d8f-b095-9da62cb48fe1</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASCA-Syracuse-Stage1: ASCA Mission Syracuse</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5f4cd968-1408-4d49-af38-b52264393e05</link>
+      <description>&lt;p&gt;Future sovereign effectors for counter unmanned aerial systems (cUAS)&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5f4cd968-1408-4d49-af38-b52264393e05</guid>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>SRC005415: Master Data Management and Associated Services</title>
