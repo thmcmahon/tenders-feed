@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 19 May 2025 17:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 17:35:11 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DACPROC24/051: Approach to Market for the Provision of Presentation and Facilitation Workshops</title>
-      <link>https://www.tenders.gov.au/Atm/Show/04f74cc6-2610-478f-9c5b-c280defded25</link>
-      <description>&lt;p&gt;This Approach to Market (ATM) is for the provision of the design, development and delivery of a ‘Presentation and Facilitation Workshops’.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/04f74cc6-2610-478f-9c5b-c280defded25</guid>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HOMEAFFAIRS/2136/RFT: Provision of an Extended Detection and Response (XDR) System</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b5dc2e4b-41f7-470a-ae0a-85721e808166</link>
-      <description>&lt;p&gt;The Department is seeking a contemporary Extended Detection and Response (XDR) and Application Control solution to provide enhanced cyber security capabilities and assurance over all of its user, funtional and compute endpoints located across all of its networks.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b5dc2e4b-41f7-470a-ae0a-85721e808166</guid>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Antarctic ATM25/840: ATM 25/840 Technical Writing Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c95aa845-66c8-4996-89cf-4a3ccd1ea9eb</link>
-      <description>&lt;p&gt;Provision of Technical Writing Services to the Australian Antarctic Division&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c95aa845-66c8-4996-89cf-4a3ccd1ea9eb</guid>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>EST09928: Defence Science &amp; Technology Edinburgh Building Replacement, SA</title>
       <link>https://www.tenders.gov.au/Atm/Show/043bcd08-8767-4a54-aa7b-6a18cb18fd6a</link>
@@ -161,13 +140,6 @@
       <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EST07527: RAAF Richmond Infrastructure Relocation, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/6abcdcfc-450f-44aa-aa25-91e8fd1c9b60</link>
-      <description>&lt;p&gt;RAAF Richmond Infrastructure Relocation&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/6abcdcfc-450f-44aa-aa25-91e8fd1c9b60</guid>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>DFAT 2024/25-974-RFI: Property and Facilities Management Services – Overseas – Request for Information</title>
       <link>https://www.tenders.gov.au/Atm/Show/05fa71b1-2c65-4cd5-9ae9-3148ce030eed</link>
       <description>&lt;p&gt;Property and Facilities Management Services – Overseas – Request for Information&lt;/p&gt;</description>
@@ -194,13 +166,6 @@
       <description>&lt;p&gt;To identify and engage a JAS-ANZ accredited ISO 9001 certification body with the knowledge, skills and capability to effectively assess and certify the Meteorological Authority Office's quality management system within the unique scientific and regulatory environment of the Bureau.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e161eae4-0b04-4370-aa63-bbef98806c04</guid>
       <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RFT41943: RAIL TRANSPORT STANDING OFFER FOR SERVICES</title>
-      <link>https://www.tenders.gov.au/Atm/Show/41c03821-9202-4dd2-bfbb-432d8ced9464</link>
-      <description>&lt;p&gt;Rail Transport Standing Offer for Services&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/41c03821-9202-4dd2-bfbb-432d8ced9464</guid>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177259: Proof of Concept Funding</title>
@@ -238,6 +203,14 @@
       <description>&lt;p&gt;HMAS Harman Building Minor Refurbishment, ACT&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/44d34ca8-69db-4a5c-9f8b-25ef5ebfb4af</guid>
       <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>4892-2024-25: Kimberley Flood Warning Helicopter Charters</title>
+      <link>https://www.tenders.gov.au/Atm/Show/526161b5-bc7c-4727-9464-7931b45bb224</link>
+      <description>&lt;p&gt;The Bureau requires the services of a suitably equipped and piloted rotary wing aircraft on four consecutive days to access twelve flood warning stations located in the Fitzroy River catchment area. Previous charters have departed from Fitzroy Crossing Airport or Mornington Wilderness Camp. Departures from other locations may be considered as well as other configurations and should be detailed in Tenderer's responses with separate quotes.&lt;/p&gt;
+&lt;p&gt;Refer to Statement of Requirements document&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/526161b5-bc7c-4727-9464-7931b45bb224</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST10524: South Bandiana Building Works, VIC</title>
@@ -458,6 +431,13 @@
       <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST07527: RAAF Richmond Infrastructure Relocation, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/6abcdcfc-450f-44aa-aa25-91e8fd1c9b60</link>
+      <description>&lt;p&gt;RAAF Richmond Infrastructure Relocation&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/6abcdcfc-450f-44aa-aa25-91e8fd1c9b60</guid>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EST09944: RAAF Townsville Facility Refurbishment Works, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/2ddf30f2-3c00-4902-85da-a00739a60e97</link>
       <description>&lt;p&gt;RAAF Townsville Facility Refurbishment Works&lt;/p&gt;</description>
@@ -484,6 +464,13 @@
       <description>&lt;p&gt;ADFA Research Lab Refurbishment Works, ACT&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/f4d346f2-afd3-4c19-aaef-2287fd8e8591</guid>
       <pubDate>Fri, 09 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFT41943: RAIL TRANSPORT STANDING OFFER FOR SERVICES</title>
+      <link>https://www.tenders.gov.au/Atm/Show/41c03821-9202-4dd2-bfbb-432d8ced9464</link>
+      <description>&lt;p&gt;Rail Transport Standing Offer for Services&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/41c03821-9202-4dd2-bfbb-432d8ced9464</guid>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177224: GRDC International Visiting Fellowships Program 2025/2026</title>
@@ -531,6 +518,13 @@
       <description>&lt;p&gt;CSIRO through this RFT is seeking responses from suitably qualified and experienced service providers for the provision of cleaning services (Services) in Sydney New South Wales, for a contract term of 3-years with two possible extension options of 2-years each.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/90096df9-6aaf-4c4f-b0f4-2e3b02a290b5</guid>
       <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TN-58712: Women in Security Mentoring Program</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ebde67e8-0898-449d-b2b8-209cfad3c0f2</link>
+      <description>&lt;p&gt;Delivery of a mentoring platform and program for women in the cyber security workforce.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ebde67e8-0898-449d-b2b8-209cfad3c0f2</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>KAWANA WATERS QLD EO: LONG TERM COMMONWEALTH LEASE KAWANA WATERS AND SURROUNDS, QLD</title>
@@ -586,7 +580,7 @@
     <item>
       <title>CON0003962: ICT Managed Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/eaf1b655-ced1-4d5f-8273-7e90bd6cc140</link>
-      <description>&lt;p&gt;&lt;span&gt;The Australian Competition and Consumer Commission (&lt;strong&gt;ACCC&lt;/strong&gt;) is seeking to procure IT Managed Services. The ACCC invites Tenders for the Services in accordance with this Request for Tender (&lt;strong&gt;RFT&lt;/strong&gt;).&lt;/span&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;The Australian Competition and Consumer Commission (&lt;strong&gt;ACCC&lt;/strong&gt;) is seeking to procure IT Managed Services. The ACCC invites Tenders for the Services in accordance with this Request for Tender (&lt;strong&gt;RFT&lt;/strong&gt;).&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/eaf1b655-ced1-4d5f-8273-7e90bd6cc140</guid>
       <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
     </item>
@@ -658,6 +652,13 @@
 &lt;p&gt;·&amp;nbsp; &amp;nbsp; &lt;em&gt;suitability of medical devices and human tissues products for listing on the Prescribed List (PL) of Benefits for Medical Devices and Human Tissue Products. &lt;/em&gt;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/9d20632e-25d4-4b04-9034-9682979b67a2</guid>
       <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSD/RFT/60692/1: Self-Contained Underwater Breathing Apparatus (SCUBA) Mixed Gas (Mix) Mine Countermeasure (MCM) System Acquisition</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2f5960be-c87e-400e-ad7c-271ef7838094</link>
+      <description>&lt;p&gt;SCUBA (Mix) MCM System Acquisition&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2f5960be-c87e-400e-ad7c-271ef7838094</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>NAVY125_2026_001: NAVY125_EVENT PARTNER</title>
