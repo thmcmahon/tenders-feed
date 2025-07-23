@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 22 Jul 2025 17:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 17:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>CFI-20250723: Defence Estate Capital and Sustainment Works Program Industry Briefing Notice</title>
-      <link>https://www.tenders.gov.au/Atm/Show/772c12d5-c80b-4cba-b17e-6e5b40cf06b5</link>
-      <description>&lt;p&gt;The Department of Defence's Security and Estate Group invites Industry to attend the bi-annual Defence Estate Capital and Sustainment Works Program Industry Briefing. The purpose is to provide Industry with an update on Defence estate matters, including planned upcoming procurement opportunities across capital facilities and infrastructure projects.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/772c12d5-c80b-4cba-b17e-6e5b40cf06b5</guid>
-      <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Health/E25-296775: Request for Tender for the delivery of the National Early Intervention Service, a Digital Mental Health Service</title>
-      <link>https://www.tenders.gov.au/Atm/Show/cbb3dd6c-fa98-421c-ad3f-c573f3ea562a</link>
-      <description>&lt;p&gt;The Australian Government has committed to establishing the National Early Intervention Service (NEIS), a new digital mental health service. The Department invites respondents to submit a Tender for the delivery of these services.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/cbb3dd6c-fa98-421c-ad3f-c573f3ea562a</guid>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>PROC-9177213: Developing opportunities for soft wheat production in the Southern and Western GRDC Regions.</title>
       <link>https://www.tenders.gov.au/Advert/Show/2e024cb5-cb5f-4f06-9f9c-8bb63bd36a80</link>
@@ -39,13 +25,6 @@
       <description>&lt;p&gt;Russell Roof Refurbishment Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/a2d70883-5f65-4767-b4e8-c386984d69fa</guid>
       <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST09295: Campbell Barracks Building Refurbishment, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ae816c18-0bf6-433b-b10f-8d599f5809d7</link>
-      <description>&lt;p&gt;Campbell Barracks Building Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ae816c18-0bf6-433b-b10f-8d599f5809d7</guid>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MSCCS/RFI/62729/1: Progress Project Name: SEA4000 Phase 6 AEGIS Training On-shoring RFI</title>
@@ -108,13 +87,6 @@
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EST08594: Singleton Refurbishment Works, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/76d84096-d077-488e-b792-a8b50a78bd26</link>
-      <description>&lt;p&gt;Singleton Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/76d84096-d077-488e-b792-a8b50a78bd26</guid>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>EST09289: HMAS Stirling Netting Roof &amp; Refurbishment, WA</title>
       <link>https://www.tenders.gov.au/Atm/Show/7f5006d3-81b1-466e-988a-6b58231482c7</link>
       <description>&lt;p&gt;HMAS Stirling Netting Roof &amp;amp; Refurbishment Works&lt;/p&gt;</description>
@@ -127,6 +99,13 @@
       <description>&lt;p&gt;Provision of Webinar Services to the Tax Practitioners Board&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/855476c0-3372-4783-9189-88a8349c8871</guid>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09295: Campbell Barracks Building Refurbishment, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ae816c18-0bf6-433b-b10f-8d599f5809d7</link>
+      <description>&lt;p&gt;Campbell Barracks Building Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ae816c18-0bf6-433b-b10f-8d599f5809d7</guid>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PBSS/RFI/64023/1: Shipbuilding Management Course – Development and Delivery</title>
@@ -283,6 +262,13 @@
       <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST08594: Singleton Refurbishment Works, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/76d84096-d077-488e-b792-a8b50a78bd26</link>
+      <description>&lt;p&gt;Singleton Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/76d84096-d077-488e-b792-a8b50a78bd26</guid>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM61428: ENGAGEMENT OF STATISTICAL SUPPORT FOR DEFENCE</title>
       <link>https://www.tenders.gov.au/Atm/Show/f04da422-fedf-4daf-9d81-093bf15e3880</link>
       <description>&lt;p&gt;ENGAGEMENT OF STATISTICAL SUPPORT FOR DEFENCE&lt;/p&gt;</description>
@@ -412,13 +398,6 @@
       <description>&lt;p&gt;Labour and Facility Management&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/09a58412-dba4-4de7-bcb4-95749b8167de</guid>
       <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ADSS/RFI/60487/1: Space Systems Branch - Request For Information Industry Notice</title>
-      <link>https://www.tenders.gov.au/Atm/Show/234d2518-467c-4141-be7f-8b439920b28b</link>
-      <description>&lt;p&gt;Request for Information - SPA9102&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/234d2518-467c-4141-be7f-8b439920b28b</guid>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MDBA BPR202515: BPR202515 - Provision of services to review SDL Assessment</title>
@@ -589,6 +568,13 @@
 &lt;p&gt;Services include the operation and management of Digital Earth Africa program activities, including program leadership, program delivery &amp;amp; coordination, science and product development, technology and platform, user engagement and capacity development, and communications and outreach.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/82e0fe30-e6a0-47a2-8f02-0d1d36979b39</guid>
       <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADSS/RFI/60487/1: Space Systems Branch - Request For Information Industry Notice</title>
+      <link>https://www.tenders.gov.au/Atm/Show/234d2518-467c-4141-be7f-8b439920b28b</link>
+      <description>&lt;p&gt;Request for Information - SPA9102&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/234d2518-467c-4141-be7f-8b439920b28b</guid>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MDBA BPR202517: Provision of services of an engagement specialist</title>
