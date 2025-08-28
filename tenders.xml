@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 27 Aug 2025 17:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 17:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>ESE24/1125: Request for Tender for Trades Recognition Australia Assessment Services Panel</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4d34820e-9a05-4c1e-b44e-5e0517f70b41</link>
-      <description>&lt;p&gt;Trades Recognition Australia (TRA) is procuring Assessment Services to support the Job Ready Program, the Offshore Skills Assessment Program and the Temporary Skills Shortage Skills Assessment Program in accordance with this Request for Tender (RFT).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4d34820e-9a05-4c1e-b44e-5e0517f70b41</guid>
-      <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>BRUNSWICK HEADS NSW: Request for Information - Long Term Commonwealth Lease, Brunswick Heads, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/8c9bdebd-f097-47fc-ba21-fe5ec199e80b</link>
-      <description>&lt;p&gt;Commonwealth Leasing Opportunity, Brunswick Heads, NSW&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/8c9bdebd-f097-47fc-ba21-fe5ec199e80b</guid>
-      <pubDate>Fri, 01 Aug 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-9177303: Leading practice management of Fall armyworm in the Australian grains industry</title>
-      <link>https://www.tenders.gov.au/Advert/Show/96971ea7-0fab-4a01-ae45-d70fe657aac1</link>
-      <description>&lt;p&gt;Leading practice management of Fall armyworm in the Australian grains industry&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Advert/Show/96971ea7-0fab-4a01-ae45-d70fe657aac1</guid>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>EST02060-ECI HC_CB: EST02060-GIDP-Chowder Bay ECI HC - Notice of Potential Upcoming Procurement</title>
       <link>https://www.tenders.gov.au/Atm/Show/9d3217a2-d09d-475b-9a07-5d61deeabd98</link>
@@ -307,14 +286,6 @@
       <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>SPC-14400: Provision of AI Coding Assistant Tool</title>
-      <link>https://www.tenders.gov.au/Atm/Show/613a99d7-e3f7-4425-9718-14ef252e7d92</link>
-      <description>&lt;p&gt;The Australian Taxation Office (ATO) is planning to incorporate new and current technologies to help support the ATO developer experience, by integrating AI coding assistant tools into the development workflow.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The ATO is seeking to acquire an AI coding assistant tool to assist the ATO developers with more efficient code development to solve common programming issues which in turn gives developers more time to focus on higher value work, such as test case planning, security controls for application development and maintain current technologies for all developers.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/613a99d7-e3f7-4425-9718-14ef252e7d92</guid>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>EWPNOTICE 01/2025: Notice - Estate Works Program Defence Industry Update</title>
       <link>https://www.tenders.gov.au/Atm/Show/c0a087cf-70b1-4fca-9ccd-826c13f47b07</link>
       <description>&lt;p&gt;Notice - Estate Work Program - Industry information update published on Defence Internet&amp;nbsp;&lt;/p&gt;</description>
@@ -466,6 +437,14 @@
       <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>SPC-14400: Provision of AI Coding Assistant Tool</title>
+      <link>https://www.tenders.gov.au/Atm/Show/613a99d7-e3f7-4425-9718-14ef252e7d92</link>
+      <description>&lt;p&gt;The Australian Taxation Office (ATO) is planning to incorporate new and current technologies to help support the ATO developer experience, by integrating AI coding assistant tools into the development workflow.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The ATO is seeking to acquire an AI coding assistant tool to assist the ATO developers with more efficient code development to solve common programming issues which in turn gives developers more time to focus on higher value work, such as test case planning, security controls for application development and maintain current technologies for all developers.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/613a99d7-e3f7-4425-9718-14ef252e7d92</guid>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EST09942: HMAS Cerberus Building Refurbishments, VIC</title>
       <link>https://www.tenders.gov.au/Atm/Show/a144c6d4-4fee-462b-ab53-98d6be7a62f6</link>
       <description>&lt;p&gt;HMAS Cerberus Building Refurbishments, VIC&lt;/p&gt;</description>
@@ -573,11 +552,25 @@
       <pubDate>Thu, 31 Jul 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST10735: Tamworth GRES (General Reserves) Refurbishment and Upgrades, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1f4394a6-8576-4c3e-bfe1-d43606558469</link>
+      <description>&lt;p&gt;Tamworth GRES (General Reserves) Refurbishment and Upgrade Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1f4394a6-8576-4c3e-bfe1-d43606558469</guid>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>349a-2020-21-CU: Radar Modernisation Program - Confidentiality Undertaking</title>
       <link>https://www.tenders.gov.au/Atm/Show/58e88541-c772-42e4-8f9d-f0a47bc10210</link>
       <description>&lt;p&gt;The Bureau of Meteorology (the Bureau) is seeking to procure the Radar Solution, which comprises several categories of radars to replace, upgrade or enhance its current fleet and the provision of other associated services.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/58e88541-c772-42e4-8f9d-f0a47bc10210</guid>
       <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10732: Defence Science Technology Group Edinburgh Building Refurbishment, SA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/91898d02-33a5-476a-9d86-eb7354df2816</link>
+      <description>&lt;p&gt;Defence Science Technology Group Edinburgh Building Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/91898d02-33a5-476a-9d86-eb7354df2816</guid>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CSIRORFT2025026: IT Infrastructure Hardware, Software and Services eProcurement Portal</title>
@@ -599,6 +592,13 @@
       <description>&lt;p&gt;Notice&lt;strong&gt; &lt;/strong&gt;for the Whole of Australian Government - Campaign Evaluation Services Arrangement&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/783330e0-834b-4ff5-b4a0-dad62843abd7</guid>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09299: Palmer Barracks Buildings &amp; Civil Works, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e872f219-3b0a-4902-9698-047ca2dc8acb</link>
+      <description>&lt;p&gt;Palmer Barracks Buildings &amp;amp; Civil Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e872f219-3b0a-4902-9698-047ca2dc8acb</guid>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>HOMEAFFAIRS/2185/RFT: Community Refugee Integration and Settlement Program</title>
@@ -623,6 +623,13 @@
       <description>&lt;p&gt;Request for Proposal for the Australian Defence Contracted Health System&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/3683550e-e656-47ab-a630-eca1e3c6f712</guid>
       <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1074: Pacific Lead Economist</title>
+      <link>https://www.tenders.gov.au/Atm/Show/6c3aae79-a849-4799-9656-07025cd94f65</link>
+      <description>&lt;p&gt;The Pacific Lead Economist is an important role providing expert advice on broad economic issues in the Pacific Region.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/6c3aae79-a849-4799-9656-07025cd94f65</guid>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177308: Biosecurity preparedness for Wheat Blast - Identifying new genetic solutions and bolstering Australian expertise</title>
