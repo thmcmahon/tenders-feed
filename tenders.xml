@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 10 Sep 2025 17:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 17:35:03 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>AARC-ARS-03-2025: Intention to Register - Army Research Scheme-Research Network</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b092e14c-004e-4e21-af57-540f78409de5</link>
-      <description>&lt;p&gt;ITR-AARC-Research Network&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b092e14c-004e-4e21-af57-540f78409de5</guid>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>NDIA PROC 6195: Specialist Disability Supports- Assessments</title>
       <link>https://www.tenders.gov.au/Atm/Show/4f64c73d-ecaa-46b9-9dbd-a817a7e9fea8</link>
@@ -216,13 +209,6 @@
       <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EST09942: HMAS Cerberus Building Refurbishments, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/a144c6d4-4fee-462b-ab53-98d6be7a62f6</link>
-      <description>&lt;p&gt;HMAS Cerberus Building Refurbishments, VIC&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/a144c6d4-4fee-462b-ab53-98d6be7a62f6</guid>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>LC4 IS and T Summit: LC4 IS&amp;T Summit 2025</title>
       <link>https://www.tenders.gov.au/Atm/Show/f645e813-5969-47fa-a58d-0bb4abd00d4a</link>
       <description>&lt;p&gt;LC4 IS&amp;amp;T Summit 02-03 October 2025&lt;/p&gt;</description>
@@ -344,6 +330,13 @@
       <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DPS26000096: Graduate Assessment Centre Software</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3ea1fa8c-8944-45e8-82ef-863102e00166</link>
+      <description>&lt;p&gt;The Department of Parliamentary Services (DPS) requires virtual interview software to allow a virtual assessment center process. This software will be used to assess a wide range of prospective candidates, and the assessment will involve multiple stages (Individual Panel Interview, Written Activity and Group Activity)&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3ea1fa8c-8944-45e8-82ef-863102e00166</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>349a-2020-21-CU: Radar Modernisation Program - Confidentiality Undertaking</title>
       <link>https://www.tenders.gov.au/Atm/Show/58e88541-c772-42e4-8f9d-f0a47bc10210</link>
       <description>&lt;p&gt;The Bureau of Meteorology (the Bureau) is seeking to procure the Radar Solution, which comprises several categories of radars to replace, upgrade or enhance its current fleet and the provision of other associated services.&lt;/p&gt;</description>
@@ -449,6 +442,13 @@
       <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST09942: HMAS Cerberus Building Refurbishments, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a144c6d4-4fee-462b-ab53-98d6be7a62f6</link>
+      <description>&lt;p&gt;HMAS Cerberus Building Refurbishments, VIC&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a144c6d4-4fee-462b-ab53-98d6be7a62f6</guid>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>FIN-25-Metering-RFT: Electricity Metering Services Arrangement</title>
       <link>https://www.tenders.gov.au/Atm/Show/4aa5f1e6-a88e-4910-8aba-14e490ce5a02</link>
       <description>&lt;p&gt;Electricity Metering Services Arrangement&lt;/p&gt;</description>
@@ -498,6 +498,13 @@
       <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DFAT-1058: Timor-Leste Partnership for Human Development (Phase 2)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d177d78a-6d61-4f6c-bc73-1b7c9209c4e2</link>
+      <description>&lt;p&gt;Timor-Leste Partnership for Human Development (Phase 2)&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d177d78a-6d61-4f6c-bc73-1b7c9209c4e2</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>AZ6592-1: ESTJ2092PH1 (JP2092PH1) Guided Weapons Explosive Ordnance Enterprise Program - DSC Invitation to Register</title>
       <link>https://www.tenders.gov.au/Atm/Show/032ed461-812c-4df1-8635-165435f2d6b5</link>
       <description>&lt;p&gt;Guided Weapons Explosive Ordnance Enterprise (Program of Works) (PoW) – Design Services Contract (DSC) – Invitation to Register Interest (ITR)&lt;/p&gt;
@@ -522,11 +529,25 @@
       <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PROC-9177321: GRDC NGN Grower Network - Coordination and administration services for the Western Region</title>
+      <link>https://www.tenders.gov.au/Advert/Show/1ccc5420-c2ca-44bc-b225-b94d8fab084c</link>
+      <description>&lt;p&gt;The delivery of efficient and impactful NGN forums by Grower Relations Managers (GRMs) has been enabled by the engagement of service providers to provide administrative and organisational support in each region. The service providers have access to a team of staff to undertake key activities at peak times, bring a broad network of growers, grower groups, advisers and agronomists. These service agreements are ending in 2025, and this investment proposal is designed to provide flexible engagements (GRDC NGN and industry events) with a coordinated and regionally nuanced approach over the next two years.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/1ccc5420-c2ca-44bc-b225-b94d8fab084c</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Health/E24-47488: Provision of Cyber Security Services for the Department of Health, Disability and Ageing.</title>
       <link>https://www.tenders.gov.au/Atm/Show/5c3d998d-6938-4aad-95b4-733354caf24b</link>
       <description>&lt;p&gt;The Department of Health, Disability and Ageing is seeking to engage a qualified and experienced Cyber Security Partner to deliver specialised services within a complex multi-vendor ICT environment. Core responsibilities will include managing Security Operations Centre (SOC) functions, leading incident response activities, and administering SIEM, SOAR, and vulnerability management platforms.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/5c3d998d-6938-4aad-95b4-733354caf24b</guid>
       <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08351: HMAS Albatross Accommodation Building Works, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a871aa17-6290-4fb4-8b58-342e7246d84b</link>
+      <description>&lt;p&gt;HMAS Albatross Accommodation Building Works, NSW&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a871aa17-6290-4fb4-8b58-342e7246d84b</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2025_4736: To establish Contract for Revision of mercury in freshwater and marine water default guidelines values (DGVs)</title>
@@ -543,6 +564,13 @@
       <pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST07484: RAAF Edinburgh Building Refurbishment, SA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a0b65000-3b64-444c-a3ba-0695a6e4e25b</link>
+      <description>&lt;p&gt;RAAF Edinburgh Building Refurbishment, SA&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a0b65000-3b64-444c-a3ba-0695a6e4e25b</guid>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM_2024_3275: NatHERS for existing homes - Assessor Accreditation Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/9ce8f3ba-d531-419b-929d-6275e213b11c</link>
       <description>&lt;p&gt;Seeking to engage one or more organisations to provide assessor accreditation services for the expansion of the Nationwide House Energy Rating Scheme (NatHERS) to existing homes. The organisation will need to accredit and manage the ongoing accreditation of energy assessors, on behalf of the NatHERS Administrator and in accordance with standards and procedures established by the NatHERS Administrator.&lt;/p&gt;</description>
@@ -555,13 +583,6 @@
       <description>&lt;p&gt;&lt;a&gt;&lt;/a&gt;Long (winter) fallowing can be either strategic or tactical. In strategic fallowing the decision to fallow is made in advance and implemented regularly to manage climate risk. In tactical fallowing the decision to fallow is more reactive, based on the evolving season and can be related to seasonal risk mitigation or temporal changes in weed and disease burdens. Although many growers are implementing a (winter) fallow in their farming systems, a large number remain uncertain and are seeking scientifically backed advice on several aspects of fallowing. Recent National Grower Network (NGN) investments from GRDC have provided some insights into the costs and benefits of fallowing. But there are complexities affecting the decision to fallow and knowledge gaps on fallowing were still a priority issue raised at several NGN forums in the LRZ of Western Australia. This investment aims to provide growers with technical guidelines that provide actionable insights for considering strategic and/or tactical fallowing approaches.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/fce9ce5a-6b6b-4e73-a612-52438c8fdba6</guid>
       <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Land4140S3CCISTS: Land4140 Submission 3 Capability Challenge</title>
-      <link>https://www.tenders.gov.au/Atm/Show/7b8034ce-ddfc-4e93-9b0f-3a27b99ea9b4</link>
-      <description>&lt;p&gt;The LC4 Program is seeking industry proposals for innovative, interoperable, and scalable solutions to enhance network&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/7b8034ce-ddfc-4e93-9b0f-3a27b99ea9b4</guid>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177330: Innovative management solutions to enhance crop productivity in heavy soils in the Southern Region</title>
