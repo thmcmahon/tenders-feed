@@ -4,43 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Sun, 12 Oct 2025 16:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 16:35:01 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DFAT-1074: Pacific Lead Economist</title>
-      <link>https://www.tenders.gov.au/Atm/Show/6c3aae79-a849-4799-9656-07025cd94f65</link>
-      <description>&lt;p&gt;The Pacific Lead Economist is an important role providing expert advice on broad economic issues in the Pacific Region.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/6c3aae79-a849-4799-9656-07025cd94f65</guid>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST10735: Tamworth GRES (General Reserves) Refurbishment and Upgrades, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/1f4394a6-8576-4c3e-bfe1-d43606558469</link>
-      <description>&lt;p&gt;Tamworth GRES (General Reserves) Refurbishment and Upgrade Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/1f4394a6-8576-4c3e-bfe1-d43606558469</guid>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-9177321: GRDC NGN Grower Network - Coordination and administration services for the Western Region</title>
-      <link>https://www.tenders.gov.au/Advert/Show/1ccc5420-c2ca-44bc-b225-b94d8fab084c</link>
-      <description>&lt;p&gt;The delivery of efficient and impactful NGN forums by Grower Relations Managers (GRMs) has been enabled by the engagement of service providers to provide administrative and organisational support in each region. The service providers have access to a team of staff to undertake key activities at peak times, bring a broad network of growers, grower groups, advisers and agronomists. These service agreements are ending in 2025, and this investment proposal is designed to provide flexible engagements (GRDC NGN and industry events) with a coordinated and regionally nuanced approach over the next two years.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Advert/Show/1ccc5420-c2ca-44bc-b225-b94d8fab084c</guid>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Health/E24-47488: Provision of Cyber Security Services for the Department of Health, Disability and Ageing.</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5c3d998d-6938-4aad-95b4-733354caf24b</link>
-      <description>&lt;p&gt;The Department of Health, Disability and Ageing is seeking to engage a qualified and experienced Cyber Security Partner to deliver specialised services within a complex multi-vendor ICT environment. Core responsibilities will include managing Security Operations Centre (SOC) functions, leading incident response activities, and administering SIEM, SOAR, and vulnerability management platforms.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5c3d998d-6938-4aad-95b4-733354caf24b</guid>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT- 23/1384/24 -OT: Enterprise System Integration and Managed Service Provider Panel</title>
-      <link>https://www.tenders.gov.au/Atm/Show/d1034516-8653-4235-bf36-80e57ed705cb</link>
-      <description>&lt;p&gt;Enterprise System Integration and Managed Service Provider Panel&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/d1034516-8653-4235-bf36-80e57ed705cb</guid>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>EST10732: Defence Science Technology Group Edinburgh Building Refurbishment, SA</title>
       <link>https://www.tenders.gov.au/Atm/Show/91898d02-33a5-476a-9d86-eb7354df2816</link>
@@ -103,13 +68,6 @@
       <description>&lt;p&gt;Wellbeing Services for FCFCOA&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/689a49fd-f480-4ba6-9125-6f7664341fb6</guid>
       <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST08644: HMAS Stirling Training Centre Refurbishments, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</link>
-      <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GA2025/2656: Boodjamulla-Croydon seismic data processing</title>
@@ -538,6 +496,20 @@
       <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DTA-ICT-74060: Cloud Marketplace Refresh</title>
+      <link>https://www.tenders.gov.au/Atm/Show/24714bb0-ae71-47c6-9a0b-2682b79b67a9</link>
+      <description>&lt;p&gt;We are undertaking a refresh of the Cloud Marketplace to allow for potential suppliers that wish to provide Offerings that meet the requirements specified in this Application Process to apply to become a Seller under the Cloud Marketplace. This Application Process allows Applicants (You) to apply to supply Offerings within the scope of Cloud Services and Cloud Consulting. Cloud Services Category includes ICT functionality (‘as a service’) services available aligned with the classification, characteristics and deployment models of ISO/IEC 17788. Cloud Consulting includes cloud computing related professional services through subject matter experts to assist on Cloud initiatives with the skills and capabilities aligned to levels 3-7 of the Skills for the Information Age (SFIA) framework.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/24714bb0-ae71-47c6-9a0b-2682b79b67a9</guid>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DTA-RFT-61588: Digital Marketplace Panel 2, Software and Cloud – Notice of public consultation</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e402aaea-5813-4416-a8e8-4d53df8b5436</link>
+      <description>&lt;p&gt;An invitation to engage in public consultation on the draft terms for Software and Cloud under the Digital Marketplace Panel 2 has been released on BuyICT.gov.au&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e402aaea-5813-4416-a8e8-4d53df8b5436</guid>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ESE25/8988: Request for Tender in relation to data services for the Programme for the International Assessment of Adult Competencies</title>
       <link>https://www.tenders.gov.au/Atm/Show/d9b69f14-627f-4f40-8d99-d617af780f4f</link>
       <description>&lt;p&gt;Programme for the International Assessment of Adult Competencies (PIAAC)&lt;/p&gt;</description>
@@ -567,6 +539,13 @@
       <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>RFT 05-2026: Supply of Northern Command Headquarters facility</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d72aa4be-78bb-490b-921c-903948524e80</link>
+      <description>&lt;p&gt;The purpose of this RFT is to invite potential suppliers to submit their responses for the supply of the Northern Command Headquarters facilities.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d72aa4be-78bb-490b-921c-903948524e80</guid>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>H25/716/02-OT: Health Insurance brokerage Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/6ae647c9-10b1-4df5-8d8b-03d32b30a30b</link>
       <description>&lt;p&gt;Reserve Bank of Australia (the Bank) invites Proposals for the provision of health insurance brokerage services for the Australian employees and their families working overseas, in accordance with the terms and conditions of this Request for Proposal (RFP).&lt;/p&gt;</description>
@@ -579,6 +558,13 @@
       <description>&lt;p&gt;Talent and Learning Management System&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/9e87f274-3cc0-4d0c-846e-0d1594c9a017</guid>
       <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Health RF/PH25/13765: Request for Information for the National One Stop Shop ICT Solution for Health and Medical Research</title>
+      <link>https://www.tenders.gov.au/Atm/Show/43020567-117a-46b6-8d90-bef7acc075cf</link>
+      <description>&lt;p&gt;National One Stop Shop for health and medical research&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/43020567-117a-46b6-8d90-bef7acc075cf</guid>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2025_4897: Development of a Climate Change Explanatory Note and Summary</title>
@@ -600,6 +586,13 @@
       <description>&lt;p&gt;This investment is designed to deliver a national program of harvester set up workshops, assisting growers to optimise losses and machinery throughput, alongside targeted research to build capacity in the industry.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/8eba60ba-a2e9-4316-a90f-cfe6f8fcafc4</guid>
       <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08644: HMAS Stirling Training Centre Refurbishments, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</link>
+      <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CFI-20251118: Defence Estate Capital and Sustainment Works Program Industry Briefing Notice</title>
@@ -635,6 +628,13 @@
       <description>&lt;p&gt;&lt;em&gt;National Project Manager (NPM) services for Australia’s involvement in the Programme for International Student Assessment (PISA) 2029&lt;/em&gt;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/fe4dbed5-c974-49ef-85fe-036efd860f1d</guid>
       <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1050: DEV+ Panel</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7aa7e5d1-6b12-4db0-b30f-f4dc0da8a6e4</link>
+      <description>&lt;p&gt;DEV+ Panel&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7aa7e5d1-6b12-4db0-b30f-f4dc0da8a6e4</guid>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ESE25/7363: WHS auditing services to deliver the Federal Safety Commissioner's WHS Accreditation Scheme</title>
