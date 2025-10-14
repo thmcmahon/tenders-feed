@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 13 Oct 2025 16:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 16:35:08 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>EST10732: Defence Science Technology Group Edinburgh Building Refurbishment, SA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/91898d02-33a5-476a-9d86-eb7354df2816</link>
-      <description>&lt;p&gt;Defence Science Technology Group Edinburgh Building Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/91898d02-33a5-476a-9d86-eb7354df2816</guid>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>ATM_2025_4736: To establish Contract for Revision of mercury in freshwater and marine water default guidelines values (DGVs)</title>
       <link>https://www.tenders.gov.au/Atm/Show/97858b1f-a173-4c08-ad64-563d7100369a</link>
@@ -42,25 +35,11 @@
       <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EST09335: Port Wakefield General Building &amp; Road Works, SA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/52fcc784-025e-4da2-8ed9-a89dc9e02dc0</link>
-      <description>&lt;p&gt;Port Wakefield General Building &amp;amp; Road Works, SA&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/52fcc784-025e-4da2-8ed9-a89dc9e02dc0</guid>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>PIN_2025_0243: Solar Battery Testing</title>
       <link>https://www.tenders.gov.au/Atm/Show/e575a2dc-a2f5-481e-ba0a-333e3214f74b</link>
       <description>&lt;p&gt;Solar battery testing program under the Small-scale Renewable Energy Scheme&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e575a2dc-a2f5-481e-ba0a-333e3214f74b</guid>
       <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Health/PH25/13765: Approach to Market for the National One Stop Shop ICT Solution for Health and Medical Research</title>
-      <link>https://www.tenders.gov.au/Atm/Show/15c8b925-3082-4bfc-b7e0-e33761a0ad48</link>
-      <description>&lt;p&gt;The Department of Health, Disability and Ageing intends to approach the market for a National One Stop Shop ICT Solution for Health and Medical Research.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/15c8b925-3082-4bfc-b7e0-e33761a0ad48</guid>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFT-2026-0031: Wellbeing Services for FCFCOA</title>
@@ -206,6 +185,13 @@
       <description>&lt;p&gt;Cleaning Services - Clayton (VIC)&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/3c0ccff9-c7df-4049-bfed-750129f4cc0d</guid>
       <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09335: Port Wakefield General Building &amp; Road Works, SA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/52fcc784-025e-4da2-8ed9-a89dc9e02dc0</link>
+      <description>&lt;p&gt;Port Wakefield General Building &amp;amp; Road Works, SA&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/52fcc784-025e-4da2-8ed9-a89dc9e02dc0</guid>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2024_3275: NatHERS for existing homes - Assessor Accreditation Services</title>
@@ -510,11 +496,25 @@
       <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>AFMA25-26-1: Request for Tender to establish a Panel Arrangement for the supply of Electronic Monitoring equipment on fishing vessels</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3a3d1c11-a481-4764-9444-afe9943937c9</link>
+      <description>&lt;p&gt;Establish a Panel Arrangement with EM Providers for fisheries electronic monitoring equipment and associated services under a standards-based model.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3a3d1c11-a481-4764-9444-afe9943937c9</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ESE25/8988: Request for Tender in relation to data services for the Programme for the International Assessment of Adult Competencies</title>
       <link>https://www.tenders.gov.au/Atm/Show/d9b69f14-627f-4f40-8d99-d617af780f4f</link>
       <description>&lt;p&gt;Programme for the International Assessment of Adult Competencies (PIAAC)&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/d9b69f14-627f-4f40-8d99-d617af780f4f</guid>
       <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10712: Royal Military College Duntroon Building Refurbishment Works, ACT</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5644c1b1-b601-4932-b59b-390aab6f418a</link>
+      <description>&lt;p&gt;Royal Military College Duntroon Building Refurbishment Works, ACT&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5644c1b1-b601-4932-b59b-390aab6f418a</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST08234: HMAS Stirling Building Works, WA</title>
@@ -532,11 +532,25 @@
       <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ATM 2025 2172: To establish Contract for Procurement of the Thermogravimetric Analyser</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1992f264-2a11-4760-b3ee-3b074ccd8beb</link>
+      <description>&lt;p&gt;The Chemical Reference Materials section of the National Measurement Institute’s Chemical and Biological Branch requires a thermogravimetric analyser to identify thermal stability, composition, and decomposition patterns.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1992f264-2a11-4760-b3ee-3b074ccd8beb</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>NOTICE DHA-86210: NOTICE OF INTENDED PROCUREMENT - SUPPLIER EOI FOR DWELLING RELOCATION IN TOWNSVILLE, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/20b0de38-02f1-4adb-9ccd-fae2d6e6779a</link>
       <description>&lt;p&gt;Defence Housing Australia (DHA) is issuing this Notice of Intended Procurement (NOIP) for our upcoming Townsville - QLD Aitkenvale Dwelling Relocation Expression of Interest (EOI).&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/20b0de38-02f1-4adb-9ccd-fae2d6e6779a</guid>
       <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>10018700: Managed Print Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/8847e973-6e0d-43be-8273-c6b3e8c0becc</link>
+      <description>&lt;p&gt;Document reproduction services - managed print services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/8847e973-6e0d-43be-8273-c6b3e8c0becc</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFT 05-2026: Supply of Northern Command Headquarters facility</title>
@@ -551,6 +565,13 @@
       <description>&lt;p&gt;Reserve Bank of Australia (the Bank) invites Proposals for the provision of health insurance brokerage services for the Australian employees and their families working overseas, in accordance with the terms and conditions of this Request for Proposal (RFP).&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/6ae647c9-10b1-4df5-8d8b-03d32b30a30b</guid>
       <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>11692: Plumbing and septic pump out services at Booderee National Park</title>
+      <link>https://www.tenders.gov.au/Atm/Show/291dff00-8be5-4e77-9090-4444ee767197</link>
+      <description>&lt;p&gt;&lt;span&gt;Request for Tender to establish a Deed of Standing Offer for plumbing and septic pump out services at Booderee National Park.&lt;/span&gt;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/291dff00-8be5-4e77-9090-4444ee767197</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-5667: Request for Tender for the provision of a Talent and Learning Management System</title>
@@ -593,6 +614,13 @@
       <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
       <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antarctic ATM25/1727: Tracked trailers fitted with sideloaders</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b34ac2ae-5cbc-4655-adcd-6a9720376875</link>
+      <description>&lt;p&gt;Provision of two (2) sideloading tracked trailers to the Australian Antarctic Division&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b34ac2ae-5cbc-4655-adcd-6a9720376875</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CFI-20251118: Defence Estate Capital and Sustainment Works Program Industry Briefing Notice</title>
