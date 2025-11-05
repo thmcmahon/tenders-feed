@@ -4,30 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 04 Nov 2025 16:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 16:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>ATM_2025_5410: Addressing information gaps on little penguins to support offshore wind</title>
-      <link>https://www.tenders.gov.au/Atm/Show/62f44882-05e7-4e9d-9f35-628fd10eae67</link>
-      <description>&lt;p&gt;This project seeks to generate targeted information to support decision-making by assessment officers and project proponents under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act).&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The research will investigate risks and potential impact pathways to little penguins (Eudyptula minor) arising from offshore wind farms and associated port developments in Australia. The findings will inform effective mitigation and management strategies, enabling regulators and industry to assess renewable energy projects under the EPBC Act with greater speed and scientific rigour. For further details, refer to the associated ATM documentation.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/62f44882-05e7-4e9d-9f35-628fd10eae67</guid>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SHFT24022: CI Barging Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/6d0bc8b0-b661-45d2-be90-034405163789</link>
-      <description>&lt;p&gt;Barging Services (Cockatoo Island)&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/6d0bc8b0-b661-45d2-be90-034405163789</guid>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ATM 2025 2336: Procurement for Cross Divisional Financial and Market Data Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b95dc6aa-e87b-4024-9bb4-55c1f4ea869f</link>
-      <description>&lt;p&gt;DISR requires access to comprehensive, reliable, and real-time financial and market data services to support its policy, research and analytical functions. We seek a data service that provides access to high-quality, real time and historical datasets, analysis and analytical tools to enable evidence-based decision making through an informed understanding of: • domestic and international markets across a range of business entities • economic conditions in Australian industries, including to assess whether the Australian market is, or may experience, injury because of anti-competitive behaviour • the international competitiveness of Australia’s resources and heavy industry sectors in the context of a decarbonising world economy • emerging industry risks. The data service must be delivered through either a desktop browser, a secure online platform, terminal access across multiple locations and/or an API with sufficient functionality to meet the needs of geographically dispersed officers within DISR.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b95dc6aa-e87b-4024-9bb4-55c1f4ea869f</guid>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>SPC-15936: Supply of Legal Document Management Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/7a31be2b-1d91-4cce-a513-6599a8628c60</link>
@@ -88,20 +66,6 @@
       <description>&lt;p&gt;An invitation to engage in public consultation on the draft terms for Software and Cloud under the Digital Marketplace Panel 2 has been released on BuyICT.gov.au&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e402aaea-5813-4416-a8e8-4d53df8b5436</guid>
       <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AFMA25-26-1: Request for Tender to establish a Panel Arrangement for the supply of Electronic Monitoring equipment on fishing vessels</title>
-      <link>https://www.tenders.gov.au/Atm/Show/3a3d1c11-a481-4764-9444-afe9943937c9</link>
-      <description>&lt;p&gt;Establish a Panel Arrangement with EM Providers for fisheries electronic monitoring equipment and associated services under a standards-based model.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/3a3d1c11-a481-4764-9444-afe9943937c9</guid>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST10712: Royal Military College Duntroon Building Refurbishment Works, ACT</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5644c1b1-b601-4932-b59b-390aab6f418a</link>
-      <description>&lt;p&gt;Royal Military College Duntroon Building Refurbishment Works, ACT&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5644c1b1-b601-4932-b59b-390aab6f418a</guid>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST08234: HMAS Stirling Building Works, WA</title>
@@ -176,6 +140,13 @@
       <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST10712: Royal Military College Duntroon Building Refurbishment Works, ACT</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5644c1b1-b601-4932-b59b-390aab6f418a</link>
+      <description>&lt;p&gt;Royal Military College Duntroon Building Refurbishment Works, ACT&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5644c1b1-b601-4932-b59b-390aab6f418a</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DHA-PROC26/75: Expression of Interest - Dwelling Relocation in Townsville,QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/a37f3066-45fa-400d-bc9c-b99573ed820f</link>
       <description>&lt;p&gt;Defence Housing Australia (DHA) is seeking expressions of interest (EOI) for the purchase and relocation of 68 existing dwellings located in Aitkenvale, Townsville, QLD. The vacant dwellings are required to be removed from the site as part of a planned redevelopment program.&lt;/p&gt;
@@ -248,6 +219,13 @@
       <description>&lt;p&gt;This investment is designed to deliver a national program of harvester set up workshops, assisting growers to optimise losses and machinery throughput, alongside targeted research to build capacity in the industry.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/8eba60ba-a2e9-4316-a90f-cfe6f8fcafc4</guid>
       <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AFMA25-26-1: Request for Tender to establish a Panel Arrangement for the supply of Electronic Monitoring equipment on fishing vessels</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3a3d1c11-a481-4764-9444-afe9943937c9</link>
+      <description>&lt;p&gt;Establish a Panel Arrangement with EM Providers for fisheries electronic monitoring equipment and associated services under a standards-based model.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3a3d1c11-a481-4764-9444-afe9943937c9</guid>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>70745: LNIC Industry Day</title>
@@ -376,13 +354,6 @@
       <description>&lt;p&gt;Singleton Range Infrastructure Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/b1bac4e4-a69b-4d80-8917-40d4f8ba907e</guid>
       <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST09254-1: Woomera Building Refurbishment, SA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</link>
-      <description>&lt;p&gt;Woomera Building Refurbishment&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</guid>
-      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>OOSGG 2025 Heritage: OOSGG 2025 Heritage Requirements</title>
@@ -518,6 +489,13 @@
       <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>SS-19/2031/09-OT: Procurement &amp; Contract Management Solution</title>
+      <link>https://www.tenders.gov.au/Atm/Show/8f171d0d-06ff-4fb3-9fe0-c677cb73e81e</link>
+      <description>&lt;p&gt;Procurement &amp;amp; Contract Management Solution&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/8f171d0d-06ff-4fb3-9fe0-c677cb73e81e</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EST10831: Australian Air Force Cadets Facilities Refurbishments, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/6102c16c-da2a-4757-b21e-d280e2eac7ee</link>
       <description>&lt;p&gt;Australian Air Force Cadets Facilities Refurbishment Works&lt;/p&gt;</description>
@@ -615,6 +593,13 @@
       <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST09924: HMAS Watson Mess Refurbishment, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</link>
+      <description>&lt;p&gt;HMAS Watson Mess Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Health/PH25/14904: National Immunisation Program – Technical, Research and Essential Program Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/505537ec-fe29-4ef5-85b6-cc43cfa312f0</link>
       <description>&lt;p&gt;&lt;span&gt;The Department of Health, Disability and Ageing requires technical, research and essential program services for the National Immunisation Program (NIP).&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</description>
@@ -641,6 +626,20 @@
       <description>&lt;p&gt;Procuring Nematodes (a microscopic non segmented worm required for scarab control in turf) at Australian Parliament House (APH)&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/2eb89e18-d779-4365-b5e2-9a22ae7f91d0</guid>
       <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LCD-25-0089: Low Cost Massed Fires (LCMF)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/9da7bbdb-c3f3-417d-9a5e-877fe37334ca</link>
+      <description>&lt;p&gt;An ATM to identify potential LCMF product solutions to enhance the Land fires system&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/9da7bbdb-c3f3-417d-9a5e-877fe37334ca</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-9177365: Independent review of Septoria tritici blotch in wheat program of investments and future RDE directions</title>
+      <link>https://www.tenders.gov.au/Advert/Show/1151bcab-a8d4-4032-b0c4-662bc52f70fb</link>
+      <description>&lt;p&gt;Independent review of Septoria tritici blotch in wheat program of investments and future RDE directions&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/1151bcab-a8d4-4032-b0c4-662bc52f70fb</guid>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DFAT-1073: Australia Awards Cambodia</title>
@@ -699,6 +698,13 @@
       <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST09254-1: Woomera Building Refurbishment, SA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</link>
+      <description>&lt;p&gt;Woomera Building Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</guid>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>MGF_17: Supply of Medical Grade Footwear to eligible persons</title>
       <link>https://www.tenders.gov.au/Atm/Show/4cbec586-e15c-3822-fba2-aab168b6d4a5</link>
       <description>&lt;p&gt;NOTE: existing suppliers need not reapply&lt;/p&gt;
@@ -727,6 +733,13 @@
       <description>&lt;p&gt;Department of Veterans' Affairs invites interested suppliers of Community Nursing Services to apply to provide these services from 1 July 2016.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/ed5d2e52-a2d6-b2ff-b6be-57bd37f2c8e4</guid>
       <pubDate>Wed, 16 Mar 2016 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASD-COM-2025-83-IRAP: ASD IRAP Assessor Market Availability</title>
+      <link>https://www.tenders.gov.au/Atm/Show/16eb2e32-157d-41bc-b3c8-acc49c861be5</link>
+      <description>&lt;p&gt;&amp;nbsp;Request For Information (RFI) - &lt;strong&gt;&lt;em&gt;ASD IRAP Assessor Market Availability.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/16eb2e32-157d-41bc-b3c8-acc49c861be5</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
