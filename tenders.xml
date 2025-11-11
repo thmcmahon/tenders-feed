@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 10 Nov 2025 16:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 16:35:07 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>H25/716/02-OT: Health Insurance brokerage Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/6ae647c9-10b1-4df5-8d8b-03d32b30a30b</link>
-      <description>&lt;p&gt;Reserve Bank of Australia (the Bank) invites Proposals for the provision of health insurance brokerage services for the Australian employees and their families working overseas, in accordance with the terms and conditions of this Request for Proposal (RFP).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/6ae647c9-10b1-4df5-8d8b-03d32b30a30b</guid>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-5667: Request for Tender for the provision of a Talent and Learning Management System</title>
-      <link>https://www.tenders.gov.au/Atm/Show/9e87f274-3cc0-4d0c-846e-0d1594c9a017</link>
-      <description>&lt;p&gt;Talent and Learning Management System&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/9e87f274-3cc0-4d0c-846e-0d1594c9a017</guid>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>ESE25/8988: Request for Tender in relation to data services for the Programme for the International Assessment of Adult Competencies</title>
       <link>https://www.tenders.gov.au/Atm/Show/d9b69f14-627f-4f40-8d99-d617af780f4f</link>
@@ -113,13 +99,6 @@
       <description>&lt;p&gt;LNIC seeks to update Industry on the latest Strategy and Engagement Approach for 2026&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/247c6ccf-0012-4af7-82b7-8e7ecfd570d6</guid>
       <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST08644: HMAS Stirling Training Centre Refurbishments, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</link>
-      <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DFAT-1080: Basic Education Independent Strategic Advisory Team (ISAT)</title>
@@ -461,6 +440,14 @@
       <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>10018743: AGS AI for Legal Research</title>
+      <link>https://www.tenders.gov.au/Atm/Show/9b6bcf9d-fda6-4313-8c6e-9a82ae02950f</link>
+      <description>&lt;p&gt;The Australian Government Solicitor (AGS) is seeking information from vendors about AI tools that may supplement AGS’s existing&amp;nbsp;available research and legal tools, and provide&amp;nbsp;opportunities to improve productivity across&amp;nbsp;legal practice workflows.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/9b6bcf9d-fda6-4313-8c6e-9a82ae02950f</guid>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ESE25/10020: Positive Partnerships Program Phase 5</title>
       <link>https://www.tenders.gov.au/Atm/Show/8181dc6c-bceb-4c67-8c73-0868c78fef88</link>
       <description>&lt;p&gt;To engage the servicesof a suitably qualified, capable and experiencedSupplier to deliver Phase 5 the Positive Partnerships program.&lt;/p&gt;</description>
@@ -523,6 +510,20 @@
       <description>&lt;p&gt;HMAS Watson Mess Refurbishment&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</guid>
       <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08644: HMAS Stirling Training Centre Refurbishments, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</link>
+      <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>10031834: NSW Level 1 ASP to replace a power pole in Badgerys Creek</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3ad0522d-3f16-477d-8c4b-9e87574ae80b</link>
+      <description>&lt;p&gt;The Australian Government is seeking a NSW Level 1 Accredited Service Provider (ASP) for construction services to replace a power pole intruding the Obstacle Limitation Surface (OLS) for Western Sydney (Nancy-Bird Walton) International Airport (WSI).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3ad0522d-3f16-477d-8c4b-9e87574ae80b</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Health/PH25/14904: National Immunisation Program – Technical, Research and Essential Program Services</title>
@@ -630,6 +631,13 @@
       <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST10828: RAAF East Sale Base Refurbishment, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</link>
+      <description>&lt;p&gt;RAAF East Sale Base Refurbishment works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>LSD/RFT/61684/1: RFT to establish Standing Offer for Supply and Maintenance of Portable Fire Extinguishers</title>
       <link>https://www.tenders.gov.au/Atm/Show/0cf63362-6012-41ab-844e-49187189d749</link>
       <description>&lt;p&gt;RFT to establish Standing Offer for Supply and Maintenance of Portable Fire Extinguishers&lt;/p&gt;</description>
@@ -656,6 +664,13 @@
       <description>&lt;p&gt;Woomera Building Refurbishment&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</guid>
       <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10690: RAAF Townsville Roof Replacement Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7c4e02a3-4fc1-4bc8-932e-8a03d34e2ff3</link>
+      <description>&lt;p&gt;RAAF Townsville Roof Replacement Works, QLD&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7c4e02a3-4fc1-4bc8-932e-8a03d34e2ff3</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>70476: Academic Publishing - Army History Series</title>
