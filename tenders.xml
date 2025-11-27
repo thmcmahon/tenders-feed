@@ -4,30 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 26 Nov 2025 16:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 16:35:01 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DFAT-1050: DEV+ Panel</title>
-      <link>https://www.tenders.gov.au/Atm/Show/7aa7e5d1-6b12-4db0-b30f-f4dc0da8a6e4</link>
-      <description>&lt;p&gt;DEV+ Panel&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/7aa7e5d1-6b12-4db0-b30f-f4dc0da8a6e4</guid>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>A25/26: Wayfinding Signage Implementation - Stages 3, 4 and 5</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ba6cb71c-970f-4f16-b822-8aa0fb4e74e9</link>
-      <description>&lt;p&gt;Graphic design, site-specific location design and documentation, fabrication and installation of 23 new signs&amp;nbsp; on the National Estate over 3 consecutive financial years.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ba6cb71c-970f-4f16-b822-8aa0fb4e74e9</guid>
-      <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DHA-PROC26/75: Expression of Interest - Dwelling Relocation in Townsville,QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/a37f3066-45fa-400d-bc9c-b99573ed820f</link>
-      <description>&lt;p&gt;Defence Housing Australia (DHA) is seeking expressions of interest (EOI) for the purchase and relocation of 68 existing dwellings located in Aitkenvale, Townsville, QLD. The vacant dwellings are required to be removed from the site as part of a planned redevelopment program.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/a37f3066-45fa-400d-bc9c-b99573ed820f</guid>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>AII-AIMEP-2501: Provision of the Australia-Indonesia Muslim Exchange Program (AIMEP)</title>
       <link>https://www.tenders.gov.au/Atm/Show/01ae713a-8174-49ee-a612-6ed6bff4fe13</link>
@@ -176,6 +154,13 @@
       <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>HR25/290/02-OT: Enterprise Coaching and Team Development Services Panel</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2130dcea-1edb-4f0b-bc4b-dd7f15042666</link>
+      <description>&lt;p&gt;Enterprise Coaching and Team Development Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2130dcea-1edb-4f0b-bc4b-dd7f15042666</guid>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>A25/16: Open Space Management Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/69d41f5d-a976-4fb5-960a-dbdcef3cec9c</link>
       <description>&lt;p&gt;Open Space Management (OSM) Services&amp;nbsp;&lt;/p&gt;</description>
@@ -269,13 +254,6 @@
       <description>&lt;p&gt;RAAF East Sale Accommodation Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/07c76545-c19b-4af1-bbc9-ffc01d77e09c</guid>
       <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST09924: HMAS Watson Mess Refurbishment, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</link>
-      <description>&lt;p&gt;HMAS Watson Mess Refurbishment&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>10031834: NSW Level 1 ASP to replace a power pole in Badgerys Creek</title>
@@ -588,6 +566,13 @@
       <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ATM_2025_2579: Fabrication of a Hydrogen Gravimetric Test Cart to a design commissioned by NMI</title>
+      <link>https://www.tenders.gov.au/Atm/Show/6dccc76c-c696-4924-a933-9145677fc113</link>
+      <description>&lt;p&gt;Fabrication of a Hydrogen Gravimetric Test Cart to a design commissioned by NMI.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/6dccc76c-c696-4924-a933-9145677fc113</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DemoATM2025: Demo ATM to test eLodgement and Download</title>
       <link>https://www.tenders.gov.au/Atm/Show/7f03face-747d-481f-a7ba-0ab6dabfaa64</link>
       <description>&lt;p&gt;Demo ATM to test eLodgement and Download&lt;/p&gt;</description>
@@ -645,11 +630,25 @@
       <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DFAT-1057: Vanuatu Australia Edukesen mo Skils Patnasip program</title>
+      <link>https://www.tenders.gov.au/Atm/Show/48899148-5119-43ac-a6a2-54dc578fc6ab</link>
+      <description>&lt;p&gt;Vanuatu Australia Edukesen mo Skils Patnasip program&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/48899148-5119-43ac-a6a2-54dc578fc6ab</guid>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EST10828: RAAF East Sale Base Refurbishment, VIC</title>
       <link>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</link>
       <description>&lt;p&gt;RAAF East Sale Base Refurbishment works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09924: HMAS Watson Mess Refurbishment, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</link>
+      <description>&lt;p&gt;HMAS Watson Mess Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST11094: Gallipoli Barracks Refurbishment Works, QLD</title>
@@ -664,6 +663,13 @@
       <description>&lt;p&gt;RAAF Amberley Electrical Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e66c75d3-a38c-4939-afe6-4380a705b138</guid>
       <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFT ANAO 112025: Financial Statements Audit Services - CEA and NRFC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/33d9fa12-3ecf-473c-af9c-1d307b68965e</link>
+      <description>&lt;p&gt;The provision of Financial Statements Audit Services for CEA Technologies Pty Limited (CEA) and National Reconstruction Fund Corporation (NRFC)&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/33d9fa12-3ecf-473c-af9c-1d307b68965e</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>25AMSA153: STCW Seafarer Certificate of Medical Fitness</title>
@@ -692,6 +698,13 @@
       <description>&lt;p&gt;Singleton Training Area Non-Permanent Facility Installation&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e0b30e5a-9e29-4c25-a1ad-72420edb4e5c</guid>
       <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>INFRA SLRCI RFT 2026: Christmas Island Stormwater, Landslide and Rockfall Mitigation Works 2026</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0493dcd4-0028-42f1-a042-58a529d6f2c1</link>
+      <description>&lt;p&gt;Provision of design, planning and construction services for the delivery of stormwater, landslide and rockfall mitigation infrastructure on Christmas Island.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0493dcd4-0028-42f1-a042-58a529d6f2c1</guid>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MoAD-ATM-6847: Exhibition Design Services</title>
@@ -870,13 +883,6 @@
       <description>&lt;p&gt;Department of Veterans' Affairs invites interested suppliers of Community Nursing Services to apply to provide these services from 1 July 2016.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/ed5d2e52-a2d6-b2ff-b6be-57bd37f2c8e4</guid>
       <pubDate>Wed, 16 Mar 2016 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HR25/290/02-OT: Enterprise Coaching and Team Development Services Panel</title>
-      <link>https://www.tenders.gov.au/Atm/Show/2130dcea-1edb-4f0b-bc4b-dd7f15042666</link>
-      <description>&lt;p&gt;Enterprise Coaching and Team Development Services&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/2130dcea-1edb-4f0b-bc4b-dd7f15042666</guid>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ASD-COM-2025-83-IRAP: ASD IRAP Assessor Market Availability</title>
