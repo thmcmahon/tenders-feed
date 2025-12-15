@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Sun, 14 Dec 2025 16:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 16:35:01 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DFAT-1073: Australia Awards Cambodia</title>
-      <link>https://www.tenders.gov.au/Atm/Show/33c7f6cf-f810-497e-8b41-9a262047b97b</link>
-      <description>&lt;p&gt;Australia Awards Cambodia&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/33c7f6cf-f810-497e-8b41-9a262047b97b</guid>
-      <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Antarctic ATM25/1727: Tracked trailers fitted with sideloaders</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b34ac2ae-5cbc-4655-adcd-6a9720376875</link>
-      <description>&lt;p&gt;Provision of two (2) sideloading tracked trailers to the Australian Antarctic Division&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b34ac2ae-5cbc-4655-adcd-6a9720376875</guid>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>DFAT-1061: Australia Pacific Leaders Program (APLP) - Program Support</title>
       <link>https://www.tenders.gov.au/Atm/Show/9194475a-1f2b-4d82-8a7c-e989dfde5746</link>
@@ -508,11 +494,25 @@
       <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>CASA 25/51: RFI - Digital Asset Management System (DAMS) Solution</title>
+      <link>https://www.tenders.gov.au/Atm/Show/6bb422b4-bf3c-459f-9805-e9131b546111</link>
+      <description>&lt;p&gt;Request for Information - Digital Asset Management System Solution&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/6bb422b4-bf3c-459f-9805-e9131b546111</guid>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>57097: Psychological Security Services (PSS) Standing Offer Panel</title>
       <link>https://www.tenders.gov.au/Atm/Show/b29b40cd-ab8c-4f9e-a8db-9f8d49c38228</link>
       <description>&lt;p&gt;Psychological Security Services Panel&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/b29b40cd-ab8c-4f9e-a8db-9f8d49c38228</guid>
       <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSD/NOT/74800/1: Land Command, Control, Communications and Compute (C4) Panel for Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f8ff2e0a-e8e7-4cb8-987f-0672623e5a8a</link>
+      <description>&lt;p&gt;The Commonwealth requires a range of technical specialist services to support the continued evolution and modernisation of the LC4 capability system and seeks to establish a Standing Offer Panel for Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f8ff2e0a-e8e7-4cb8-987f-0672623e5a8a</guid>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFQ/AAFC/CB AF/UAS: AAFC STEM L2 Very Small Training UAS</title>
