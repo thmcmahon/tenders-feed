@@ -1,16 +1,719 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Offline for maintenance</title>
-<style type="text/css">*{padding:0;margin:0}body{font-family:Arial,Helvetica,sans-serif;font-size:18px;background:#f3f3f3;color:#333}#c{height:400px;margin:50px 0 20px;position:relative;text-align:center;padding:0 20px}#ci{position:relative;top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%);width:58%;margin:0 auto}img{max-width:100%;height:auto;border:none}h1{margin:25px 0 20px!important;font-size:32px;font-weight:400}p{margin-bottom:20px;line-height:1.4}</style>
-</head>
-<body>
-<div id="c">
-<div id="ci">
-<img src="data:image/png;base64,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" alt="website maintenance" />
-<h1>AusTender is unavailable</h1>
-<p>The AusTender web site is currently undergoing maintenance and is unavailable.</p>
-</div>
-</div>
-</body>
-</html>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://www.tenders.gov.au#rss.xml" rel="self" type="application/rss+xml" />
+    <title>AusTender Current ATM List</title>
+    <language>en-AU</language>
+    <link>https://www.tenders.gov.au/Atm/List</link>
+    <lastBuildDate>Wed, 14 Jan 2026 16:35:01 GMT</lastBuildDate>
+    <description>AusTender Current ATM List</description>
+    <item>
+      <title>FCOMD/RFQ/67600/1: Jervis Bay Telemetry Range (JTBR) 50ft FTS Tower Corrosion Management / Painting</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3b070734-d3a4-4692-ab94-1d4f5729c517</link>
+      <description>&lt;p&gt;Jervis Bay Telemetry Range (JTBR) 50ft FTS Tower Corrosion Management / Painting&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3b070734-d3a4-4692-ab94-1d4f5729c517</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESE25/143318: Request for Tender for the provision of Inclusion Agency services under the Inclusion Support Program</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4ba05e02-5128-4133-af26-ca8302aa5e19</link>
+      <description>&lt;p&gt;The&amp;nbsp;department will engage IA organisations to deliver the Services&amp;nbsp;across eight states and territories, which include&amp;nbsp;capability building and&amp;nbsp;practical inclusion advice and support, to eligible early childhood&amp;nbsp;education&amp;nbsp;and&amp;nbsp;care&amp;nbsp;services (ECEC&amp;nbsp;services) within their&amp;nbsp;jurisdiction. &amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4ba05e02-5128-4133-af26-ca8302aa5e19</guid>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LSD/NOT/54755/2: Joint Project 8218 Deployable Theatre Infrastructure</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2c677333-7ee2-421e-87b3-0feda8ba7d59</link>
+      <description>&lt;p&gt;Joint Project 8218 Deployable Theatre Infrastructure&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2c677333-7ee2-421e-87b3-0feda8ba7d59</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPC-10676-Notice: Interactions Centre Solution Procurement - Pre-Release Notice</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ec9051b0-f586-4621-9892-e263d132d056</link>
+      <description>&lt;p&gt;Pre-Release Notice for Interactions Centre Solution Request for Tender&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ec9051b0-f586-4621-9892-e263d132d056</guid>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OPO2025-HONI-OSD: On-Site Project Director services for the new Australian High Commission in Honiara, Solomon Islands</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ffe25e76-ea10-4049-9090-7ef8437b9747</link>
+      <description>&lt;p&gt;For the provision of an On-Site Project Director services and supporting resources to oversee the on-site delivery for the new Australian High Commission in Honiara, Solomon Islands&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ffe25e76-ea10-4049-9090-7ef8437b9747</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NGA25-056: Request for Expressions of Interest - Head Contractor for the construction of Stage 1 of the National Sculpture Garden</title>
+      <link>https://www.tenders.gov.au/Atm/Show/827fbf48-df65-478f-bd08-79d78f124b87</link>
+      <description>&lt;p&gt;This REOI is seeking a Head Contractor to deliver Stage 1 of the construction of the National Sculpture Garden. The successful Head Contractor will be responsible for translating the design vision into a built reality, ensuring that all works meet the highest standards of quality, safety, and environmental sustainability.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/827fbf48-df65-478f-bd08-79d78f124b87</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LSD/RFQ/71158/1: EMI Amplifier Refresh</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ac76c2fa-4b9b-4922-89a6-0fa3b30708ef</link>
+      <description>&lt;p&gt;EMI Amplifier Refresh&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ac76c2fa-4b9b-4922-89a6-0fa3b30708ef</guid>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1057: Vanuatu Australia Edukesen mo Skils Patnasip program</title>
+      <link>https://www.tenders.gov.au/Atm/Show/48899148-5119-43ac-a6a2-54dc578fc6ab</link>
+      <description>&lt;p&gt;Vanuatu Australia Edukesen mo Skils Patnasip program&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/48899148-5119-43ac-a6a2-54dc578fc6ab</guid>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09940: RAAF East Sale Accommodation Works, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/07c76545-c19b-4af1-bbc9-ffc01d77e09c</link>
+      <description>&lt;p&gt;RAAF East Sale Accommodation Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/07c76545-c19b-4af1-bbc9-ffc01d77e09c</guid>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10828: RAAF East Sale Base Refurbishment, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</link>
+      <description>&lt;p&gt;RAAF East Sale Base Refurbishment works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09924: HMAS Watson Mess Refurbishment, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</link>
+      <description>&lt;p&gt;HMAS Watson Mess Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/51fba239-bdf6-484c-8b8f-7d232d5e6821</guid>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST11094: Gallipoli Barracks Refurbishment Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/57f67778-ea39-4c8f-aa1a-7376becea6f8</link>
+      <description>&lt;p&gt;Gallipoli Barracks Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/57f67778-ea39-4c8f-aa1a-7376becea6f8</guid>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST11103: RAAF Amberley Electrical Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e66c75d3-a38c-4939-afe6-4380a705b138</link>
+      <description>&lt;p&gt;RAAF Amberley Electrical Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e66c75d3-a38c-4939-afe6-4380a705b138</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFT ANAO 112025: Financial Statements Audit Services - CEA and NRFC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/33d9fa12-3ecf-473c-af9c-1d307b68965e</link>
+      <description>&lt;p&gt;The provision of Financial Statements Audit Services for CEA Technologies Pty Limited (CEA) and National Reconstruction Fund Corporation (NRFC)&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/33d9fa12-3ecf-473c-af9c-1d307b68965e</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>25AMSA153: STCW Seafarer Certificate of Medical Fitness</title>
+      <link>https://www.tenders.gov.au/Atm/Show/86a2c27f-86ff-4c63-be50-c67fa8430acf</link>
+      <description>&lt;p&gt;AMSA is seeking&amp;nbsp;provider(s) to supply and manage seafarer medical examinations&amp;nbsp;for the International Convention on&amp;nbsp;Standards of Training, Certification and Watchkeeping for Seafarers (STCW) Certificate of Medical Fitness in Australia, on AMSA’s behalf.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/86a2c27f-86ff-4c63-be50-c67fa8430acf</guid>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DPS26000527: Maintenance services for the public carpark access control equipment at Australian Parliament House</title>
+      <link>https://www.tenders.gov.au/Atm/Show/da3c03fe-8361-4a7b-9069-3f8ce0150b97</link>
+      <description>&lt;p&gt;Preventative and reactive maintenance of the public carparking access control equipment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/da3c03fe-8361-4a7b-9069-3f8ce0150b97</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Health/E24-47520__N: Provision of Enterprise Computing Services – Industry Briefing</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5e6cc479-5c59-4415-8acd-16e0bb3213ca</link>
+      <description>&lt;p&gt;This Notice of Intent is to advise that the Department of Health, Ageing and Disability (department) intends to conduct a post-release industry briefing to support an upcoming approach to market for Enterprise Computing Services. This session will provide an overview of the planned procurement and offer potential tenderers early insights into the Department’s requirements.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As part of the upcoming procurement, the Department is seeking a qualified Enterprise Computing Provider to deliver specialised services within a complex ICT environment. The scope of this procurement is to engage an experienced Provider to deliver Enterprise Computing services for the purpose of providing compute, storage, data centre network and cloud services to support Department applications and digital platforms&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5e6cc479-5c59-4415-8acd-16e0bb3213ca</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10739: Campbell Barracks Fire Water System Works, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/11f2aaa1-c921-4bfa-9cde-2a117606e8c2</link>
+      <description>&lt;p&gt;Campbell Barracks Fire Water System Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/11f2aaa1-c921-4bfa-9cde-2a117606e8c2</guid>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFT 01-2026 Sup No 1: National Police Check Systems Replacement Project - Supplementary Industry Notice 01</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b66c5751-869f-421b-b10e-f5e23cd81cf0</link>
+      <description>&lt;p&gt;National Police Check Systems Replacement (NPCSR) Project - Supplementary Industry Notice No. 1&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b66c5751-869f-421b-b10e-f5e23cd81cf0</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10854: Singleton Training Area Non-Permanent Facility Installation, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e0b30e5a-9e29-4c25-a1ad-72420edb4e5c</link>
+      <description>&lt;p&gt;Singleton Training Area Non-Permanent Facility Installation&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e0b30e5a-9e29-4c25-a1ad-72420edb4e5c</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MoAD-ATM-6847: Exhibition Design Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1a935b09-b224-4dab-a816-228528b1468e</link>
+      <description>&lt;p&gt;Exhibition Design (2D and 3D design) services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1a935b09-b224-4dab-a816-228528b1468e</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>68189: Workforce Prioritisation Workshops</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b39b791d-3b1c-4820-a4d2-ec17d0e12e29</link>
+      <description>&lt;p&gt;Workforce Prioritisation Workshops&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b39b791d-3b1c-4820-a4d2-ec17d0e12e29</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST11101: RAAF Townsville Repair and Maintenance, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/8ed43536-e19b-4330-97bc-93d1e9beebb7</link>
+      <description>&lt;p&gt;RAAF Townsville Repair and Maintenance&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/8ed43536-e19b-4330-97bc-93d1e9beebb7</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DPS26000040: Secure Radio System Upgrade</title>
+      <link>https://www.tenders.gov.au/Atm/Show/71af8ddf-fc69-40f4-9c22-3f743c211c30</link>
+      <description>&lt;p&gt;The Department of Parliamentary Services (DPS) is seeking to engage a vendor to provide, install, configure, integrate, test, and support an upgrade or replacement of its end-of-life Tait Communications two-way radio base stations/repeaters (base stations) and its end-of-life Frequentis security communication system (security communications system).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/71af8ddf-fc69-40f4-9c22-3f743c211c30</guid>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LSD/RFT/61684/1: RFT to establish Standing Offer for Supply and Maintenance of Portable Fire Extinguishers</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0cf63362-6012-41ab-844e-49187189d749</link>
+      <description>&lt;p&gt;RFT to establish Standing Offer for Supply and Maintenance of Portable Fire Extinguishers&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0cf63362-6012-41ab-844e-49187189d749</guid>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09297: Palmer Barracks Infrastructure and Civil Works, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c2eb1845-fec5-4a43-96f8-1b7b4cb5a19e</link>
+      <description>&lt;p&gt;Palmer Barracks Infrastructure and Civil Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c2eb1845-fec5-4a43-96f8-1b7b4cb5a19e</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10826: Borneo Barracks Building Refurbishments, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e0ad353d-a4b1-4bb0-8906-6cb26e946076</link>
+      <description>&lt;p&gt;Borneo Barracks Building Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e0ad353d-a4b1-4bb0-8906-6cb26e946076</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NMAPRN2526/01: Procurement of a long-term lease of a suitable storage facility located in Mitchell, ACT - Pre-release Notice</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d9209587-b1c0-46dc-935d-8c81965db2e2</link>
+      <description>&lt;p&gt;This is a pre-release notice only, to provide advance notification that the National Museum Australia (NMA) anticipates a single-stage open market Expression of Interest (EOI) for a long-term lease of a suitable storage facility (to provide up to 3,000 m2 of storage) located in Mitchell, ACT. The NMA will provide a functional design brief outlining its requirements for the storage facility. It is anticipated that relevant EOI documentation will be released through AusTender in January 2026. This notice does not commit NMA to the procurement activity.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d9209587-b1c0-46dc-935d-8c81965db2e2</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_5634: Approach to market in relation to State of the Environment content development and review</title>
+      <link>https://www.tenders.gov.au/Atm/Show/01553355-1be4-422a-b45e-88363668dfba</link>
+      <description>&lt;p&gt;State of the Environment content development and review.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/01553355-1be4-422a-b45e-88363668dfba</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1084: Strategic Evaluation of the Kemitraan Indonesia Australia untuk Infrastruktur (KIAT)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d4f1f392-8d38-461b-b00c-bc2771ee2e8b</link>
+      <description>&lt;p&gt;Strategic Evaluation of the Kemitraan Indonesia Australia untuk Infrastruktur (KIAT)&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d4f1f392-8d38-461b-b00c-bc2771ee2e8b</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1081: Kiribati - Pathways to Employment Readiness for Maiuraoim (PERforM)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ba2fa4eb-ade7-451d-a693-d39a51dec305</link>
+      <description>&lt;p&gt;Kiribati - Pathways to Employment Readiness for Maiuraoim (PERforM)&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ba2fa4eb-ade7-451d-a693-d39a51dec305</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08644: HMAS Stirling Training Centre Refurbishments, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</link>
+      <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GA2025/1634: Seismic Data Processing and QA/QC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/348e03d0-2f94-46d8-8d7c-418159781e43</link>
+      <description>&lt;p&gt;2D/3D seismic data processing and 2D/3D seismic data processing Quality Control&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/348e03d0-2f94-46d8-8d7c-418159781e43</guid>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_2676: Procurement of a HPLC System with Fraction Collection System</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7befd6d2-2ede-47da-9b13-3c94362975c8</link>
+      <description>&lt;p&gt;Procurement of a HPLC System with Fraction Collection System.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7befd6d2-2ede-47da-9b13-3c94362975c8</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>3053-2023-24: Establishment of Deed of Standing Offer Shipping, Deployment &amp; Recovery Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/93001dfe-d9ef-4454-92c8-46972886dd8f</link>
+      <description>&lt;p&gt;Provision for Shipping, Deployment &amp;amp; Recovery Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/93001dfe-d9ef-4454-92c8-46972886dd8f</guid>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mornington EOI: Agent Services Mornington Island Qld</title>
+      <link>https://www.tenders.gov.au/Atm/Show/9ae8565a-68f0-4fed-bd43-1ed5a0095e38</link>
+      <description>&lt;p&gt;The Australian Government agency Services Australia is seeking&lt;/p&gt;
+&lt;p&gt;Expressions of Interest from organisations to provide agent services in Mornington island&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/9ae8565a-68f0-4fed-bd43-1ed5a0095e38</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_3221: Learning Services Panel</title>
+      <link>https://www.tenders.gov.au/Atm/Show/483d8727-016a-467c-922c-b034335dd0e7</link>
+      <description>&lt;p&gt;Learning Services Panel&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/483d8727-016a-467c-922c-b034335dd0e7</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSIRORFT2025024: Head Contractor for Greenhouse Construction</title>
+      <link>https://www.tenders.gov.au/Atm/Show/67c8ac21-8a6d-429c-b396-fb1d71f1d3c7</link>
+      <description>&lt;p&gt;Head Contractor for Greenhouse Construction - Black Mountain ACT&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/67c8ac21-8a6d-429c-b396-fb1d71f1d3c7</guid>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-9177361: Reducing Pod Drop in Lentil</title>
+      <link>https://www.tenders.gov.au/Advert/Show/34e96b25-148e-4190-8c87-a80e00103548</link>
+      <description>&lt;p&gt;Reducing Pod Drop in Lentil&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/34e96b25-148e-4190-8c87-a80e00103548</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-9177344: Optimising oat adaptation for Australian production systems</title>
+      <link>https://www.tenders.gov.au/Advert/Show/ea0fc10d-8ebf-4a6b-a6d2-80b283f7bf2b</link>
+      <description>&lt;p&gt;Optimising oat adaptation for Australian production systems&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/ea0fc10d-8ebf-4a6b-a6d2-80b283f7bf2b</guid>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10742: Palmer Barracks Fire System Remediation, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/017a0352-db6b-4d8a-9702-dafecf7f0469</link>
+      <description>&lt;p&gt;Palmer Barracks Fire System Remediation works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/017a0352-db6b-4d8a-9702-dafecf7f0469</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WS2825294741: ATC Training Systems and Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/66711747-5627-4caa-ad07-889fc43265f4</link>
+      <description>&lt;p&gt;Request for Information for ATC Training Systems and Services&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/66711747-5627-4caa-ad07-889fc43265f4</guid>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5277-2025-26: Supply of Rain gauges and associated services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0189f89c-4ebd-4d3a-8690-79322dbf84c8</link>
+      <description>&lt;p&gt;&lt;strong&gt;Supply of rain Gauges&lt;/strong&gt;&lt;strong&gt; and associated services&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0189f89c-4ebd-4d3a-8690-79322dbf84c8</guid>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGO24/25-006: GeoPanel Refresh: Category 4C-HIPP Client Representative/Quality Assurance Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/01ccaa59-9129-400d-afb1-6a9c161b3510</link>
+      <description>&lt;p&gt;HydroScheme Industry Partnership Program (HIPP) Client Representative/Quality Assurance (CRQA) Services.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/01ccaa59-9129-400d-afb1-6a9c161b3510</guid>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_2105: Northern Endeavour Decommissioning Phase 2 P&amp;A Well Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3dda628d-f1c2-48a0-aa6c-03c285525b6d</link>
+      <description>&lt;p&gt;Northern Endeavour Phase 2 - Comprises wells permanent plug and abandonment services comprising the permanent plug and abandonment of nine wells in the Laminaria and Corallina oil field, as part of Phase 2 of the Northern Endeavour Decommissioning Program&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3dda628d-f1c2-48a0-aa6c-03c285525b6d</guid>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Health/E25-632598: Request for Expression of Interest for the Provision of a Rural Locum Program</title>
+      <link>https://www.tenders.gov.au/Atm/Show/937d8f38-ce35-4654-bac3-65e12ae5b2f3</link>
+      <description>&lt;p&gt;The Department of Health, Disability and Ageing is undertaking a Request for Expressions of Interest process to seek submissions from providers to deliver a new consolidated rural locum assistance program to support rural and remote primary health and aged care services. The program will support health and aged care workforce in rural and remote locations, as well as enhancing the rural and remote health and aged care workforce capacity.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/937d8f38-ce35-4654-bac3-65e12ae5b2f3</guid>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>57097: Psychological Security Services (PSS) Standing Offer Panel</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b29b40cd-ab8c-4f9e-a8db-9f8d49c38228</link>
+      <description>&lt;p&gt;Psychological Security Services Panel&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b29b40cd-ab8c-4f9e-a8db-9f8d49c38228</guid>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_2730: Gallery 8 Lighting Halo</title>
+      <link>https://www.tenders.gov.au/Atm/Show/06e9e4b5-6d91-4b75-a413-660056e64f74</link>
+      <description>&lt;p&gt;Not applicable&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/06e9e4b5-6d91-4b75-a413-660056e64f74</guid>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSD/NOT/74800/1: Land Command, Control, Communications and Compute (C4) Panel for Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f8ff2e0a-e8e7-4cb8-987f-0672623e5a8a</link>
+      <description>&lt;p&gt;The Commonwealth requires a range of technical specialist services to support the continued evolution and modernisation of the LC4 capability system and seeks to establish a Standing Offer Panel for Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f8ff2e0a-e8e7-4cb8-987f-0672623e5a8a</guid>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFQ/AAFC/CB AF/UAS: AAFC STEM L2 Very Small Training UAS</title>
+      <link>https://www.tenders.gov.au/Atm/Show/77749f88-1d2f-4a1a-bc13-73c7fd73f93f</link>
+      <description>&lt;p&gt;AAFC STEM L2 Very Small Training UAS&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/77749f88-1d2f-4a1a-bc13-73c7fd73f93f</guid>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIMSEOI780: Deployment Guidance System (DGS) Dispenser</title>
+      <link>https://www.tenders.gov.au/Atm/Show/36466d74-95dc-4cec-9e6c-a921b03f3409</link>
+      <description>&lt;p&gt;Design and/or construction of a vessel mounted system for the dispersal of coral seeding devices at various locations on the Great Barrier Reef.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/36466d74-95dc-4cec-9e6c-a921b03f3409</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCA26-1: Psychiatric Assistance Dog (PAD) Program – Market Sounding Activity</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d6a16ab5-fc7f-46aa-b515-0325886cca9c</link>
+      <description>&lt;p&gt;Market questionnaire to&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;inform understanding of industry capability and capacity in relation to program design and service delivery arrangements in the assistance dog sector.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d6a16ab5-fc7f-46aa-b515-0325886cca9c</guid>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5189a: Airport transfer services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e85f2113-e8bd-47ed-aeab-14f87d3754c6</link>
+      <description>&lt;p&gt;Engagement of a professional transfer company to provide safe, reliable, and value-for-money transportation for entity staff between their homes and the airport, ensuring service quality, compliance, and positive traveller experience&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e85f2113-e8bd-47ed-aeab-14f87d3754c6</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1062: PRIVATE SECTOR DEVELOPMENT PROGRAM (TIMOR-LESTE)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/8d220bf1-d86f-4aa8-8df1-e356f8cc27a1</link>
+      <description>&lt;p&gt;Timor Leste - Private Sector Development&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/8d220bf1-d86f-4aa8-8df1-e356f8cc27a1</guid>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DHAPROC26/ATA 382: Upgrade works within Anglesea Barracks Interested parties should note: DHA will be conducting mandatory site inspection.</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2621907d-d121-40d8-877b-07773fa1aac3</link>
+      <description>&lt;p&gt;Defence Housing Australia (DHA) invites responses to this Request for Quote (RFQ) for the provision of &amp;nbsp;3 Chesney House and 5 Clarke House Façade and Interior Upgrade Anglesea Barracks, Hobart.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2621907d-d121-40d8-877b-07773fa1aac3</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>D25/47013: Low Level Asbestos Exposure Research</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ce4021ce-a655-4b7f-a9b8-a07c10bf5710</link>
+      <description>&lt;p&gt;This Approach to Market (ATM) is for the provision of: Meta-analyses of published research regarding the risk of disease associated with non-occupational low-level exposure to asbestos.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ce4021ce-a655-4b7f-a9b8-a07c10bf5710</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>A25/31: NCA Heavy Patching Program</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2db7fb69-126f-4a4c-8732-add9ab134c12</link>
+      <description>&lt;p&gt;The National Capital Authority (NCA) is seeking to engage a suitably experienced &amp;amp; reputable Contractor to undertake Minor Works in relation to Asphalt Concrete upgrades across the NCA estate.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2db7fb69-126f-4a4c-8732-add9ab134c12</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC - 9177392: External review of wheat heat tolerance projects</title>
+      <link>https://www.tenders.gov.au/Advert/Show/90dea9dd-9ed2-44bb-95f9-1d5d6ad07152</link>
+      <description>&lt;p&gt;External review of wheat heat tolerance projects&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/90dea9dd-9ed2-44bb-95f9-1d5d6ad07152</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-9177390: NGN Managing and mitigating dry saline soils (magnesia patches) in South Australia</title>
+      <link>https://www.tenders.gov.au/Advert/Show/b5e42cda-f0a7-48ea-b03a-fd21dfabde38</link>
+      <description>&lt;p&gt;This investment will look to deliver a three-year demonstration and extension investment aiming to leverage existing extension materials relating to dry saline soils, and demonstrate management strategies to regions that have not had access to this information previously. This could lead to return of dry saline land to cropping activities or at least limit the expansion of these areas and the loss in income associated with them.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/b5e42cda-f0a7-48ea-b03a-fd21dfabde38</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09287: RAAF Richmond Civil &amp; Remediation Works, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/88c0794e-2561-4e8a-bd2a-ef5bcc8d34d1</link>
+      <description>&lt;p&gt;RAAF Richmond Civil &amp;amp; Remediation Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/88c0794e-2561-4e8a-bd2a-ef5bcc8d34d1</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST09254-1: Woomera Building Refurbishment, SA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</link>
+      <description>&lt;p&gt;Woomera Building Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</guid>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MST25-029: Commercial off-the-shelf Investigation and Intelligence Management System (IIMS)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/08bc9e67-1a3e-4244-9689-efda7cdead43</link>
+      <description>&lt;p&gt;Services Australia is seeking a commercial off-the-shelf Intelligence and Investigations Management System (IIMS) for managing intelligence and investigation workloads with minimal configuration.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/08bc9e67-1a3e-4244-9689-efda7cdead43</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Health/PH25/10909: Procurement of a Liquid Chromatograph Mass Spectrometer</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b2bf7dc6-fb05-40a6-a8b7-575949f1b1f5</link>
+      <description>&lt;p&gt;Procurement of a Liquid Chromatograph Mass Spectrometer&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b2bf7dc6-fb05-40a6-a8b7-575949f1b1f5</guid>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NMAT2526/03: Procurement for the provision of a Content Management System (CMS)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5a5335b1-e7b0-4ce1-8c23-2d0ec0766c05</link>
+      <description>&lt;p&gt;This Approach to Market (ATM) is for the provision of a Content Management System (CMS).&amp;nbsp; The National Museum of Australia (Museum) is seeking a CMS provided as software as a service (Saas).&lt;/p&gt;
+&lt;p&gt;The Museum is seeking submissions for the provision of the goods and services (the Requirement) as described in this Commonwealth Approach to Market.&lt;/p&gt;
+&lt;p&gt;In submitting a response, Potential Suppliers are required to comply with all requirements set out in the Commonwealth Approach to Market Terms (a copy of which is included in this document).&lt;/p&gt;
+&lt;p&gt;The SaaS based CMS is a platform that the Museum will use to enhance audience engagement and expand online reach to foster deep connections with diverse audiences. The CMS will activate three key areas of activity:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Simplify and modernise - The Museum’s current digital presence is fragmented across multiple siloed platforms. This separation results in significant duplication and inefficiencies, a disconnected and disjointed user experience, and an inability to meet the expectations of our staff and audiences.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Drive integration – The new platform will replace our existing systems, serving as a single source of truth for all digital content available to the visitor. It will power a cohesive digital ecosystem, seamlessly connecting the main website, digital classroom, collection search, museum shop, and in-gallery experiences.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Optimise performance - The CMS is a foundational investment in the Museum's future. By creating a deeply integrated and personalised digital journey, we will not only solve long-standing problems but also unlock new opportunities for engagement, storytelling, and revenue generation, ensuring the Museum remains a world-class cultural institution.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As a component of this procurement, the Museum will also consider proposals that include the option of additional professional/support services to help with the delivery of new, or maintenance of existing online experiences.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5a5335b1-e7b0-4ce1-8c23-2d0ec0766c05</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08622: HMAS Stirling Infrastructure Works, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</link>
+      <description>&lt;p&gt;HMAS Stirling Infrastructure Works, WA&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1045: South Asia Regional Infrastructure Connectivity (SARIC-2) - Implementation Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2b832fae-7556-4422-957f-8139be27507a</link>
+      <description>&lt;p&gt;South Asia Regional Infrastructure Connectivity (SARIC-2) - Implementation Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2b832fae-7556-4422-957f-8139be27507a</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSIRORFT2026012: Cleaning Services - Western Australia</title>
+      <link>https://www.tenders.gov.au/Atm/Show/9eab5593-96f9-4f41-96c7-8852b4cf37ca</link>
+      <description>&lt;p&gt;CSIRO through this RFT is seeking responses from suitably qualified and experienced service providers for the provision of cleaning services (Services) in Western Australia, for a contract term of 3-years with two possible extension options of 2-years each.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/9eab5593-96f9-4f41-96c7-8852b4cf37ca</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Health/E24-5261: REQUEST FOR TENDER FOR THE PROVISION OF NEW EDITIONS OF THE REMOTE PRIMARY HEALTH CARE MANUALS (RPHCM)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/09369880-d3af-46c0-856f-d6979b3fd683</link>
+      <description>&lt;p&gt;The RPHCM Project focuses on reviewing, updating, and enhancing the suite of Remote Primary Health Care Manuals (RPHCM) and producing open-source digital versions. This will enable continuous real-time updating and version control to ensure the manuals remain current and responsive to emerging evidence and practices. The project supports best clinical practice in primary health care settings across central, northern, and remote Australia.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/09369880-d3af-46c0-856f-d6979b3fd683</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOMEAFFAIRS/2197/RFT: For the Provision of handheld radio communication devices and accessories to the ABF</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0d7f4786-7ad6-492c-8d3a-18c688ac17e8</link>
+      <description>&lt;p&gt;The Department is seeking to replace the existing fleet of handheld (portable) radio communication devices and their associated accessories with one or more models of a P25 compliant handheld radio type to meet current ABF operational requirements.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0d7f4786-7ad6-492c-8d3a-18c688ac17e8</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSD/RFT/70760/1: Chief of Air Force -16 (CAF16) Aeronautical Information Production System (AIPS) In-service Support</title>
+      <link>https://www.tenders.gov.au/Atm/Show/25de97e0-3174-4f91-b586-932d345b301a</link>
+      <description>&lt;p&gt;Aeronautical Information Production System (AIPS) In-Service Support&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/25de97e0-3174-4f91-b586-932d345b301a</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_5389: Training services by RTOs for Nationwide House Energy Rating Scheme (NatHERS) for existing homes assessors</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b176b98e-2f16-43ce-8b98-fbff56bcb2ee</link>
+      <description>&lt;p&gt;This Approach to Market (ATM) seeks the services of one or more Registered Training Organisations (RTOs) to establish resourcing and deliver training from mid-2026 for the Nationwide House Energy Rating Scheme (NatHERS) for existing homes.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b176b98e-2f16-43ce-8b98-fbff56bcb2ee</guid>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1075: Laos Australia Agriculture Resilience Initiative (LAARI)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d64894e7-7d20-43b2-9e9d-37045ea3b2a5</link>
+      <description>&lt;p&gt;Laos-Australia Agriculture Resilience Initiative&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d64894e7-7d20-43b2-9e9d-37045ea3b2a5</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10690: RAAF Townsville Roof Replacement Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7c4e02a3-4fc1-4bc8-932e-8a03d34e2ff3</link>
+      <description>&lt;p&gt;RAAF Townsville Roof Replacement Works, QLD&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7c4e02a3-4fc1-4bc8-932e-8a03d34e2ff3</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWM001533: Construction Contractor for Main Building Completion</title>
+      <link>https://www.tenders.gov.au/Atm/Show/47dfa693-77b7-4196-a77b-e02bf39b11cc</link>
+      <description>&lt;p&gt;Construction Contractor for Main Building Completion&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/47dfa693-77b7-4196-a77b-e02bf39b11cc</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>INFRA SLRCI RFT 2026: Christmas Island Stormwater, Landslide and Rockfall Mitigation Works 2026</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0493dcd4-0028-42f1-a042-58a529d6f2c1</link>
+      <description>&lt;p&gt;Provision of design, planning and construction services for the delivery of stormwater, landslide and rockfall mitigation infrastructure on Christmas Island.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0493dcd4-0028-42f1-a042-58a529d6f2c1</guid>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TN65384-1: Employee Assistance Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5433109a-c0dc-4edf-ad3b-c8533c6ce97b</link>
+      <description>&lt;p&gt;Psychology and Psychiatry Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5433109a-c0dc-4edf-ad3b-c8533c6ce97b</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>70476: Academic Publishing - Army History Series</title>
+      <link>https://www.tenders.gov.au/Atm/Show/8584a9ca-418e-4bf7-97e2-09c7c731b69d</link>
+      <description>&lt;p&gt;The Army History Unit are seeking an academic publishing partner to produce the Australian Army History Series&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/8584a9ca-418e-4bf7-97e2-09c7c731b69d</guid>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NI KPCC 10032113: Norfolk Island Kingston Pier Rock Revetment Remediation Project 2026</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b38a4967-3e9c-48d1-a3f7-9d50e5f81e50</link>
+      <description>&lt;p&gt;The Department wishes to engage a suitably qualified small to medium enterprise (SME) to provide construction services for the remediation of the Kingston Pier Rock Revetment on Norfolk Island.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b38a4967-3e9c-48d1-a3f7-9d50e5f81e50</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2026_5942: Development of a National Bird and Bat Management Plan (BBMP) Template and Guidance for Australian Wind Farms</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f9953542-e8cd-4867-87be-e9b4de8d27be</link>
+      <description>&lt;p&gt;This project seeks to generate targeted information to support decision-making by assessment officers and project proponents under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). The Supplier will be required to develop an adaptive Bird and Bat Management Plan template and accompanying technical guidance for Australian onshore wind farms.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f9953542-e8cd-4867-87be-e9b4de8d27be</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CASA 25/51: RFI - Digital Asset Management System (DAMS) Solution</title>
+      <link>https://www.tenders.gov.au/Atm/Show/6bb422b4-bf3c-459f-9805-e9131b546111</link>
+      <description>&lt;p&gt;Request for Information - Digital Asset Management System Solution&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/6bb422b4-bf3c-459f-9805-e9131b546111</guid>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>11849: Mutitjulu Essential Services and Renewables Project</title>
+      <link>https://www.tenders.gov.au/Atm/Show/b61fccf0-231c-43df-b025-5a55c3355060</link>
+      <description>&lt;p&gt;The Director of National Parks will upgrade aging infrastructure within the remote Indigenous community of Mutitjulu, nestled within Uluru-Kata Tjuta National Park.&lt;/p&gt;
+&lt;p&gt;This critical project prioritises the delivery of reliable Essential Services and Renewables while minimising environmental impact and fostering long-term development for the community with new infrastructure compliant to current standards.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/b61fccf0-231c-43df-b025-5a55c3355060</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>054 - NMI - 2024/25: Liquid Chromatography-mass spectrometry (LCMS-MS)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/631ccdff-cb3b-45f4-8a86-a2a82cdca355</link>
+      <description>&lt;p&gt;The NMI – ASDTL requires instrumentation to meet WADA standards for analytical capabilities for limits of detection in different matrices such as plasma, serum, and dried blood spots.&lt;/p&gt;
+&lt;p&gt;This tender is for LC-MSMS instrumentation.&amp;nbsp; The exact number and the type of instruments purchased will be determined through the tender process by taking into consideration the specific requirements for the testing needs of the anti-doping laboratory and budgetary restraints.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/631ccdff-cb3b-45f4-8a86-a2a82cdca355</guid>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>JASD/RFI/75523/1: UAS Concept Industry Paper</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f7788760-8b9c-4e71-804a-938fff73fba8</link>
+      <description>&lt;p&gt;UAS Concept Industry Paper&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f7788760-8b9c-4e71-804a-938fff73fba8</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSC002740A: Transport Shuttle Bus Sevices</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ab82e8c9-67c8-4cc9-ba54-ffcf6df9df1e</link>
+      <description>&lt;p&gt;Transport services (Bus) Lucas Heights (NSW)&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ab82e8c9-67c8-4cc9-ba54-ffcf6df9df1e</guid>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MSD/RFT/70824/1: Containerised Recompression Chamber</title>
+      <link>https://www.tenders.gov.au/Atm/Show/6269fcc8-3d43-425a-9e04-034e937a786d</link>
+      <description>&lt;p&gt;Containerised Recompression Chamber&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/6269fcc8-3d43-425a-9e04-034e937a786d</guid>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFT/NDT/2025: Non-Destructive Testing Training</title>
+      <link>https://www.tenders.gov.au/Atm/Show/9ac31255-3187-42e4-b78a-6c28e5357fa0</link>
+      <description>&lt;p&gt;The Australian Submarine Agency’s Skills and Training Academy (STA) began rolling out workforce pilot initiatives in 2024 to support AUKUS commitments. These initiatives aim to attract, develop, and retain a skilled workforce for the Nuclear-Powered Submarine (NPS) Optimal Pathway, naval shipbuilding, and the broader industrial base. A key focus is increasing the supply of qualified Non-Destructive Testing (NDT) technicians. The NDT Traineeship program will support 60 trainees over four years through education and on-the-job training.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/9ac31255-3187-42e4-b78a-6c28e5357fa0</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFI - ATM 2025 2616: Request For Information – Near Surface Disposal of Radioactive Waste and associated services capability</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1124b3dc-d31d-438a-80ec-31745a993415</link>
+      <description>&lt;p&gt;The Commonwealth of Australia (the Australian Government or the Commonwealth) as represented by the Department of Science, Industry and Resources (the Department) is seeking information to assist in informing the feasibility of options for the management and disposal of all radioactive waste in Australia suitable for near surface disposal.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1124b3dc-d31d-438a-80ec-31745a993415</guid>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10722: Swartz Barracks Stormwater and Civil Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/00ca25ec-9ca8-4620-9dd9-339a58b25c45</link>
+      <description>&lt;p&gt;Swartz Barracks Stormwater and Civil Works, QLD&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/00ca25ec-9ca8-4620-9dd9-339a58b25c45</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08242-2: HMAS Kuttabul East Dock Crane Replacement, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3c23dd88-186e-4a59-a90d-6f79d1396bd1</link>
+      <description>&lt;p&gt;HMAS Kuttabul East Dock Crane Replacement, NSW&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3c23dd88-186e-4a59-a90d-6f79d1396bd1</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST11043: Swartz Barracks Building Refurbishment, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/65c42805-2de5-44d8-9a04-4193a1d18d10</link>
+      <description>&lt;p&gt;Swartz Barracks Building Refurbishment, QLD&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/65c42805-2de5-44d8-9a04-4193a1d18d10</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST11047: Lavarack Barracks HVAC Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/cf331cbe-db44-4b4c-a4c5-d0a5160f823d</link>
+      <description>&lt;p&gt;Lavarack Barracks HVAC Works, QLD&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/cf331cbe-db44-4b4c-a4c5-d0a5160f823d</guid>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST02043: Defence Mulwala/Benalla Facility Redevelopment Project - Notification of Shortlisted Participants</title>
+      <link>https://www.tenders.gov.au/Atm/Show/fe96de94-11a3-44f9-8680-c0fbd7f9085f</link>
+      <description>&lt;p&gt;To provide Industry with the shortlisted Panellists for the Defence Mulwala/Benalla Facility Redevelopment Project&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/fe96de94-11a3-44f9-8680-c0fbd7f9085f</guid>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_5065: Aboriginal Water Entitlements Water Purchasing Open Tender</title>
+      <link>https://www.tenders.gov.au/Atm/Show/87e61691-8ee5-46c3-b1af-17bf8b81c8cc</link>
+      <description>&lt;p&gt;AWEP Water Purchasing Open Tender&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/87e61691-8ee5-46c3-b1af-17bf8b81c8cc</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-9177352: Improving barley peduncle strength and architecture to reduce head loss</title>
+      <link>https://www.tenders.gov.au/Advert/Show/31bb7dd1-7b68-4527-8c87-0c48a9f3d77d</link>
+      <description>&lt;p&gt;Improving barley peduncle strength and architecture to reduce head loss&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/31bb7dd1-7b68-4527-8c87-0c48a9f3d77d</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MGF_17: Supply of Medical Grade Footwear to eligible persons</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4cbec586-e15c-3822-fba2-aab168b6d4a5</link>
+      <description>&lt;p&gt;NOTE: existing suppliers need not reapply&lt;/p&gt;
+&lt;p&gt;The Medical Grade Footwear (MGF) Programme is an important part of DVA’s health care arrangements and is part of the Rehabilitation Appliance Programme (RAP).&amp;nbsp; The MGF Programme provides a nation-wide access to a wide range of MGF and related services for entitled persons.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4cbec586-e15c-3822-fba2-aab168b6d4a5</guid>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CNS16: Department of Veterans' Affairs Community Nursing Services Invitation</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ed5d2e52-a2d6-b2ff-b6be-57bd37f2c8e4</link>
+      <description>&lt;p&gt;Department of Veterans' Affairs invites interested suppliers of Community Nursing Services to apply to provide these services from 1 July 2016.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ed5d2e52-a2d6-b2ff-b6be-57bd37f2c8e4</guid>
+      <pubDate>Wed, 16 Mar 2016 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DemoATM2026: Demo ATM to test eLodgement and Download</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ac8949df-46c0-46a2-bbd0-4107e91d2532</link>
+      <description>&lt;p&gt;Demo ATM to test eLodgement and download&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ac8949df-46c0-46a2-bbd0-4107e91d2532</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DPC-2017: Invitation to provide Day Procedure Centre Services to the Veteran Community</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5e64113b-fa93-08b6-3f97-0550a53cf679</link>
+      <description>&lt;p&gt;The Department of Veterans’ Affairs (DVA) is seeking to contract with eligible stand-alone private day hospitals (referred to as Day Procedure Centres or DPCs) to provide DPC services for DVA Entitled Persons across Australia from 1 October 2017 onwards.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5e64113b-fa93-08b6-3f97-0550a53cf679</guid>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHS-16: Private Hospital Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/89b9dac6-0325-6a7c-78ad-4744eeb8be18</link>
+      <description>&lt;p&gt;DVA is seeking the provision of Private Hospital services for Entitled Persons by publishing this &lt;em&gt;Invitation to Provide Private Hospital Services to the Veteran Community&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/89b9dac6-0325-6a7c-78ad-4744eeb8be18</guid>
+      <pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
