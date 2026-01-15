@@ -4,7 +4,7 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 14 Jan 2026 16:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 16:35:13 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
     <item>
       <title>FCOMD/RFQ/67600/1: Jervis Bay Telemetry Range (JTBR) 50ft FTS Tower Corrosion Management / Painting</title>
@@ -68,13 +68,6 @@
       <description>&lt;p&gt;RAAF East Sale Accommodation Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/07c76545-c19b-4af1-bbc9-ffc01d77e09c</guid>
       <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST10828: RAAF East Sale Base Refurbishment, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</link>
-      <description>&lt;p&gt;RAAF East Sale Base Refurbishment works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST09924: HMAS Watson Mess Refurbishment, NSW</title>
@@ -142,13 +135,6 @@
       <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EST10854: Singleton Training Area Non-Permanent Facility Installation, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/e0b30e5a-9e29-4c25-a1ad-72420edb4e5c</link>
-      <description>&lt;p&gt;Singleton Training Area Non-Permanent Facility Installation&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/e0b30e5a-9e29-4c25-a1ad-72420edb4e5c</guid>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>MoAD-ATM-6847: Exhibition Design Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/1a935b09-b224-4dab-a816-228528b1468e</link>
       <description>&lt;p&gt;Exhibition Design (2D and 3D design) services&lt;/p&gt;</description>
@@ -182,6 +168,13 @@
       <description>&lt;p&gt;RFT to establish Standing Offer for Supply and Maintenance of Portable Fire Extinguishers&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/0cf63362-6012-41ab-844e-49187189d749</guid>
       <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST10828: RAAF East Sale Base Refurbishment, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</link>
+      <description>&lt;p&gt;RAAF East Sale Base Refurbishment works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0deae62d-c790-4ffa-87ac-29682dbc417d</guid>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST09297: Palmer Barracks Infrastructure and Civil Works, WA</title>
@@ -224,13 +217,6 @@
       <description>&lt;p&gt;Kiribati - Pathways to Employment Readiness for Maiuraoim (PERforM)&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/ba2fa4eb-ade7-451d-a693-d39a51dec305</guid>
       <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST08644: HMAS Stirling Training Centre Refurbishments, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</link>
-      <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
-      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GA2025/1634: Seismic Data Processing and QA/QC</title>
@@ -431,6 +417,13 @@
       <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>EST10854: Singleton Training Area Non-Permanent Facility Installation, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e0b30e5a-9e29-4c25-a1ad-72420edb4e5c</link>
+      <description>&lt;p&gt;Singleton Training Area Non-Permanent Facility Installation&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e0b30e5a-9e29-4c25-a1ad-72420edb4e5c</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EST09254-1: Woomera Building Refurbishment, SA</title>
       <link>https://www.tenders.gov.au/Atm/Show/ec1ed6cf-a704-4134-95a5-4c8142039563</link>
       <description>&lt;p&gt;Woomera Building Refurbishment&lt;/p&gt;</description>
@@ -516,6 +509,13 @@
       <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ATM_2025_2670: Northern Australia Biosecurity Preparedness Uplift</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d9c284ea-72c8-4d61-965a-8b2829f4d1e8</link>
+      <description>&lt;p&gt;Northern Australia Biosecurity Preparedness Uplift&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d9c284ea-72c8-4d61-965a-8b2829f4d1e8</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DFAT-1075: Laos Australia Agriculture Resilience Initiative (LAARI)</title>
       <link>https://www.tenders.gov.au/Atm/Show/d64894e7-7d20-43b2-9e9d-37045ea3b2a5</link>
       <description>&lt;p&gt;Laos-Australia Agriculture Resilience Initiative&lt;/p&gt;</description>
@@ -570,6 +570,13 @@
       <description>&lt;p&gt;This project seeks to generate targeted information to support decision-making by assessment officers and project proponents under the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). The Supplier will be required to develop an adaptive Bird and Bat Management Plan template and accompanying technical guidance for Australian onshore wind farms.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/f9953542-e8cd-4867-87be-e9b4de8d27be</guid>
       <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08644: HMAS Stirling Training Centre Refurbishments, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</link>
+      <description>&lt;p&gt;HMAS Stirling Training Centre Refurbishment works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c8a24357-98ab-424d-b103-23bf449ed8f6</guid>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CASA 25/51: RFI - Digital Asset Management System (DAMS) Solution</title>
@@ -677,6 +684,13 @@
       <description>&lt;p&gt;Improving barley peduncle strength and architecture to reduce head loss&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/31bb7dd1-7b68-4527-8c87-0c48a9f3d77d</guid>
       <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>25AMSA172: RFI - Provision of Dedicated Fixed Wing SAR Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5e3a858f-f61a-4876-ba24-82307e9400d3</link>
+      <description>&lt;p&gt;AMSA is seeking information from commercial aviation organisations that have, or could have, the necessary capability, skills and experience to provide dedicated fixed wing search and rescue services as outlined in this RFI.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5e3a858f-f61a-4876-ba24-82307e9400d3</guid>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MGF_17: Supply of Medical Grade Footwear to eligible persons</title>
