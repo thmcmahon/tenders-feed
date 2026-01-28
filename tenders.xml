@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 27 Jan 2026 16:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 16:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>CSIRORFT2025024: Head Contractor for Greenhouse Construction</title>
-      <link>https://www.tenders.gov.au/Atm/Show/67c8ac21-8a6d-429c-b396-fb1d71f1d3c7</link>
-      <description>&lt;p&gt;Head Contractor for Greenhouse Construction - Black Mountain ACT&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/67c8ac21-8a6d-429c-b396-fb1d71f1d3c7</guid>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-9177361: Reducing Pod Drop in Lentil</title>
-      <link>https://www.tenders.gov.au/Advert/Show/34e96b25-148e-4190-8c87-a80e00103548</link>
-      <description>&lt;p&gt;Reducing Pod Drop in Lentil&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Advert/Show/34e96b25-148e-4190-8c87-a80e00103548</guid>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>PROC-9177344: Optimising oat adaptation for Australian production systems</title>
       <link>https://www.tenders.gov.au/Advert/Show/ea0fc10d-8ebf-4a6b-a6d2-80b283f7bf2b</link>
@@ -324,13 +310,6 @@
       <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EST08622: HMAS Stirling Infrastructure Works, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</link>
-      <description>&lt;p&gt;HMAS Stirling Infrastructure Works, WA&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>NI KPCC 10032113: Norfolk Island Kingston Pier Rock Revetment Remediation Project 2026</title>
       <link>https://www.tenders.gov.au/Atm/Show/b38a4967-3e9c-48d1-a3f7-9d50e5f81e50</link>
       <description>&lt;p&gt;The Department wishes to engage a suitably qualified small to medium enterprise (SME) to provide construction services for the remediation of the Kingston Pier Rock Revetment on Norfolk Island.&lt;/p&gt;</description>
@@ -427,6 +406,13 @@
       <description>&lt;p&gt;The Australian Sports Drug Laboratory of the National Measurement Institute’s Chemical and Biological Branch requires a &amp;nbsp;Gas Chromatograph Interfaced to a Tandem Mass Spectrometer (GC-MSMS). The GC-MSMS will be used for the analysis of metabolites of drugs in complex biological matrices.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/72c6a8cc-fca9-4ea4-a9a3-c80d552a4bc9</guid>
       <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08622: HMAS Stirling Infrastructure Works, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</link>
+      <description>&lt;p&gt;HMAS Stirling Infrastructure Works, WA&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST09287: RAAF Richmond Civil &amp; Remediation Works, NSW</title>
