@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 11 Feb 2026 16:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 16:35:04 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>EST10690: RAAF Townsville Roof Replacement Works, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/7c4e02a3-4fc1-4bc8-932e-8a03d34e2ff3</link>
-      <description>&lt;p&gt;RAAF Townsville Roof Replacement Works, QLD&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/7c4e02a3-4fc1-4bc8-932e-8a03d34e2ff3</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>ATM_2026_5942: Development of a National Bird and Bat Management Plan (BBMP) Template and Guidance for Australian Wind Farms</title>
       <link>https://www.tenders.gov.au/Atm/Show/f9953542-e8cd-4867-87be-e9b4de8d27be</link>
@@ -125,13 +118,6 @@
       <description>&lt;p&gt;Swartz Barracks Stormwater and Civil Works, QLD&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/00ca25ec-9ca8-4620-9dd9-339a58b25c45</guid>
       <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST08242-2: HMAS Kuttabul East Dock Crane Replacement, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/3c23dd88-186e-4a59-a90d-6f79d1396bd1</link>
-      <description>&lt;p&gt;HMAS Kuttabul East Dock Crane Replacement, NSW&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/3c23dd88-186e-4a59-a90d-6f79d1396bd1</guid>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EST11043: Swartz Barracks Building Refurbishment, QLD</title>
@@ -416,6 +402,13 @@
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>10031678: Co-design Partner for the National Media Literacy Strategy</title>
+      <link>https://www.tenders.gov.au/Atm/Show/52648372-094d-4802-b3e9-4091d7812684</link>
+      <description>&lt;p&gt;The Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (the Department) is seeking to procure an organisation to partner with the Department to co-design Australia’s first National Media Literacy Strategy (the Strategy).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/52648372-094d-4802-b3e9-4091d7812684</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DPS26000306: FIRE SYSTEMS MAINTENANCE AND REPAIR SERVICES</title>
       <link>https://www.tenders.gov.au/Atm/Show/949a7ca4-9429-4d20-988b-4f5b0b79a6fc</link>
       <description>&lt;p&gt;The Department of Parliamentary Services (DPS) invites Tenders for the Fire Systems Maintenance and Repair Services to the Fire Services System at APH in accordance with this Request for Tender (RFT).&lt;/p&gt;
@@ -424,11 +417,25 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>SHFT26004: Sergeants' Mess Air Conditioning Project</title>
+      <link>https://www.tenders.gov.au/Atm/Show/10755c3b-94bf-4c04-a5e2-e38db52ac11f</link>
+      <description>&lt;p&gt;Sergeants’ Mess Air Conditioning Project is to replace A/C system and deliver related builders work in connection.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/10755c3b-94bf-4c04-a5e2-e38db52ac11f</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>47396: RFI 47396 ADF Transition Seminar Platform</title>
       <link>https://www.tenders.gov.au/Atm/Show/bfa5364d-eb9a-439e-8d5d-9e67a34b2db0</link>
       <description>&lt;p&gt;RFI 47396 ADF Transition Seminar Platform&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/bfa5364d-eb9a-439e-8d5d-9e67a34b2db0</guid>
       <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EST08242-2: HMAS Kuttabul East Dock Crane Replacement, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3c23dd88-186e-4a59-a90d-6f79d1396bd1</link>
+      <description>&lt;p&gt;HMAS Kuttabul East Dock Crane Replacement, NSW&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3c23dd88-186e-4a59-a90d-6f79d1396bd1</guid>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>11849: Mutitjulu Essential Services and Renewables Project</title>
@@ -493,6 +500,13 @@
       <description>&lt;p&gt;The Department of Parliamentary Services is seeking proposals from experienced organisations to deliver, operate and maintain Audio Visual (AV) services and associated equipment at Australian Parliament House under a Services Agreement.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/8cfd8e1b-8fde-4927-b323-75cc8d609e52</guid>
       <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFT_2026_0044: Construction Services - Robinson Street, Dandenong</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a6163c9d-5587-4cbd-9bdf-c48735409f3b</link>
+      <description>&lt;p&gt;Courthouse Building Construction Services - Refurb and fitout to reconfigure the existing floor plate to create new courtfacilities including offices, conference rooms, meeting rooms, public spaces,amenities and waiting areas on Ground floor and level One of the CLC premise (the premise).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a6163c9d-5587-4cbd-9bdf-c48735409f3b</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>25AMSA172: RFI - Provision of Dedicated Fixed Wing SAR Services</title>
