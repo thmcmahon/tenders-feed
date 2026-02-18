@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 17 Feb 2026 16:35:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 16:35:10 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>EST08622: HMAS Stirling Infrastructure Works, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</link>
-      <description>&lt;p&gt;HMAS Stirling Infrastructure Works, WA&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4d00bbce-d23f-432c-91ed-2698dc9ea49a</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>EST09287: RAAF Richmond Civil &amp; Remediation Works, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/88c0794e-2561-4e8a-bd2a-ef5bcc8d34d1</link>
-      <description>&lt;p&gt;RAAF Richmond Civil &amp;amp; Remediation Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/88c0794e-2561-4e8a-bd2a-ef5bcc8d34d1</guid>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>11474: Facilities and Residential Cleaning Services for Uluru-Kata Tjuta National Park</title>
       <link>https://www.tenders.gov.au/Atm/Show/2ac509b4-d7c5-432c-b238-d3734712bf0e</link>
@@ -154,18 +140,18 @@
       <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>N012026: Microsoft Sentinel Implementation and SOC Operations</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c7b49c0f-6873-413e-803b-1762ea2ee37f</link>
-      <description>&lt;p&gt;Microsoft Sentinel Implementation and SOC Operations&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c7b49c0f-6873-413e-803b-1762ea2ee37f</guid>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>ATM_2025_5065: Aboriginal Water Entitlements Water Purchasing Open Tender</title>
       <link>https://www.tenders.gov.au/Atm/Show/87e61691-8ee5-46c3-b1af-17bf8b81c8cc</link>
       <description>&lt;p&gt;AWEP Water Purchasing Open Tender&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/87e61691-8ee5-46c3-b1af-17bf8b81c8cc</guid>
       <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>N012026: Microsoft Sentinel Implementation and SOC Operations</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c7b49c0f-6873-413e-803b-1762ea2ee37f</link>
+      <description>&lt;p&gt;Microsoft Sentinel Implementation and SOC Operations&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c7b49c0f-6873-413e-803b-1762ea2ee37f</guid>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2026_6022: REQUEST FOR INFORMATION FOR ADMINISTERING THE FIRE PROTECTION INDUSTRY PERMIT SCHEME</title>
@@ -180,13 +166,6 @@
       <description>&lt;p&gt;Request for Information (RFI) to obtain information in connection with a potential future procurement of a body (Service Provider) that is incorporated under the Corporations Act 2001 (Cth) as the Refrigeration and Air Conditioning (RAC) Industry Board to administer the RAC Industry Permit Scheme (Scheme).&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/c750c61c-9134-463e-8450-c014beb9028f</guid>
       <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>E24-47520: Provision of Enterprise Computing Services for the Department of Health, Disability and Ageing</title>
-      <link>https://www.tenders.gov.au/Atm/Show/07e2c5e5-1732-40c5-aa76-177cf66f31ca</link>
-      <description>&lt;p&gt;The Department of Health, Disability and Ageing is seeking a qualified Enterprise Computing Provider to deliver specialised services within a complex ICT environment. The scope of this procurement is to engage an experienced Provider to deliver Enterprise Computing services for the purpose of providing compute, storage, data centre network and cloud services to support Department applications and digital platforms.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/07e2c5e5-1732-40c5-aa76-177cf66f31ca</guid>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Health/ E25-453346: Procurement of a National Support Unit to support implementation of the First Nations Maternal and Child Health Program</title>
@@ -332,6 +311,13 @@
       <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>E24-47520: Provision of Enterprise Computing Services for the Department of Health, Disability and Ageing</title>
+      <link>https://www.tenders.gov.au/Atm/Show/07e2c5e5-1732-40c5-aa76-177cf66f31ca</link>
+      <description>&lt;p&gt;The Department of Health, Disability and Ageing is seeking a qualified Enterprise Computing Provider to deliver specialised services within a complex ICT environment. The scope of this procurement is to engage an experienced Provider to deliver Enterprise Computing services for the purpose of providing compute, storage, data centre network and cloud services to support Department applications and digital platforms.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/07e2c5e5-1732-40c5-aa76-177cf66f31ca</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>10031678: Co-design Partner for the National Media Literacy Strategy</title>
       <link>https://www.tenders.gov.au/Atm/Show/52648372-094d-4802-b3e9-4091d7812684</link>
       <description>&lt;p&gt;The Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (the Department) is seeking to procure an organisation to partner with the Department to co-design Australia’s first National Media Literacy Strategy (the Strategy).&lt;/p&gt;</description>
@@ -412,6 +398,13 @@
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>26ACMA062: Van Refresh Project Part B</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5ae5a388-9b11-4b35-b522-7dc1dd0550f6</link>
+      <description>&lt;p&gt;This Approach to Market (ATM) is for the supply, installation, and calibration of a Very High Frequency (VHF) and Ultra High Frequency (UHF) Technical Hardware Solution, to support spectrum monitoring and broadcast measurement operations undertaken by the Australian Communications and Media Authority.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5ae5a388-9b11-4b35-b522-7dc1dd0550f6</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>SPC-10676: Provision of an Interactions Centre Solution</title>
       <link>https://www.tenders.gov.au/Atm/Show/e54e5a66-69e0-4147-a1a0-8092c5941f63</link>
       <description>&lt;p&gt;Provision of an Interactions Centre Solution&lt;/p&gt;</description>
@@ -438,6 +431,14 @@
       <description>&lt;p&gt;To establish a Contract for Standby Rope Access /Egress for Flag Changes at Australian Parliament House&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/166bad85-1b8f-44d4-b6db-1e04a2eff49e</guid>
       <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PRN2025-200: Positive Airway Pressure (PAP) Products and Associated Services and/or Domiciliary Medical Oxygen Therapy (DMOT)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/aee231ea-491a-4bf9-80c6-478eed5c8209</link>
+      <description>&lt;p&gt;This Request for Tender (RFT) seeks contractors to supply and deliver respiratory equipment, specifically Positive Airway Pressure (PAP) and Domiciliary Medical Oxygen Therapy (DMOT), to Entitled Persons nationwide.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/aee231ea-491a-4bf9-80c6-478eed5c8209</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DFAT-1079: Australia Awards Philippines</title>
@@ -504,6 +505,13 @@
       <description>&lt;p&gt;Property and Facilities Management Services – Overseas – Request for Tender&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/31a58a22-5d63-4b89-a3b5-3ceb90312727</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEFENCE/REOI/61094: Request for Expressions of Interest - Advanced Capabilities Investment (ACI) Fund</title>
+      <link>https://www.tenders.gov.au/Atm/Show/411bc40f-c8a8-4589-b689-fd72eefad6c2</link>
+      <description>&lt;p&gt;This REOI is seeking proposals from private capital to inform potential co-investment into an ACI Fund(s).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/411bc40f-c8a8-4589-b689-fd72eefad6c2</guid>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MGF_17: Supply of Medical Grade Footwear to eligible persons</title>
