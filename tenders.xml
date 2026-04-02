@@ -4,31 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 01 Apr 2026 16:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 16:35:03 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>ATM_2026_6011: Storage and management of the Commonwealth-owned stockpile of Technical Grade Urea (TGU)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/047302cf-0fc2-4796-940b-80b032046881</link>
-      <description>&lt;p&gt;The Department, on behalf of the Commonwealth of Australia, will extend the government-owned 7,500 tonne TGU stockpile, which was established in 2022. A supplier was contracted to manage the purchase, storage and turnover of the stockpile. The contract with the current supplier is due to expire on 30 June 2026. The Department is seeking a new open tender for the contract to store and manage the stockpile.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/047302cf-0fc2-4796-940b-80b032046881</guid>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WS2975015896: RFI Airservices Australia Ballina Phase 2 interim Control Tower Solution</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4eaf0ad4-1718-4445-bed2-4e7de1befc71</link>
-      <description>&lt;h2&gt;Airservices seeks to understand the current landscape of companies supplying control tower solutions.&lt;/h2&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h2&gt;&amp;nbsp;&lt;/h2&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4eaf0ad4-1718-4445-bed2-4e7de1befc71</guid>
-      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>12816: Architectural and Building Project Management Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/f514b86c-1d51-4265-8424-a75c8a842ee5</link>
-      <description>&lt;p&gt;Architectural and Building Project Management Services.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/f514b86c-1d51-4265-8424-a75c8a842ee5</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>LC4 IST SUMMIT 2026: LC4 IS and T Summit 2026</title>
       <link>https://www.tenders.gov.au/Atm/Show/1e972c85-8885-48bc-9f4e-a4c4c76272d5</link>
@@ -105,13 +82,6 @@
       <description>&lt;p&gt;RAAF Pearce Building Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/a60f94b9-e395-4d17-b340-479331433008</guid>
       <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSD/RFT/74800/1: Land Command, Control, Communications and Compute (C4) Panel for Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c9b1cc31-328e-4ebf-ba4c-6a6946e496a8</link>
-      <description>&lt;p&gt;The Commonwealth requires a range of technical specialist services to support the continued evolution and modernisation of the LC4 capability system and seeks to establish a Standing Offer Panel for Services&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c9b1cc31-328e-4ebf-ba4c-6a6946e496a8</guid>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-8377: Government Investigations Training</title>
@@ -312,6 +282,13 @@
       <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DCET-EST10003-DSCNOT: EST10003 RAAF Base Tindal Renewable Energy Microgrid Project - AusTender Notice of Potential Upcoming - DSC Procurement</title>
+      <link>https://www.tenders.gov.au/Atm/Show/28f3b93f-2c31-4c5b-b7d6-562a289df597</link>
+      <description>&lt;p&gt;EST10003 RAAF Base Tindal Renewable Energy Microgrid Project - AusTender Notice of Potential Upcoming - Design Services Consultant Procurement&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/28f3b93f-2c31-4c5b-b7d6-562a289df597</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST11223: RAAF Edinburgh Road Upgrade, SA</title>
       <link>https://www.tenders.gov.au/Atm/Show/2ec79593-453e-463e-9584-dcf14b9fa816</link>
       <description>&lt;p&gt;RAAF Edinburgh Road Upgrade&lt;/p&gt;</description>
@@ -421,6 +398,13 @@
       <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>JSD/RFT/74800/1: Land Command, Control, Communications and Compute (C4) Panel for Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c9b1cc31-328e-4ebf-ba4c-6a6946e496a8</link>
+      <description>&lt;p&gt;The Commonwealth requires a range of technical specialist services to support the continued evolution and modernisation of the LC4 capability system and seeks to establish a Standing Offer Panel for Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c9b1cc31-328e-4ebf-ba4c-6a6946e496a8</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>10018855: Deliver the National Justice Reinvestment Unit</title>
       <link>https://www.tenders.gov.au/Atm/Show/9f38d9d4-b064-4980-8b6d-159beead94cd</link>
       <description>&lt;p&gt;The objectives of the National Justice&amp;nbsp;Reinvestment Unit (NJRU) are to support and&amp;nbsp;build capability for up to 30 Commonwealth-&amp;nbsp;funded justice reinvestment initiatives.&lt;/p&gt;</description>
@@ -443,13 +427,6 @@
 &lt;p&gt;- provide advice and assistance to potential grant applicants with grant application guidance and support for Phase Two.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e607d721-632f-4c49-9044-3ce7b8fc7921</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ATM_2025_4157: Contamination Management Plans for Jabiru Town</title>
-      <link>https://www.tenders.gov.au/Atm/Show/897611f0-6cc3-4e70-bf6b-627369f9a030</link>
-      <description>&lt;p&gt;Contamination Management Plans for Jabiru Town&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/897611f0-6cc3-4e70-bf6b-627369f9a030</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>26ACMA085: Mail Security Screening Services</title>
@@ -529,6 +506,14 @@
       <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ANAO-Tranches 1-5: Provision of Financial Statements Audit Services 2026-27 and Future Years Tranches 1 - 5</title>
+      <link>https://www.tenders.gov.au/Atm/Show/cca5c67e-a43c-4d53-bddf-678eab8b8062</link>
+      <description>&lt;p&gt;The ANAO is seeking Tenders for the provision of Tranches 1 - 5 Financial Statements Audit Services, 2026–27 and future years.&lt;/p&gt;
+&lt;p&gt;The detailed specifications and requirements for the Services are set out in Schedule 1 – Statement of Requirements.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/cca5c67e-a43c-4d53-bddf-678eab8b8062</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>5766-2025-26: ISO Certification Services - Australian Weather Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/f20fa015-010d-4455-975f-16b06eda39a3</link>
       <description>&lt;p&gt;The provision of a service provider to deliver the ISO Certification Serivces - Australian Weather Services.&amp;nbsp;&lt;/p&gt;</description>
@@ -541,6 +526,13 @@
       <description>&lt;p&gt;This REOI is seeking proposals from private capital to inform potential co-investment into an ACI Fund(s).&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/411bc40f-c8a8-4589-b689-fd72eefad6c2</guid>
       <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prevalence Survey: Prevalence Survey on Military Sexual Trauma</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3b4be8b4-d0c3-4761-a28a-e7f22d8d32a6</link>
+      <description>&lt;p&gt;Prevalence Survey on Military Sexual Trauma&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3b4be8b4-d0c3-4761-a28a-e7f22d8d32a6</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2025_5935: Gaseous Fire Suppression Industry Report</title>
@@ -575,6 +567,13 @@
       <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>75032: Fire Alarm Monitoring Services - Defence Sites</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2682535e-4d8e-4238-9b7b-2a8703a437a1</link>
+      <description>&lt;p&gt;To establish contract for fire alarm monitoring services - Defence sites Victoria&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2682535e-4d8e-4238-9b7b-2a8703a437a1</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST10807: Gallipoli Barracks Building Services Upgrades, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/011b6e0e-bb30-4d97-a85d-47687923e9a1</link>
       <description>&lt;p&gt;Gallipoli Barracks Building Services Upgrades&lt;/p&gt;</description>
@@ -603,6 +602,13 @@
       <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>NGA25-059: Request for Tender for Sculpture Garden Principal's Authorised Person</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a74bf231-2330-4abb-907f-13500c16f2d7</link>
+      <description>&lt;p&gt;The National Gallery invites Tenders for the provision engage a Principal’s Authorised Person (PAP) to administer the Evaluation, Construction and Defects Liability Periods (DLP) of the Sculpture Garden project in accordance with this Request for Tender (RFT).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a74bf231-2330-4abb-907f-13500c16f2d7</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>OOSGG AH Designs: OOSGG AH Accessibility &amp; Other Design requirements</title>
       <link>https://www.tenders.gov.au/Atm/Show/0fb58f98-de4f-4c36-bb6a-5257984e5dc1</link>
       <description>&lt;p&gt;OOSGG AH Accessibility &amp;amp; Other Design Requirements&lt;/p&gt;</description>
@@ -621,11 +627,25 @@
       <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>77719: Financial Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/48719530-b838-4aa5-94da-ad02b7fb98bf</link>
+      <description>&lt;p&gt;Provision of financial accounting, budget management, and taxation management services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/48719530-b838-4aa5-94da-ad02b7fb98bf</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>77680: RFT for Collective and Individual Training Support Services (CITSS)</title>
       <link>https://www.tenders.gov.au/Atm/Show/f3c50506-f516-4193-9235-79d371a2941a</link>
       <description>&lt;p&gt;Collective and Individual Training Support Services (CITSS) Standing Offer Panel - Panel Refresh&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/f3c50506-f516-4193-9235-79d371a2941a</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST10782: South Bandiana Building Refurbishments, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/249a0ac0-81cb-446c-a628-5828f13fd26c</link>
+      <description>&lt;p&gt;South Bandiana Building Refurbishments, VIC&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/249a0ac0-81cb-446c-a628-5828f13fd26c</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DHA-PROC26/572: Expression of Interest - Furnishings, Storage, Logistics and Associated Services</title>
@@ -653,6 +673,13 @@
       <description>&lt;p&gt;Joint Project 8218 Theatre Logistics Deployable Infrastructure Request For Proposal&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/4f73c11e-964e-4ea7-882d-af6cb390c04f</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2025_4157: Contamination Management Plans for Jabiru Town</title>
+      <link>https://www.tenders.gov.au/Atm/Show/897611f0-6cc3-4e70-bf6b-627369f9a030</link>
+      <description>&lt;p&gt;Contamination Management Plans for Jabiru Town&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/897611f0-6cc3-4e70-bf6b-627369f9a030</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>10018162: Child Sexual Abuse Recidivism Reduction Pilot Service</title>
