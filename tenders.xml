@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 07 Apr 2026 17:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:35:01 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>ASCA EDT RFP P2ISR: Advance Notice - RFP for ASCA EDT - P2ISR</title>
-      <link>https://www.tenders.gov.au/Atm/Show/d4a79eb1-641e-4771-8b57-60a62e1166d6</link>
-      <description>&lt;p&gt;Advance Notice of RFP - ASCA Emerging and Disruptive Technologies - P2ISR&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/d4a79eb1-641e-4771-8b57-60a62e1166d6</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>234-P010: PNG ESSENTIAL SERVICES GOLDIE RIVER TRAINING DEPOT - WORKS PACKAGE 2 CONSTRUCTION</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b41726ab-a514-4ee3-b7a5-89ce776013fb</link>
-      <description>&lt;p&gt;Upgrade of wastewater network at Goldie River Training Depot, PNG.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b41726ab-a514-4ee3-b7a5-89ce776013fb</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>S-EST10743: RAAF Pearce Building Works, WA</title>
       <link>https://www.tenders.gov.au/Atm/Show/a60f94b9-e395-4d17-b340-479331433008</link>
@@ -574,6 +560,13 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>14208: Climate change planning for Australian Marine Parks</title>
+      <link>https://www.tenders.gov.au/Atm/Show/71770e72-4c5f-4b9b-81e9-30fc7b741658</link>
+      <description>&lt;p&gt;Climate change planning for Australian Marine Parks&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/71770e72-4c5f-4b9b-81e9-30fc7b741658</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM_2026_6047: Game On: Teaming up for climate action</title>
       <link>https://www.tenders.gov.au/Atm/Show/c8893b13-74e3-45b4-8856-bc9fad404c88</link>
       <description>&lt;p&gt;Program Support Services for the Game On: Teaming up for climate action program&lt;/p&gt;</description>
@@ -621,6 +614,13 @@
       <description>&lt;p&gt;Source office accommodation within Hobart CBD (Tasmania), for Services Australia (SA); Australian Bureau of&amp;nbsp;Statistics (ABS); and other government entities.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/cc917c96-ca55-4bb8-91a5-5ea739e0ce76</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST09290: Palmer Barracks Infrastructure Works, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3505c99a-6525-4c95-a9e6-d527a9bb673a</link>
+      <description>&lt;p&gt;Palmer Barracks Infrastructure Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3505c99a-6525-4c95-a9e6-d527a9bb673a</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PSC002818: Provision of Nuclear Medicine Facility Process Design &amp; Design Integration and Process Design Peer Review</title>
@@ -673,6 +673,26 @@
 &lt;p&gt;&lt;strong&gt;Upon registration and Deed of Confidentiality execution, an Information Pack can be provided to Respondents with further details&lt;/strong&gt;.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/88ace3ad-d774-468a-bc10-428168ff2d11</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASCA EDT P2ISR RFP: 82130 Advanced Strategic Capabilities Accelerator Emerging and Disruptive Technologies P2ISR Request for Proposal</title>
+      <link>https://www.tenders.gov.au/Atm/Show/844c5914-caa1-44e4-af81-6f84233b7f46</link>
+      <description>&lt;p&gt;Request for Proposal for EDT Projects for Persistent and Pervasive Intelligence Surveillance and Reconnaissance&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/844c5914-caa1-44e4-af81-6f84233b7f46</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DPS26000682: Broadcast cameras, lenses and associated camera control infrastructure</title>
+      <link>https://www.tenders.gov.au/Atm/Show/9426faea-ba6b-4f7c-bc80-c8cb1b8ee1bc</link>
+      <description>&lt;p&gt;The Department of Parliamentary Services (DPS) Broadcasting Services team requires a&amp;nbsp;fleet of cameras, lenses and camera control systems, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ultra-High Definition (UHD)(4K) EFP camera lenses&lt;/li&gt;
+&lt;li&gt;EFP broadcast camera backs which provide Ultra-High Definition (UHD)(4K) capability&lt;/li&gt;
+&lt;li&gt;ENG cameras with lenses for truly portable scenarios&lt;/li&gt;
+&lt;li&gt;Modern broadcasting camera control system and supporting infrastructure.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/9426faea-ba6b-4f7c-bc80-c8cb1b8ee1bc</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ASD/RFT/71156/1: F/A-18F &amp; EA-18G LIAISON OFFICE CONTRACT FOR SUPPORT SERVICES</title>
