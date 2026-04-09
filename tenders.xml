@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 08 Apr 2026 17:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>S-EST10743: RAAF Pearce Building Works, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/a60f94b9-e395-4d17-b340-479331433008</link>
-      <description>&lt;p&gt;RAAF Pearce Building Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/a60f94b9-e395-4d17-b340-479331433008</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>PSC002628-01: EOI Asbestos &amp; Hazmat Consultant</title>
       <link>https://www.tenders.gov.au/Atm/Show/a654de09-3d61-44e5-8f1e-f6717a0c974f</link>
@@ -219,13 +212,6 @@
       <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>S-EST11122: HMAS Cerberus Building Refurbishment, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ee710cba-7779-4c40-8c09-912ac6c47584</link>
-      <description>&lt;p&gt;HMAS Cerberus Building Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ee710cba-7779-4c40-8c09-912ac6c47584</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>DCET-EST10003-DSCNOT: EST10003 RAAF Base Tindal Renewable Energy Microgrid Project - AusTender Notice of Potential Upcoming - DSC Procurement</title>
       <link>https://www.tenders.gov.au/Atm/Show/28f3b93f-2c31-4c5b-b7d6-562a289df597</link>
       <description>&lt;p&gt;EST10003 RAAF Base Tindal Renewable Energy Microgrid Project - AusTender Notice of Potential Upcoming - Design Services Consultant Procurement&lt;/p&gt;</description>
@@ -321,13 +307,6 @@
       <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>PR10031930 - RASS: Remote Air Services Subsidy (RASS) Scheme Air Operators</title>
-      <link>https://www.tenders.gov.au/Atm/Show/caebbda0-a773-4c9b-b19a-10483b2f0505</link>
-      <description>&lt;p&gt;Provision of air services to remote and isolated areas of Australia, under the Remote Air Services Subsidy RASS) Scheme.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/caebbda0-a773-4c9b-b19a-10483b2f0505</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>S-EST11097: Jezzine Barracks Building Refurbishment, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/dcd5dda3-75c8-4bb3-9ae8-f475a81c70d4</link>
       <description>&lt;p&gt;Jezzine Barracks Building Refurbishment Works&lt;/p&gt;</description>
@@ -415,6 +394,13 @@
       <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PROC 7725 Revised: Revised- Security Guarding Services and Alarm Monitoring</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1488a4bd-dde6-4895-979c-4828f69eed1a</link>
+      <description>&lt;p&gt;Revised - Security Guarding Services and Alarm Monitoring&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1488a4bd-dde6-4895-979c-4828f69eed1a</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GA2025/2754: Kinetic Pyrolyser System</title>
       <link>https://www.tenders.gov.au/Atm/Show/4889df68-481f-41fb-94da-aad9d6332180</link>
       <description>&lt;p&gt;GA is seeking Supplier/s to provide a modern kinetic pyrolyser system capable of conducting both source rock evaluation and kinetic pyrolysis across a diverse range of geological materials, including cores, cuttings, recent sediments, and oil asphaltenes. The system must also provide enhanced functionality to support GA’s expanding mineral research objectives under the Resourcing Australia's Prosperity initiative.&lt;/p&gt;</description>
@@ -455,6 +441,20 @@
       <description>&lt;p&gt;Property and Facilities Management Services – Overseas – Request for Tender&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/31a58a22-5d63-4b89-a3b5-3ceb90312727</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PR10031930 - RASS: Remote Air Services Subsidy (RASS) Scheme Air Operators</title>
+      <link>https://www.tenders.gov.au/Atm/Show/caebbda0-a773-4c9b-b19a-10483b2f0505</link>
+      <description>&lt;p&gt;Provision of air services to remote and isolated areas of Australia, under the Remote Air Services Subsidy RASS) Scheme.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/caebbda0-a773-4c9b-b19a-10483b2f0505</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST11122: HMAS Cerberus Building Refurbishment, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ee710cba-7779-4c40-8c09-912ac6c47584</link>
+      <description>&lt;p&gt;HMAS Cerberus Building Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ee710cba-7779-4c40-8c09-912ac6c47584</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2026_5959: Request for Expression of Interest (EOI) Northern Basin Catchments</title>
@@ -532,11 +532,25 @@
       <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>10032547: Creative and Digital Communication services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/90d01aca-84b4-41a2-a2bb-f52f403dffdc</link>
+      <description>&lt;p&gt;This Approach to Market (ATM) is for the provision of strategic brand and communication services; graphic design services; authoring and editorial services; digital communication services; film and video services; still photography services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/90d01aca-84b4-41a2-a2bb-f52f403dffdc</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>75032: Fire Alarm Monitoring Services - Defence Sites</title>
       <link>https://www.tenders.gov.au/Atm/Show/2682535e-4d8e-4238-9b7b-2a8703a437a1</link>
       <description>&lt;p&gt;To establish contract for fire alarm monitoring services - Defence sites Victoria&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/2682535e-4d8e-4238-9b7b-2a8703a437a1</guid>
       <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT 1091: Primary Health Care for Papua New Guinea (PHC4PNG)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/682c0b32-aee1-44d2-aa08-5d52a61dd992</link>
+      <description>&lt;p&gt;This investment supports Papua New Guinea (PNG) to strengthen integrated primary health care - partifularly in rural and remote areas by&amp;nbsp; improving provincial governance, financing, and service delivery to achieve better health outcomes aligned with the National Health Plan 2021–2030.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/682c0b32-aee1-44d2-aa08-5d52a61dd992</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST10807: Gallipoli Barracks Building Services Upgrades, QLD</title>
@@ -607,6 +621,13 @@
       <description>&lt;p&gt;RAAF Williamtown Building Refurbishment, NSW&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/fdc37bf2-987c-480e-8c24-091d7773e9a7</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIMSRFT784: The Design &amp; Supply of a Coral Device Deployment Dispenser</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5300d7b4-ce3a-458f-8d5b-53684bbe4543</link>
+      <description>&lt;p&gt;AIMS is seeking tenders for the design and/or manufacture of a dispensing device for the deployment of coral seeding devices across the GBR&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5300d7b4-ce3a-458f-8d5b-53684bbe4543</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Hobart Accommodation: EOI Hobart Accommodation</title>
