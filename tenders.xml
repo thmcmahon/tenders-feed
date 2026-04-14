@@ -4,43 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 13 Apr 2026 17:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:35:07 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DFAT-1083: Australia - North Pacific Connector</title>
-      <link>https://www.tenders.gov.au/Atm/Show/f02365f8-4c1e-494c-a7ae-7f8c226a6937</link>
-      <description>&lt;p&gt;Australia - North Pacific Connector&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/f02365f8-4c1e-494c-a7ae-7f8c226a6937</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST10830: Garden Island Civil and Dosing Plant Works, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/20ab3975-9dbc-4ed6-b1af-c790d4e943b0</link>
-      <description>&lt;p&gt;Garden Island Civil and Dosing Plant Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/20ab3975-9dbc-4ed6-b1af-c790d4e943b0</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DPS26000789: MAINTENANCE AND REPAIR SERVICES TO PERIMETER SECURITY BOLLARDS AT APH</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4539aaa2-ecbf-4a4f-8651-d7cad8f09f3d</link>
-      <description>&lt;p&gt;Maintenance and repair services to Perimeter security Bollards at APH.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4539aaa2-ecbf-4a4f-8651-d7cad8f09f3d</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASCA-PITCHDAY-26-RC2: ASCA Pitch Day 2026 - Resilient Command and Control (C2)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/68f7d3ff-6662-4548-a7e6-1f7bb00d9f28</link>
-      <description>&lt;p&gt;Request for Information on innovative technologies that ensure resilient command and control for Defence.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/68f7d3ff-6662-4548-a7e6-1f7bb00d9f28</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST11100: RAAF Amberley Building Refurbishment, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/dcb04f35-06b6-4271-aa2a-2987b49b9f00</link>
-      <description>&lt;p&gt;RAAF Amberley Building Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/dcb04f35-06b6-4271-aa2a-2987b49b9f00</guid>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>DCET-EST10003-DSCNOT: EST10003 RAAF Base Tindal Renewable Energy Microgrid Project - AusTender Notice of Potential Upcoming - DSC Procurement</title>
       <link>https://www.tenders.gov.au/Atm/Show/28f3b93f-2c31-4c5b-b7d6-562a289df597</link>
@@ -145,6 +110,13 @@
       <description>&lt;p&gt;PNG Economic and Social Infrastructure Program (ESIP 2)&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/9166c8c7-0598-47ad-bb9f-30311d928786</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST11100: RAAF Amberley Building Refurbishment, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/dcb04f35-06b6-4271-aa2a-2987b49b9f00</link>
+      <description>&lt;p&gt;RAAF Amberley Building Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/dcb04f35-06b6-4271-aa2a-2987b49b9f00</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST11097: Jezzine Barracks Building Refurbishment, QLD</title>
@@ -571,6 +543,24 @@
       <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PSC002845: RFI for a Self-Service Contract Management System (CMS)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0c388c64-a4ae-409c-b173-8ed77d9a80f0</link>
+      <description>&lt;p&gt;ANSTO is a corporate Commonwealth entity and Australia’s nuclear research and technology organisation. ANSTO is responsible for delivering specialised advice, scientific services and products to government, industry, academia and other research organisations. It is our mission to deliver knowledge, value and trust through the application of nuclear science, technology and engineering.&lt;/p&gt;
+&lt;p&gt;ANSTO has a fully implemented contract management system that has been in place for circa 5 years.&amp;nbsp; ANSTO seeks to review what is available in the market to determine its planning for a software-as-a-service solution (ie not a bespoke build) contract management system in future years and to understand the technology options available.&lt;/p&gt;
+&lt;p&gt;ANSTO seeks information regarding suitably qualified and experienced Suppliers of, and their plan to deliver, a contract management system that meets the requirements ANSTO has currently identified below (the &lt;strong&gt;System&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The details sought for the System are comprised of:&lt;/p&gt;
+&lt;p&gt;a)&amp;nbsp;&amp;nbsp;&amp;nbsp; Details on functionality and capacity, and options for implementation (including data migration capability) and information on data hosting, security and management, including cyber security, by reference to the requirements set out below;&lt;/p&gt;
+&lt;p&gt;b)&amp;nbsp;&amp;nbsp;&amp;nbsp; Indicative pricing for an off the shelf product; and&lt;/p&gt;
+&lt;p&gt;c)&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Additional information about the Supplier.&lt;/p&gt;
+&lt;p&gt;These can be provided by completing Part B and the table in this Part C.&lt;/p&gt;
+&lt;p&gt;This is &lt;strong&gt;not &lt;/strong&gt;&lt;strong&gt;an approach to market&lt;/strong&gt; at this stage.&amp;nbsp; This is a request for information to gather information about what is available, and a mechanism for ANSTO to understand suitable contract management systems available for a corporate Commonwealth entity in Australia.&lt;/p&gt;
+&lt;p&gt;If you choose not to respond to this request, you may still respond to any future open approach to market by ANSTO for a contract management system.&amp;nbsp; Please be aware that ANSTO may use information provided in this RFI including to inform future planning including development of requirements in a future approach to market (which may change from this RFI) and budgeting, and as otherwise outlined in Part D of this RFI.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0c388c64-a4ae-409c-b173-8ed77d9a80f0</guid>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ASCA EDT P2ISR RFP: 82130 Advanced Strategic Capabilities Accelerator Emerging and Disruptive Technologies P2ISR Request for Proposal</title>
       <link>https://www.tenders.gov.au/Atm/Show/844c5914-caa1-44e4-af81-6f84233b7f46</link>
       <description>&lt;p&gt;Request for Proposal for EDT Projects for Persistent and Pervasive Intelligence Surveillance and Reconnaissance&lt;/p&gt;</description>
@@ -617,6 +607,13 @@
       <description>&lt;p&gt;Contamination Management Plans for Jabiru Town&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/897611f0-6cc3-4e70-bf6b-627369f9a030</guid>
       <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPINFRA-MS-2026-01: Maintenance and Living Services Contract - HMPNGS Tarangau PNG</title>
+      <link>https://www.tenders.gov.au/Atm/Show/cc605474-cfce-4486-81a8-f9fc5ca076b7</link>
+      <description>&lt;p&gt;Provision of M&amp;amp;S and Living Services at HMPNGS Tarangau (Lombrum), Manus Island PNG&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/cc605474-cfce-4486-81a8-f9fc5ca076b7</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>10018162: Child Sexual Abuse Recidivism Reduction Pilot Service</title>
