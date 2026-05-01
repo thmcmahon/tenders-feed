@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Thu, 30 Apr 2026 17:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 17:35:10 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>ATM_2025_5935: Gaseous Fire Suppression Industry Report</title>
-      <link>https://www.tenders.gov.au/Atm/Show/0641e06f-2271-427e-bb5f-ccae93ce8cbe</link>
-      <description>&lt;p&gt;Provision of a Gaseous Fire Suppression Industry Report to the Department of Climate Change, Energy, the Environment &amp;amp; Water&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/0641e06f-2271-427e-bb5f-ccae93ce8cbe</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>GA-2026-484: 5-year Queensland Corner Reflector Array Maintenance &amp; Survey</title>
       <link>https://www.tenders.gov.au/Atm/Show/8a43b2ca-6ba5-497c-b01a-ee9f4c415892</link>
@@ -84,13 +77,6 @@
       <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>ATM_2026_6251: Event Management Services for Pre-COP meetings in Fiji</title>
-      <link>https://www.tenders.gov.au/Atm/Show/cdffdfa2-5e68-4951-af1d-ad087b54b6ea</link>
-      <description>&lt;p&gt;Seeking to engage a suitably experienced and qualified management services contractor to provide strategic planning, operational manaagement and integrated event delivery services for Pre-COP.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/cdffdfa2-5e68-4951-af1d-ad087b54b6ea</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>NMAT 2526-08: Media Buying Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/7b2e05f7-150d-4477-aada-2e080be7b8e1</link>
       <description>&lt;p&gt;The National Museum of Australia is seeking a full-service media agency to lead and manage media buying activities across paid digital, traditional and emerging channels&lt;/p&gt;</description>
@@ -131,6 +117,13 @@
       <description>&lt;p&gt;OOSGG AH Accessibility &amp;amp; Other Design Requirements&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/0fb58f98-de4f-4c36-bb6a-5257984e5dc1</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2026_6251: Event Management Services for Pre-COP meetings in Fiji</title>
+      <link>https://www.tenders.gov.au/Atm/Show/cdffdfa2-5e68-4951-af1d-ad087b54b6ea</link>
+      <description>&lt;p&gt;Seeking to engage a suitably experienced and qualified management services contractor to provide strategic planning, operational manaagement and integrated event delivery services for Pre-COP.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/cdffdfa2-5e68-4951-af1d-ad087b54b6ea</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AIMSRFT784: The Design &amp; Supply of a Coral Device Deployment Dispenser</title>
@@ -403,6 +396,13 @@
       <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>CASRFI-2026: CAS RFI</title>
+      <link>https://www.tenders.gov.au/Atm/Show/dbf2a3e6-81e2-49ae-8c21-41fbae305c3c</link>
+      <description>&lt;p&gt;Request For Information in Relation to Clinical Advisory Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/dbf2a3e6-81e2-49ae-8c21-41fbae305c3c</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DFAT-1082: Laos Australia Institute Phase IV</title>
       <link>https://www.tenders.gov.au/Atm/Show/73c6d081-9678-49e1-8606-b15d1257404f</link>
       <description>&lt;p&gt;Laos Australia Institute Phase IV&lt;/p&gt;</description>
@@ -451,6 +451,13 @@
       <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DFAT-1094: Design of the Australian Humanitarian Partnership Phase 3</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4695e423-17e4-4633-a6b8-f27888e748a8</link>
+      <description>&lt;p&gt;Design of the Australian Humanitarian&amp;nbsp; Partnership Phase 3&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4695e423-17e4-4633-a6b8-f27888e748a8</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM_2025_4157: Contamination Management Plans for Jabiru Town</title>
       <link>https://www.tenders.gov.au/Atm/Show/897611f0-6cc3-4e70-bf6b-627369f9a030</link>
       <description>&lt;p&gt;Contamination Management Plans for Jabiru Town&lt;/p&gt;</description>
@@ -458,11 +465,25 @@
       <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ATM_2026_5994: Electricity Demand and Network Impacts Modelling Capability</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d8e2cbe6-649f-4cfc-9318-7db799af6fb9</link>
+      <description>&lt;p&gt;The Department of Climate Change, Energy, the Environment and Water is seeking an integrated modelling capability to analyse electricity demand and network impacts under different future scenarios, including electrification, EV uptake, consumer energy resources and large industrial loads.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d8e2cbe6-649f-4cfc-9318-7db799af6fb9</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>IPINFRA-MS-2026-01: Maintenance and Living Services Contract - HMPNGS Tarangau PNG</title>
       <link>https://www.tenders.gov.au/Atm/Show/cc605474-cfce-4486-81a8-f9fc5ca076b7</link>
       <description>&lt;p&gt;Provision of M&amp;amp;S and Living Services at HMPNGS Tarangau (Lombrum), Manus Island PNG&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/cc605474-cfce-4486-81a8-f9fc5ca076b7</guid>
       <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DPS26001013: To establish a Contract for Contract for Maintenance Services for Electric Vehicle (EV) Charging Stations at Australian</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4081bc9f-4db5-4513-bdfa-52f2f5985131</link>
+      <description>&lt;p&gt;Maintenance services related to the EV charging stations at Australian Parliament House (APH)&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4081bc9f-4db5-4513-bdfa-52f2f5985131</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>25AMSA151: Indonesia Maritime Safety Technical Support Services</title>
@@ -484,6 +505,13 @@
       <description>&lt;p&gt;The ATO is seeking responses from the market for potential products and/or solutions for the requirement of a Biometric Liveness Detection Solution that can support the strategic objectives of the myID App. The intent of this RFI is identify the viability of potential solutions, the implementation and integration costs and the potential benefits of implementing this platform.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/cea1b989-ceb0-4b36-8b48-ac1330062362</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DTA-ICT-86508: Software and ERP Marketplace Panel - Category 2: Commercial-off-the-Shelf</title>
+      <link>https://www.tenders.gov.au/Atm/Show/244e6119-f160-4dd9-97fd-e0ab2036f393</link>
+      <description>&lt;p&gt;The Digital Transformation Agency (DTA) invites potential new sellers to apply to join Category 2 of the Commercial off the Shelf (COTS) Software and/or related services, operating as the Software and ERP Marketplace Panel.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/244e6119-f160-4dd9-97fd-e0ab2036f393</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFI C2025/450321: Request for Information - Global Patent Data API</title>
@@ -534,6 +562,13 @@
       <description>&lt;p&gt;Russell Lift Refurbishment Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/d49d06f5-a5f0-491a-a603-8f6952c446b6</guid>
       <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST10702: Simpson Barracks Building Refurbishment, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ffa9da3c-c526-4d6e-a5d7-c9f3dabbc7e2</link>
+      <description>&lt;p&gt;Simpson Barracks Building Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ffa9da3c-c526-4d6e-a5d7-c9f3dabbc7e2</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>TSY-ATM-109176: Learning and Development Services for the Treasury Graduate Development Program</title>
