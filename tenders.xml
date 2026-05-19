@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 18 May 2026 17:35:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>S-EST10799: RAAF Amberley Building Upgrades, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/8eea3284-2630-4854-86ed-ae80469f1d35</link>
-      <description>&lt;p&gt;RAAF Amberley Building Upgrades&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/8eea3284-2630-4854-86ed-ae80469f1d35</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>S-EST09290: Palmer Barracks Infrastructure Works, WA</title>
       <link>https://www.tenders.gov.au/Atm/Show/3505c99a-6525-4c95-a9e6-d527a9bb673a</link>
@@ -321,9 +314,9 @@
       <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>10032556: Remote Aerodrome Inspections</title>
+      <title>10032556: Establish services to undertake annual Remote Aerodrome Inspection</title>
       <link>https://www.tenders.gov.au/Atm/Show/2dcbd91e-bf5c-40af-a51d-803fb0492520</link>
-      <description>&lt;p&gt;&lt;span&gt;Inspections for up to 52 identified aerodromes in Northern Australia serving predominately First Nations communities in remote Australia.&lt;/span&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Inspections for up to 52 identified aerodromes in Northern Australia serving predominately First Nations communities in remote Australia.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/2dcbd91e-bf5c-40af-a51d-803fb0492520</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
     </item>
@@ -347,19 +340,6 @@
       <description>&lt;p&gt;The Customer seeks access to current, accurate, and reconciled project-level data on Australian utility-scale renewable energy generation, storage, and hybrid projects, drawn from multiple independent upstream sources&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/9c259f4f-0eb8-4825-b4e6-4bd6f09c40a1</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NRD07664: Charles Perkins House Lighting Upgrade</title>
-      <link>https://www.tenders.gov.au/Atm/Show/8107fae3-42ca-4df0-931f-dbbdb93e7952</link>
-      <description>&lt;p&gt;The lighting system at Charles Perkins House (CPH) is at end of life, unserviceable, and no longer compliant with current safety and performance standards. &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The existing lighting system is Clipsal Schneider DALI, as per the specifications in the Approach to Market document.&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The full LED upgrade must:&lt;/p&gt;
-&lt;p&gt;•&amp;nbsp;Ensure compliance with workplace safety and illumination standards.&lt;/p&gt;
-&lt;p&gt;•&amp;nbsp;Support the NIAA’s Net Zero targets through energy-efficient infrastructure.&lt;/p&gt;
-&lt;p&gt;•&amp;nbsp;Achieve recommended lux levels across all workstations.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/8107fae3-42ca-4df0-931f-dbbdb93e7952</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST11303: RAAF Edinburgh Remediation and Upgrades, SA</title>
@@ -388,6 +368,19 @@
       <description>&lt;p&gt;Air deployable drift modelling buoys&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/2634f124-5cad-4bf6-979b-734ce879ab51</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NRD07664: Charles Perkins House Lighting Upgrade</title>
+      <link>https://www.tenders.gov.au/Atm/Show/8107fae3-42ca-4df0-931f-dbbdb93e7952</link>
+      <description>&lt;p&gt;The lighting system at Charles Perkins House (CPH) is at end of life, unserviceable, and no longer compliant with current safety and performance standards. &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The existing lighting system is Clipsal Schneider DALI, as per the specifications in the Approach to Market document.&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The full LED upgrade must:&lt;/p&gt;
+&lt;p&gt;•&amp;nbsp;Ensure compliance with workplace safety and illumination standards.&lt;/p&gt;
+&lt;p&gt;•&amp;nbsp;Support the NIAA’s Net Zero targets through energy-efficient infrastructure.&lt;/p&gt;
+&lt;p&gt;•&amp;nbsp;Achieve recommended lux levels across all workstations.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/8107fae3-42ca-4df0-931f-dbbdb93e7952</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2026_6339: Provision of Host Broadcaster Services</title>
@@ -481,6 +474,18 @@
 &lt;p&gt;aid, and to undertake repairs and strengthening to Pier.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/c217583b-9dd8-4056-91e8-db4fef19e8bd</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NMAT2526/14: Deed of Standing Offer for Fine Art Freight Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/422e52b4-ba38-4166-a8c9-c32b98e84656</link>
+      <description>&lt;p&gt;The National Museum of Australia (‘the Customer’ or ‘the Museum’) researches, collects, preserves and exhibits historical material of the Australian nation as well as bringing international exhibitions to Australia for display. The Customer regularly requires fine art freight services to move exhibitions of varying sizes across Australia and internationally.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The Customer would like to establish a Deed of Standing Offer (DoSO) with experienced supplier(s) for the provision of international and domestic fine art freight services.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Tenderers are asked to respond to one or both of the following Service Categories:&lt;/p&gt;
+&lt;p&gt;1. International Fine Art Freight Services&lt;/p&gt;
+&lt;p&gt;2. Domestic Fine Art Freight Services&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;This DoSO will be available for use by all Commonwealth entities and companies.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/422e52b4-ba38-4166-a8c9-c32b98e84656</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PPCOP31T-26: Event planning, logistics and delivery support services</title>
@@ -596,6 +601,13 @@
       <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>24/1281/43: Reserve Bank of Australia – 65 Martin Place Head Office Redevelopment Stage 2 – Façade Engineering Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ebfa82f7-2ad6-4562-9434-9a47f73e4161</link>
+      <description>&lt;p&gt;Facade Engineering Services for the Base Building Design of the Reserve Bank’s 65 Martin Place Head Office Redevelopment Project&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ebfa82f7-2ad6-4562-9434-9a47f73e4161</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>LSD/RFP/54755/1: Joint Project 8218 Deployable Theatre Infrastructure</title>
       <link>https://www.tenders.gov.au/Atm/Show/4f73c11e-964e-4ea7-882d-af6cb390c04f</link>
       <description>&lt;p&gt;Joint Project 8218 Theatre Logistics Deployable Infrastructure Request For Proposal&amp;nbsp;&lt;/p&gt;</description>
@@ -625,11 +637,25 @@
       <pubDate>Wed, 16 Mar 2016 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Antarctic ATM26/95: ATM 26/95 SOra Main Works Package</title>
+      <link>https://www.tenders.gov.au/Atm/Show/156654f6-1d5c-4ce1-9577-ba8c1059bffc</link>
+      <description>&lt;p&gt;Construction services relating to the Southern Ocean Research Aquarium (SOra) main works package.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/156654f6-1d5c-4ce1-9577-ba8c1059bffc</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>JSD/RFT/75462/1: VLF Support Contract</title>
       <link>https://www.tenders.gov.au/Atm/Show/14c788ee-12f1-4713-8318-ff9e4f8cbc8e</link>
       <description>&lt;p&gt;Very Low Frequency (VLF) Support Contract&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/14c788ee-12f1-4713-8318-ff9e4f8cbc8e</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM24/3609: Antarctic Aviation Intracontinental Fixed-Wing Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/56aafd93-244a-4de1-b7de-6c23d3ef536e</link>
+      <description>&lt;p&gt;Antarctic Aviation Intracontinental Fixed-Wing Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/56aafd93-244a-4de1-b7de-6c23d3ef536e</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AZ6621: Defence-Ready Indigenous Supplier List</title>
