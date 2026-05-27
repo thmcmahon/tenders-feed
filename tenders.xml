@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 26 May 2026 17:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DPS26001013: To establish a Contract for Contract for Maintenance Services for Electric Vehicle (EV) Charging Stations at Australian</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4081bc9f-4db5-4513-bdfa-52f2f5985131</link>
-      <description>&lt;p&gt;Maintenance services related to the EV charging stations at Australian Parliament House (APH)&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4081bc9f-4db5-4513-bdfa-52f2f5985131</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>25AMSA151: Indonesia Maritime Safety Technical Support Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/4687dd39-4553-4646-bbe7-b0dc9fab9453</link>
@@ -26,13 +19,6 @@
       <description>&lt;p&gt;Event Stream Processing&amp;nbsp; Solution&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/7e1811ef-b671-4a52-a117-b2ecf5b69e03</guid>
       <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RFI-15434: Biometric Verification Capability</title>
-      <link>https://www.tenders.gov.au/Atm/Show/cea1b989-ceb0-4b36-8b48-ac1330062362</link>
-      <description>&lt;p&gt;The ATO is seeking responses from the market for potential products and/or solutions for the requirement of a Biometric Liveness Detection Solution that can support the strategic objectives of the myID App. The intent of this RFI is identify the viability of potential solutions, the implementation and integration costs and the potential benefits of implementing this platform.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/cea1b989-ceb0-4b36-8b48-ac1330062362</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST10782: South Bandiana Building Refurbishments, VIC</title>
@@ -154,6 +140,13 @@
       <description>&lt;p&gt;Printing and Distribution Services.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/27acbc22-a7bd-4acb-8ccf-3553c6527f67</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFI-15434: Biometric Verification Capability</title>
+      <link>https://www.tenders.gov.au/Atm/Show/cea1b989-ceb0-4b36-8b48-ac1330062362</link>
+      <description>&lt;p&gt;The ATO is seeking responses from the market for potential products and/or solutions for the requirement of a Biometric Liveness Detection Solution that can support the strategic objectives of the myID App. The intent of this RFI is identify the viability of potential solutions, the implementation and integration costs and the potential benefits of implementing this platform.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/cea1b989-ceb0-4b36-8b48-ac1330062362</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Antarctic ATM26/539: ATM 26/539 Customs Brokerage Services</title>
