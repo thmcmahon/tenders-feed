@@ -4,43 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 01 Jun 2026 17:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 17:35:03 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>S-EST10723: ESSB Rockhampton Civil Works, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b1884a59-5766-4496-b6bf-7485847a51e7</link>
-      <description>&lt;p&gt;ESSB Rockhampton Civil Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b1884a59-5766-4496-b6bf-7485847a51e7</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST10702: Simpson Barracks Building Refurbishment, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ffa9da3c-c526-4d6e-a5d7-c9f3dabbc7e2</link>
-      <description>&lt;p&gt;Simpson Barracks Building Refurbishment&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ffa9da3c-c526-4d6e-a5d7-c9f3dabbc7e2</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GA2026/818: Business intelligence Mineral &amp; Energy</title>
-      <link>https://www.tenders.gov.au/Atm/Show/146d09cb-d3a6-4981-9e9e-bdb9845cd7a5</link>
-      <description>&lt;p&gt;Business intelligence on the use of government precompetitive geoscience by the minerals and energy sectors&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/146d09cb-d3a6-4981-9e9e-bdb9845cd7a5</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NPG016: PROVISION OF CLEANING, HYGIENE, AND WASTE MANAGEMENT SERVICES</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4c34533c-594b-48ce-b0cf-3e56ca1a20b2</link>
-      <description>&lt;p&gt;Provision Of Cleaning, Hygiene, and Waste Managment Services at the National Portrait Gallery of Australia&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4c34533c-594b-48ce-b0cf-3e56ca1a20b2</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MECC-DNB-81912: Printing, Packaging and Distribution Coordination of Defence Newspapers</title>
-      <link>https://www.tenders.gov.au/Atm/Show/27acbc22-a7bd-4acb-8ccf-3553c6527f67</link>
-      <description>&lt;p&gt;Printing and Distribution Services.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/27acbc22-a7bd-4acb-8ccf-3553c6527f67</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>RFI-15434: Biometric Verification Capability</title>
       <link>https://www.tenders.gov.au/Atm/Show/cea1b989-ceb0-4b36-8b48-ac1330062362</link>
@@ -54,13 +19,6 @@
       <description>&lt;p&gt;Provision of Customs Brokerage Services to the Australian Antarctic Division&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/d0762690-9f0a-4535-b463-068d3e569f87</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST10829: Russell Lift Refurbishments, ACT</title>
-      <link>https://www.tenders.gov.au/Atm/Show/d49d06f5-a5f0-491a-a603-8f6952c446b6</link>
-      <description>&lt;p&gt;Russell Lift Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/d49d06f5-a5f0-491a-a603-8f6952c446b6</guid>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>MoAD-ATM-7369: Provision of Security Hardware and Maintenance Services</title>
@@ -179,6 +137,13 @@
       <description>&lt;p&gt;The Department of Climate Change, Energy, the Environment and Water is seeking an integrated modelling capability to analyse electricity demand and network impacts under different future scenarios, including electrification, EV uptake, consumer energy resources and large industrial loads.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/d8e2cbe6-649f-4cfc-9318-7db799af6fb9</guid>
       <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST10829: Russell Lift Refurbishments, ACT</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d49d06f5-a5f0-491a-a603-8f6952c446b6</link>
+      <description>&lt;p&gt;Russell Lift Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d49d06f5-a5f0-491a-a603-8f6952c446b6</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DTA-ICT-86508: Software and ERP Marketplace Panel - Category 2: Commercial-off-the-Shelf</title>
@@ -422,6 +387,13 @@
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>80064: Graphic and Digital Marketing Services to support industry engagements</title>
+      <link>https://www.tenders.gov.au/Atm/Show/c860d13d-1ae3-415b-8b13-9d16785ec38b</link>
+      <description>&lt;p&gt;Graphic and digital marketing services, as well as event management support for virtual events.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/c860d13d-1ae3-415b-8b13-9d16785ec38b</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>REOI 06-2026: Supply of Munitions</title>
       <link>https://www.tenders.gov.au/Atm/Show/533f8ff6-86f9-4df3-a259-efae1a754527</link>
       <description>&lt;p&gt;The AFP has an ongoing requirement to procure training and operational munitions.&lt;/p&gt;</description>
@@ -450,6 +422,13 @@
 &lt;p&gt;aid, and to undertake repairs and strengthening to Pier.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/c217583b-9dd8-4056-91e8-db4fef19e8bd</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-15553: Senior Executive Service Band 1 and Executive Level 2 Talent Development Programs</title>
+      <link>https://www.tenders.gov.au/Atm/Show/73819d39-f4a3-4234-aecb-3bc0c5266b00</link>
+      <description>&lt;p&gt;SES and EL2 Talent Development Programs&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/73819d39-f4a3-4234-aecb-3bc0c5266b00</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PSC002538: Provision of Personal Protective Equipment (PPE) to ANSTO</title>
@@ -485,6 +464,13 @@
       <description>&lt;p&gt;Joint Project 8218 Theatre Logistics Deployable Infrastructure Request For Proposal&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/4f73c11e-964e-4ea7-882d-af6cb390c04f</guid>
       <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>82752: BASENET Radio Upgrade</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f8539515-44b6-4f8d-8f2f-835427e7292d</link>
+      <description>&lt;p&gt;Communications upgrade of existing emergency radio network.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f8539515-44b6-4f8d-8f2f-835427e7292d</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>JCGSCIF26-3: Joint Capabilities Group (JCG) Space &amp; Cyber Domain Industry Forum 2026</title>
@@ -542,6 +528,20 @@
       <description>&lt;p&gt;Very Low Frequency (VLF) Support Contract&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/14c788ee-12f1-4713-8318-ff9e4f8cbc8e</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FSANZ-2026/6: Food Standards Australia New Zealand Laboratory Panel</title>
+      <link>https://www.tenders.gov.au/Advert/Show/b6793ee2-9cdb-4e98-8ff1-f32f72d4eb32</link>
+      <description>&lt;p&gt;Request for Tender (RFT) for the provision of food analysis services through a Food Standards Australia New Zealand (FSANZ) Laboratory Panel.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/b6793ee2-9cdb-4e98-8ff1-f32f72d4eb32</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>24/1281/42: Reserve Bank of Australia – 65 Martin Place Head Office Redevelopment Stage 1 – Building Engineering Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/91618e47-0e2c-42d4-b825-9768f4d639bf</link>
+      <description>&lt;p&gt;&lt;span&gt;Building Engineering Services for the Base Building Design of the Reserve Bank’s 65 Martin Place Head Office Redevelopment Project, covering mechanical services, electrical, lighting &amp;amp; communications services, hydraulic services, wet &amp;amp; dry fire services, electronic security, building technology, substation design, water services coordinator.&lt;/span&gt;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/91618e47-0e2c-42d4-b825-9768f4d639bf</guid>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>LCD LEWG 2026: Land Environment Working Group 2026</title>
