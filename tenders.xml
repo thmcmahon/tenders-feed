@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Thu, 02 Jul 2026 17:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>S-EST10701: Puckapunyal Building Refurbishment, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/05b18a5b-fab7-4018-9d64-df7edfe028e6</link>
-      <description>&lt;p&gt;Puckapunyal Building Refurbishment&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/05b18a5b-fab7-4018-9d64-df7edfe028e6</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST10700: North and East Bandiana Safety Works, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/7ffc132c-4699-4d5c-9c86-cd0735c6a4c8</link>
-      <description>&lt;p&gt;North and East Bandiana Safety Works, VIC&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/7ffc132c-4699-4d5c-9c86-cd0735c6a4c8</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>EFA2026002: Reinsurance Brokerage Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/9c979b2a-51d1-4ea9-9736-c00dc828ff38</link>
@@ -49,13 +35,6 @@
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>EFA2026015: Mechanical Repairs &amp; Maintenance</title>
-      <link>https://www.tenders.gov.au/Atm/Show/36e32c89-7775-43af-8d8a-3d67bb8e1739</link>
-      <description>&lt;p&gt;Mechanical Repairs &amp;amp; Maintenance Tender&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/36e32c89-7775-43af-8d8a-3d67bb8e1739</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>S-EST11042: Gallipoli &amp; Kokoda Barracks Infrastructure Upgrades, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/1c68b8f6-cd73-4947-8f7a-34fe3920f790</link>
       <description>&lt;p&gt;Gallipoli &amp;amp; Kokoda Barracks Infrastructure Upgrades&lt;/p&gt;</description>
@@ -82,21 +61,6 @@
       <description>&lt;p&gt;Communications upgrade of existing emergency radio network.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/f8539515-44b6-4f8d-8f2f-835427e7292d</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DCET2026-01A: EST10003 RAAF Base Tindal Renewable Energy Microgrid – Design Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/9493839c-93f9-4cb4-bf82-17949c5c8654</link>
-      <description>&lt;p&gt;The Defence Renewable Energy and Energy Security Program (DREESP) is looking to design a new microgrid renewable energy system for a Defence Base in the Northern Territory. As part of this process DREESP are seeking a Design Services Consultant to deliver the system design.&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;Deliverables include design documentation for all design stages encompassing:&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;o System layout and configuration&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;o Renewable energy resource assessment and integration strategy&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;o Energy storage system sizing and specification&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;o Control system architecture and communication protocols&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;o Cost estimation and feasibility considerations&amp;nbsp;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;o Clear technical basis for procurement and construction planning.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/9493839c-93f9-4cb4-bf82-17949c5c8654</guid>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>AFMA25-26-3: Provision of Fishery Monitoring services for the Southern Bluefin Tuna (SBT) Fishery</title>
@@ -168,6 +132,28 @@
       <description>&lt;p&gt;Northam Warehouse Refurbishment, WA&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/1dd65c59-dbb6-41d0-b1ec-3ebb40810645</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DCET2026-01A: EST10003 RAAF Base Tindal Renewable Energy Microgrid – Design Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/9493839c-93f9-4cb4-bf82-17949c5c8654</link>
+      <description>&lt;p&gt;The Defence Renewable Energy and Energy Security Program (DREESP) is looking to design a new microgrid renewable energy system for a Defence Base in the Northern Territory. As part of this process DREESP are seeking a Design Services Consultant to deliver the system design.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Deliverables include design documentation for all design stages encompassing:&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;o System layout and configuration&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;o Renewable energy resource assessment and integration strategy&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;o Energy storage system sizing and specification&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;o Control system architecture and communication protocols&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;o Cost estimation and feasibility considerations&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;o Clear technical basis for procurement and construction planning.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/9493839c-93f9-4cb4-bf82-17949c5c8654</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EFA2026015: Mechanical Repairs &amp; Maintenance</title>
+      <link>https://www.tenders.gov.au/Atm/Show/36e32c89-7775-43af-8d8a-3d67bb8e1739</link>
+      <description>&lt;p&gt;Mechanical Repairs &amp;amp; Maintenance Tender&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/36e32c89-7775-43af-8d8a-3d67bb8e1739</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>5965-2025-26: ISO 9001 Certification Services - Aviation Meteorological Services</title>
