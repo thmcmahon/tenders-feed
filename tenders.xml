@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Sun, 05 Jul 2026 17:35:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>80064: Graphic and Digital Marketing Services to support industry engagements</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c860d13d-1ae3-415b-8b13-9d16785ec38b</link>
-      <description>&lt;p&gt;Graphic and digital marketing services, as well as event management support for virtual events.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c860d13d-1ae3-415b-8b13-9d16785ec38b</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>25A143: Mid-Term Review of Pacific Humanitarian Warehousing Program</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5bad4e83-5f31-44b8-851c-6e44f2547fb7</link>
-      <description>&lt;p&gt;Mid-Term Review of Pacific Humanitarian Warehousing Program&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5bad4e83-5f31-44b8-851c-6e44f2547fb7</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-15553: Senior Executive Service Band 1 and Executive Level 2 Talent Development Programs</title>
-      <link>https://www.tenders.gov.au/Atm/Show/73819d39-f4a3-4234-aecb-3bc0c5266b00</link>
-      <description>&lt;p&gt;SES and EL2 Talent Development Programs&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/73819d39-f4a3-4234-aecb-3bc0c5266b00</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>S-EST11042: Gallipoli &amp; Kokoda Barracks Infrastructure Upgrades, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/1c68b8f6-cd73-4947-8f7a-34fe3920f790</link>
@@ -118,13 +97,6 @@
       <description>&lt;p&gt;&lt;span&gt;Building Engineering Services for the Base Building Design of the Reserve Bank’s 65 Martin Place Head Office Redevelopment Project, covering mechanical services, electrical, lighting &amp;amp; communications services, hydraulic services, wet &amp;amp; dry fire services, electronic security, building technology, substation design, water services coordinator.&lt;/span&gt;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/91618e47-0e2c-42d4-b825-9768f4d639bf</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST10796: Northam Warehouse Refurbishment, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/1dd65c59-dbb6-41d0-b1ec-3ebb40810645</link>
-      <description>&lt;p&gt;Northam Warehouse Refurbishment, WA&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/1dd65c59-dbb6-41d0-b1ec-3ebb40810645</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DCET2026-01A: EST10003 RAAF Base Tindal Renewable Energy Microgrid – Design Services</title>
@@ -290,6 +262,13 @@
       <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>FIN-2025-26-00616: Request for Expression of Interest (REOI) GovAI Future Expansion Opportunities</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ea54f538-b209-467f-9d80-c4b901a5f0bb</link>
+      <description>&lt;p&gt;Provision of market information for future GovAI expansion opportunities, including GovAI Chat and related AI capabilities for the APS.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ea54f538-b209-467f-9d80-c4b901a5f0bb</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>LCD-26-0030: Army Innovation Day 2026 (AID26)</title>
       <link>https://www.tenders.gov.au/Atm/Show/e6ed7412-5777-4aa5-b34f-b790add9146a</link>
       <description>&lt;p&gt;Request for information for Army Innovation Day 2026.&lt;/p&gt;</description>
@@ -332,6 +311,13 @@
       <description>&lt;p&gt;Mt Waverley Army Cadets Office Refurb&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e63a7685-ed8b-44dc-97e2-4980884ef593</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST10796: Northam Warehouse Refurbishment, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1dd65c59-dbb6-41d0-b1ec-3ebb40810645</link>
+      <description>&lt;p&gt;Northam Warehouse Refurbishment, WA&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1dd65c59-dbb6-41d0-b1ec-3ebb40810645</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>NRD07664: Charles Perkins House Lighting Upgrade</title>
@@ -546,6 +532,14 @@
       <description>&lt;p&gt;Program 1 – National Ascochyta blight (AB) and Botrytis grey mould (BGM) population monitoring&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/89ebe823-3630-4e04-8b21-126092785629</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AZ6626: ESTS4000PH6 Facilities to support Hobart Class Destroyer Aegis Combat System Enhancement</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f2f39aee-b28e-469c-9f78-ef33266f778e</link>
+      <description>&lt;p&gt;This is an Invitation to Register Interest for the Head Contractor package of works (Defence Head Contract (GMP)) at Navy Training Systems Centre Randwick and Defence Plaza Sydney under the ESTS4000PH6 Facilities to Support the Hobart Class Destroyer Aegis Combat System Enhancement Capability Project. The facilities project and the works will deliver fit for purpose shore-based facilities and infrastructure to support the integration, operation and training of the new systems prior to Q3 2029.&lt;/p&gt;
+&lt;p&gt;The notice for this procurement activity was released under AZ6622.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f2f39aee-b28e-469c-9f78-ef33266f778e</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PPD/DA/71746/1: Boeing Business Jets</title>
