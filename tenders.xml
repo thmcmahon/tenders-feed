@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Thu, 09 Jul 2026 17:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:35:11 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>AIMSRFT785: AIMS NT Small Research Vessel Replacement</title>
-      <link>https://www.tenders.gov.au/Atm/Show/687c4137-3e6f-4eea-a1b0-071cdb03669c</link>
-      <description>&lt;p&gt;Replacement Vessel for RV Capricornus -&amp;nbsp;The Australian Institute of Marine Science (AIMS) requires the design, construction, supply, and delivery of a new fit for purpose small research vessel (the “Vessel”) to be delivered to AIMS Darwin, Northern Territory.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/687c4137-3e6f-4eea-a1b0-071cdb03669c</guid>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSD/RFT/75462/1: VLF Support Contract</title>
-      <link>https://www.tenders.gov.au/Atm/Show/14c788ee-12f1-4713-8318-ff9e4f8cbc8e</link>
-      <description>&lt;p&gt;Very Low Frequency (VLF) Support Contract&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/14c788ee-12f1-4713-8318-ff9e4f8cbc8e</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>FSANZ-2026/6: Food Standards Australia New Zealand Laboratory Panel</title>
       <link>https://www.tenders.gov.au/Advert/Show/b6793ee2-9cdb-4e98-8ff1-f32f72d4eb32</link>
@@ -446,11 +432,25 @@
       <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>RFI 92674: Electro Optic-Infrared Sensor System</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e33f2b54-1976-4ba6-a31f-4ed729ef34ad</link>
+      <description>&lt;p&gt;Electro-Optic IR (EO-IR) sensor system for high speed target detection and High Altitude Balloon (HAB) Integration&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e33f2b54-1976-4ba6-a31f-4ed729ef34ad</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST09918: Campbell Barracks Infrastructure Works, WA</title>
       <link>https://www.tenders.gov.au/Atm/Show/9524ca3c-4902-464d-b61f-65fc33b98f92</link>
       <description>&lt;p&gt;Campbell Barracks infrastructure works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/9524ca3c-4902-464d-b61f-65fc33b98f92</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SRC006250: Social media management platform</title>
+      <link>https://www.tenders.gov.au/Atm/Show/93f62b70-348d-4dd4-acc4-27e63ab20820</link>
+      <description>&lt;p&gt;Social media management platform, as more fully described in the Statement of Requirements and RFT&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/93f62b70-348d-4dd4-acc4-27e63ab20820</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>2025_PBM_1: Update the Patient blood management guideline for adults with critical bleeding and associated specialist services</title>
@@ -568,6 +568,13 @@
       <description>&lt;p&gt;HMAS Stirling System Works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/4de7b63d-eb48-4677-a950-6b7c48b20f5b</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>24/1281/41-P1: 65 Martin Place Redevelopment -Stage 2  Operational Readiness Integration Lead (ORIL)– Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/fd549bdb-9117-4ae7-b0cb-a8ccbffd9a8d</link>
+      <description>&lt;p&gt;The Reserve Bank of Australia ABN 50 008 559 486 (the &lt;strong&gt;Bank&lt;/strong&gt;), requires Operations Readiness Integration Lead (ORIL) services for the Base Building Design, 65MP Stage 2 Project.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/fd549bdb-9117-4ae7-b0cb-a8ccbffd9a8d</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177443: Grain Automate Extension Program 27-28</title>
