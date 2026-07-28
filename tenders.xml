@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 27 Jul 2026 17:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 17:35:01 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>DFAT 1095a: Vanuatu Infrastructure In- House Adviser</title>
-      <link>https://www.tenders.gov.au/Atm/Show/0278dffa-5ee5-4ef0-bcdd-c61a59c799fe</link>
-      <description>&lt;p&gt;Vanuatu has a requirement for an inhouse infrastucture advisor.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/0278dffa-5ee5-4ef0-bcdd-c61a59c799fe</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST11079: South East Melbourne MUD Minor R&amp;M, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/1f328cb2-e60d-45ab-ad57-1200968d6f8f</link>
-      <description>&lt;p&gt;South East Melbourne MUD Minor R&amp;amp;M&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/1f328cb2-e60d-45ab-ad57-1200968d6f8f</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST10783: Mt Waverley Army Cadets Office Refurb, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/e63a7685-ed8b-44dc-97e2-4980884ef593</link>
-      <description>&lt;p&gt;Mt Waverley Army Cadets Office Refurb&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/e63a7685-ed8b-44dc-97e2-4980884ef593</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>NRD07664: Charles Perkins House Lighting Upgrade</title>
       <link>https://www.tenders.gov.au/Atm/Show/8107fae3-42ca-4df0-931f-dbbdb93e7952</link>
@@ -77,13 +56,6 @@
       <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>S-EST11118: Duntroon minor building remediation, ACT</title>
-      <link>https://www.tenders.gov.au/Atm/Show/0e3aa5c8-0121-4596-957c-19ea1d8e114a</link>
-      <description>&lt;p&gt;S-EST11118 - Duntroon minor building remediation&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/0e3aa5c8-0121-4596-957c-19ea1d8e114a</guid>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>S-EST10857: Dudley Park Infrastructure Upgrade, SA</title>
       <link>https://www.tenders.gov.au/Atm/Show/9e4d3376-3bf1-4326-a1bf-a1a5c5ec0ad3</link>
       <description>&lt;p&gt;Infrastructure upgrade works at Dudley Park&lt;/p&gt;</description>
@@ -131,6 +103,13 @@
       <description>&lt;p&gt;Pre-release Notice for the rovision of Parking Management Services&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/184591e8-422b-431a-be8f-95ee7de4eff8</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST11118: Duntroon minor building remediation, ACT</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0e3aa5c8-0121-4596-957c-19ea1d8e114a</link>
+      <description>&lt;p&gt;S-EST11118 - Duntroon minor building remediation&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0e3aa5c8-0121-4596-957c-19ea1d8e114a</guid>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST11102: RAAF Amberley Civil Works, QLD</title>
@@ -254,13 +233,6 @@
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Antarctic ATM26/95: ATM 26/95 SOra Main Works Package</title>
-      <link>https://www.tenders.gov.au/Atm/Show/156654f6-1d5c-4ce1-9577-ba8c1059bffc</link>
-      <description>&lt;p&gt;Construction services relating to the Southern Ocean Research Aquarium (SOra) main works package.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/156654f6-1d5c-4ce1-9577-ba8c1059bffc</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>RFT 74698: Defence Test &amp; Evaluation Training Partner - Standing Offer</title>
       <link>https://www.tenders.gov.au/Atm/Show/bbc61e59-84a1-4159-8064-a663a3d68125</link>
       <description>&lt;p&gt;Defence Test &amp;amp; Evaluation Training Partner - Standing Offer&lt;/p&gt;</description>
@@ -280,6 +252,13 @@
       <description>&lt;p&gt;Campbell Barracks infrastructure works&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/9524ca3c-4902-464d-b61f-65fc33b98f92</guid>
       <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antarctic ATM26/95: ATM 26/95 SOra Main Works Package</title>
+      <link>https://www.tenders.gov.au/Atm/Show/156654f6-1d5c-4ce1-9577-ba8c1059bffc</link>
+      <description>&lt;p&gt;Construction services relating to the Southern Ocean Research Aquarium (SOra) main works package.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/156654f6-1d5c-4ce1-9577-ba8c1059bffc</guid>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>SRC006250: Social media management platform</title>
@@ -619,6 +598,13 @@
       <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>24/1281/58-P1: Reserve Bank of Australia – 65 Martin Place Head Office Redevelopment Stage 2 – Environmentally Sustainable Design (ESD)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/56241226-5517-4f4b-840f-d355e96ef929</link>
+      <description>&lt;p&gt;Environmentally Sustainable Design (ESD) Services &amp;nbsp;for the Base Building Design of the Reserve Bank’s 65 Martin Place Head Office Redevelopment Project&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/56241226-5517-4f4b-840f-d355e96ef929</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>JSD/RFT/79834/1: SAT TV In-Service Support</title>
       <link>https://www.tenders.gov.au/Atm/Show/717eb4e5-f2a8-4889-a27c-fb0348fa849c</link>
       <description>&lt;p&gt;Provision of Satellite TV services to RAN ships in Australian EEZ&lt;/p&gt;</description>
@@ -631,6 +617,13 @@
       <description>&lt;p&gt;The Commonwealth as represented by the Australian Institue of Criminology is seeking sumissions for the Criminology Research Fund 2026.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/4e0338d5-6a9c-41d3-affc-23816bf1c903</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EWPNOTICE 02/2026: Notice - Estate Works Program Defence Industry Update</title>
+      <link>https://www.tenders.gov.au/Atm/Show/abf897be-b902-4ab1-963e-64084e82b6df</link>
+      <description>&lt;p&gt;Notice - Estate Work Program - National Industry Briefings published on Defence Internet&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/abf897be-b902-4ab1-963e-64084e82b6df</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177468: Program 3B - Improved use of bait products for pest snail management</title>
