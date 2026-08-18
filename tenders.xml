@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 17 Aug 2026 17:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:35:13 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>Notice 2 - 25/3151: Notice of Intended Procurement - Bulk Fuel Farm</title>
-      <link>https://www.tenders.gov.au/Atm/Show/a3eee7ed-e82d-45e7-b653-c9a23d698697</link>
-      <description>&lt;p&gt;Supply of components for a Bulk Fuel Facility&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/a3eee7ed-e82d-45e7-b653-c9a23d698697</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GA2026/1392: Request for Tender (RFT) NPIC Data Licensing</title>
-      <link>https://www.tenders.gov.au/Atm/Show/2159fcaf-09eb-4a5c-be27-561b48e050a1</link>
-      <description>&lt;p&gt;Provision of licensed Global Navigation Satellite System (GNSS) Continuously Operating Reference Station (CORS) data streams and associated metadata for integration into Geoscience Australia's National Positioning Infrastructure Capability (NPIC).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/2159fcaf-09eb-4a5c-be27-561b48e050a1</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>DFAT-1104: Design of a New Indonesia Disaster Risk Management Investment</title>
       <link>https://www.tenders.gov.au/Atm/Show/73cdf00f-d950-4d05-b037-68c29be6900d</link>
@@ -444,6 +430,13 @@
       <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>S-EST11041: ESSB Rockhampton Refurbishment, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d596a95a-db75-4e86-acba-ace77fd27b1a</link>
+      <description>&lt;p&gt;ESSB Rockhampton Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d596a95a-db75-4e86-acba-ace77fd27b1a</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>26AMSA059: AtoN Technical Support Services:</title>
       <link>https://www.tenders.gov.au/Atm/Show/33990fa3-9f14-4f7a-b181-e8b09c4f2eca</link>
       <description>&lt;p&gt;Aids to Navigation (AtoN) Technical Support Services&lt;/p&gt;</description>
@@ -575,6 +568,13 @@
       <description>&lt;p&gt;Provision for GovCMS Drupal and Digital Experience Platform Services&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/f42c5443-d149-4c47-be81-f623c40d8e36</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST10714: Borneo Barracks Infrastructure Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5e45cd07-6916-41aa-bc68-b22033697004</link>
+      <description>&lt;p&gt;Borneo Barracks Powerhouse Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5e45cd07-6916-41aa-bc68-b22033697004</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2026_3048: Northern Endeavour Decommissioning Program Phase 3A - LamCor Subsea Infrastructure Recovery</title>
