@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 19 Aug 2026 17:35:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>S-EST10741: HMAS Stirling System Works, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4de7b63d-eb48-4677-a950-6b7c48b20f5b</link>
-      <description>&lt;p&gt;HMAS Stirling System Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4de7b63d-eb48-4677-a950-6b7c48b20f5b</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>S-EST10709: Dubbo MUD &amp; Vietnam Veterans Precinct, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/5ecf17ec-005d-4fc1-b04f-be2e0d3d77ad</link>
@@ -105,13 +98,6 @@
       <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>S-EST11221: RAAF East Sale Infrastructure Upgrades, VIC</title>
-      <link>https://www.tenders.gov.au/Atm/Show/e82a57e3-e6d2-46fc-885d-07d27bfb28f9</link>
-      <description>&lt;p&gt;RAAF East Sale Infrastructure Upgrades&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/e82a57e3-e6d2-46fc-885d-07d27bfb28f9</guid>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>HOMEAFFAIRS/2216/RFI: Aerial Intelligence, Surveillance and Reconnaissance (ISR) Uncrewed Maritime Capabilities</title>
       <link>https://www.tenders.gov.au/Atm/Show/aba29776-e1f1-4cdf-a44b-dc251682f545</link>
       <description>&lt;p&gt;The Department of Home Affairs (the Department), on behalf of the Australian Border Force (ABF), is seeking information regarding the capability of potential suppliers to provide uncrewed aerial systems to conduct persistent uncrewed ISR operations predominantly in the maritime domain.&lt;/p&gt;</description>
@@ -153,6 +139,20 @@
       <description>&lt;p&gt;Buffel Grass Management at Uluru-Kata Tjuta National Park&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/946f9a8b-975f-4467-8bcf-d5be34e94573</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST10741: HMAS Stirling System Works, WA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4de7b63d-eb48-4677-a950-6b7c48b20f5b</link>
+      <description>&lt;p&gt;HMAS Stirling System Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4de7b63d-eb48-4677-a950-6b7c48b20f5b</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST11221: RAAF East Sale Infrastructure Upgrades, VIC</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e82a57e3-e6d2-46fc-885d-07d27bfb28f9</link>
+      <description>&lt;p&gt;RAAF East Sale Infrastructure Upgrades&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e82a57e3-e6d2-46fc-885d-07d27bfb28f9</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>10030652: Specialised Broadcasting maintenance services for the Indian Ocean Territories</title>
@@ -395,6 +395,13 @@
       <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DFAT-1108: Mid-Term Review of the PNG Transport Sector Support Program Phase 3 (TSSP3)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e7d96d9f-422e-42ab-aabd-a40ce015aac7</link>
+      <description>&lt;p&gt;The Mid-Term Review of&amp;nbsp;the PNG Transport Sector Support Program Phase 3 (TSSP3) will provide an independent, evidence-based assessment of TSSP3 performance and direction.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e7d96d9f-422e-42ab-aabd-a40ce015aac7</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DCET-EVCI-CMS-2026: EV Charging Management System (CMS)</title>
       <link>https://www.tenders.gov.au/Atm/Show/d356a65c-0769-4ca8-9a5c-e0bba6ca1417</link>
       <description>&lt;p&gt;Establish a Defence wide CMS for EVCI to centralise the management of chargers across the estate.&lt;/p&gt;</description>
@@ -435,6 +442,13 @@
       <description>&lt;p&gt;Regional Aids to Navigation Maintenance Services&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/b0335afd-e00f-4375-ac3e-e64910c8dfb2</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MoAD-ATM-7624: Feeding the House - Exhibition Showcases and Joinery</title>
+      <link>https://www.tenders.gov.au/Atm/Show/1aa0cd88-9b3e-4fd3-ad6a-7eca5a4f4717</link>
+      <description>&lt;p&gt;This ATM is for the fabrication and installation of showcases and joinery for the 'Feeding the House exhibition'.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/1aa0cd88-9b3e-4fd3-ad6a-7eca5a4f4717</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177468: Program 3B - Improved use of bait products for pest snail management</title>
