@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Sun, 23 Aug 2026 17:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:35:12 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>10033173: Supply of one mobility access vehicle for Christmas Island</title>
-      <link>https://www.tenders.gov.au/Atm/Show/9e7b05c4-9097-4b75-9935-02a98501c786</link>
-      <description>&lt;p&gt;Supply and Delivery of one Mobility Access Vehicle to Christmas Island&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/9e7b05c4-9097-4b75-9935-02a98501c786</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>17340: Cleaning Services at Australian National Botanic Gardens</title>
-      <link>https://www.tenders.gov.au/Atm/Show/2701a39f-879e-4e91-a49f-f5cccbacd3c4</link>
-      <description>&lt;p&gt;Cleaning Services at Australian National Botanic Gardens&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/2701a39f-879e-4e91-a49f-f5cccbacd3c4</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ABS2026.080: External Learning Library</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c6635663-2e69-44ef-9c69-75c8e2787d97</link>
-      <description>&lt;p&gt;The ABS is seeking to explore options for an enterprise-wide external learning library that provides access to learning resources to support organisational capability and development.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c6635663-2e69-44ef-9c69-75c8e2787d97</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>10033186: Alliance Coaching Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/4391aea9-991a-4376-8472-bfe2ad39070b</link>
@@ -176,13 +155,6 @@
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>DPS26000167: Australian Parliament House Clock Maintenance</title>
-      <link>https://www.tenders.gov.au/Atm/Show/38984186-1aa9-4df3-9669-d690704d8d98</link>
-      <description>&lt;p&gt;Maintenance of wall-mounted clocks of 3 sizes, pendant clocks and monumental clocks in Australian Parliament House (APH).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/38984186-1aa9-4df3-9669-d690704d8d98</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>10033253: Infrastructure Construction Cost Assurance Support Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/4317383f-19f1-45d6-b053-b39744b53cfd</link>
       <description>&lt;p&gt;The requirement of services of an organisation to provide cost assurance support services on high-risk and high-value applications of two low-risk and low-value programs.&lt;/p&gt;</description>
@@ -195,13 +167,6 @@
       <description>&lt;p&gt;The ATO is seeking to procure a suitable Supplier to provide a Budget and Reporting Solution via commercial off-the-shelf Software (COTS) or Software as a Service (SaaS) product(s) and associated Services.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/9de48bb4-f10a-45db-931f-acbd90c06af6</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-15895: Tax Policy Research Data Lab</title>
-      <link>https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c</link>
-      <description>&lt;p&gt;The Australian Taxation Office (ATO) is seeking an experienced supplier to provide a secure data lab solution that enables approved researchers to access sensitive government data for public policy research projects. The solution will provide secure virtual machine access, project-based data segregation, controlled file transfer processes, implementation and migration services, and ongoing hosting and support in accordance with the Five Safes framework and Australian Government security requirements.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2026_6489: Australia-Pacific Partnership for Energy Transition Delivery Centre</title>
@@ -318,6 +283,13 @@
       <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PROC-15895: Tax Policy Research Data Lab</title>
+      <link>https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c</link>
+      <description>&lt;p&gt;The Australian Taxation Office (ATO) is seeking an experienced supplier to provide a secure data lab solution that enables approved researchers to access sensitive government data for public policy research projects. The solution will provide secure virtual machine access, project-based data segregation, controlled file transfer processes, implementation and migration services, and ongoing hosting and support in accordance with the Five Safes framework and Australian Government security requirements.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM_2026_3494: Develop Generic Geological Disposal Concepts and Facility Design</title>
       <link>https://www.tenders.gov.au/Atm/Show/0cfa9d36-97d4-495f-8065-eb1a9048fb63</link>
       <description>&lt;p&gt;Support with developing and understanding geological disposal concepts and design.&lt;/p&gt;</description>
@@ -330,6 +302,13 @@
       <description>&lt;p&gt;EOI: Enhancing wheat adaptability for stable yields under variable climates: an integrated genetic and agronomic approach&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/87d6582b-75a1-4dbd-a3fc-38abed249ad1</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DPS26000167: Australian Parliament House Clock Maintenance</title>
+      <link>https://www.tenders.gov.au/Atm/Show/38984186-1aa9-4df3-9669-d690704d8d98</link>
+      <description>&lt;p&gt;Maintenance of wall-mounted clocks of 3 sizes, pendant clocks and monumental clocks in Australian Parliament House (APH).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/38984186-1aa9-4df3-9669-d690704d8d98</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>D26/49129: Supporting the Australian Government's International Leadership aim in the ANSP</title>
@@ -442,6 +421,14 @@
       <description>&lt;p&gt;Program 3A - Pest snail ecology, population dynamics and risk prediction&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e6acbc7d-f9b1-4a1d-975f-f00c4f904357</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>10033261: Planning Approval Community Engagement Support</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a75f2f68-7cea-4a59-9c7c-7a2ec0ee6feb</link>
+      <description>&lt;p&gt;The High Speed Rail Authority (HSRA) is seeking specialist advisers across a range of functions to support planning approvals community engagement activities required to be delivered as part of the Development Phase.&lt;/p&gt;
+&lt;p&gt;The Supplier(s) will provide nominated resources to work as integrated members of the HSRA Corporate Affairs, Communication and Engagement Team.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a75f2f68-7cea-4a59-9c7c-7a2ec0ee6feb</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177459: Southern Region pulse research, demonstration, and extension</title>
