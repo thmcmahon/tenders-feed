@@ -4,15 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 01 Sep 2026 17:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:35:06 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>S-EST10841: Brisbane Area Infrastructure Upgrades, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/64590926-3944-4601-b93e-a9a5c0d24427</link>
-      <description>&lt;p&gt;Infrastructure upgrades at Gallipoli Barracks and HMAS Moreton&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/64590926-3944-4601-b93e-a9a5c0d24427</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>10030652: Specialised Broadcasting maintenance services for the Indian Ocean Territories</title>
       <link>https://www.tenders.gov.au/Atm/Show/12beda32-89c0-4216-b47e-94b3e8291069</link>
@@ -91,13 +84,6 @@
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>S-EST10805: Fleet Base West Building Civil and Mechanical Works, WA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/83ee5ade-29fb-4e5f-95cb-eb412a8c99cd</link>
-      <description>&lt;p&gt;Fleet Base West Building Civil and Mechanical Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/83ee5ade-29fb-4e5f-95cb-eb412a8c99cd</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>PROC-8302: NDIA Salesforce Backup and Disaster Recovery Solution</title>
       <link>https://www.tenders.gov.au/Atm/Show/df4a612e-1fde-4d92-b078-66a8f6c9e225</link>
       <description>&lt;p&gt;National Disability Insurance Agency -Salesforce Backup&lt;/p&gt;</description>
@@ -174,6 +160,13 @@
       <description>&lt;p&gt;Global Market Intelligence Subscription&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/ffbdfe30-300d-4e6a-8af5-6a4d8a2af2f7</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>6316-2026-27: COP31 Video Products</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d44ac5cc-2c24-4747-9600-9c119e2d2d20</link>
+      <description>&lt;p&gt;The provision of a service provider to deliver the COP31 Video Products.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d44ac5cc-2c24-4747-9600-9c119e2d2d20</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DFAT-1108: Mid-Term Review of the PNG Transport Sector Support Program Phase 3 (TSSP3)</title>
@@ -305,6 +298,20 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>DFAT-1110: Western Province Partnership Mid-Term Review</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c</link>
+      <description>&lt;p&gt;The Mid-Term Review (MTR) of the Western Province Partnership (WPP) will assess the Program's progress toward its intended outcomes, identify key achievements and challenges, and provide actionable recommendations to inform management decisions and program improvement and consolidation opportunities for the remainder of WPP Phase II. The MTR will assess the relevance, effectiveness, efficiency, sustainability and cross-cutting performance (including GEDSI, subnational governance and climate resilience) of WPP’s approach and delivery.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASD-COM-2026-35: ASD Essentials Training Provider</title>
+      <link>https://www.tenders.gov.au/Atm/Show/85a96ecf-0987-4632-864f-35ee4eeec64e</link>
+      <description>&lt;p&gt;ASD intends to establish an arrangement with Training Provider(s) for the provision of the ASD Essentials training&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/85a96ecf-0987-4632-864f-35ee4eeec64e</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>PRN9254: Notice of RFT - Refresh and Expansion of the Professions of the Panel of Outreach Program Counsellors for the</title>
       <link>https://www.tenders.gov.au/Atm/Show/f93b1389-b8e8-4285-b552-975a1f8c1469</link>
       <description>&lt;p&gt;This is a pre-release notice to provide advance notification of a proposed RFT for the Refresh and Expansion of the Professions of the Panel.&lt;/p&gt;
@@ -359,11 +366,25 @@
       <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>WS3287682550: Enterprise AI Broker Platform</title>
+      <link>https://www.tenders.gov.au/Atm/Show/36e3e2bb-a970-45f7-98f8-ea708cb636f7</link>
+      <description>&lt;p&gt;Airservices Australia is issuing this Request for Information (RFI) to identify market capabilities, commercial models, and potential partners for the design, build, deployment, and ongoing managed service operation of an Enterprise Artificial Intelligence (AI) Broker Platform within the Airservices private AWS tenancy.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/36e3e2bb-a970-45f7-98f8-ea708cb636f7</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST10528: DSTG Edinburgh Building Refurbishment, SA</title>
       <link>https://www.tenders.gov.au/Atm/Show/a87b8d84-ac3d-4e9e-a9a0-6171c129a51a</link>
       <description>&lt;p&gt;DSTG Edinburgh Building Refurbishment&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/a87b8d84-ac3d-4e9e-a9a0-6171c129a51a</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>24/1281/59-P1: Reserve Bank of Australia – 65 Martin Place Head Office Redevelopment – Cardon Planning and Management Advisor Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/53e5f647-f30e-4bc1-a564-ed9d11a1c3bc</link>
+      <description>&lt;p&gt;Provision carbon advisory services across the 65MP redevelopment project lifecycle, embedding carbon management into project decision-making to reduce embodied carbon, monitor carbon budgets, and achieve NABERS Embodied Carbon and relevant Green Star outcomes&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/53e5f647-f30e-4bc1-a564-ed9d11a1c3bc</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>RFI 97888: Lighterage Innovation</title>
@@ -403,13 +424,6 @@
       <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Antarctic ATM25/3151: ATM 25/3151 Replacement of Special Antarctic Blend Diesel (SAB) Bulk Storage Infrastructure at Macquarie Island</title>
-      <link>https://www.tenders.gov.au/Atm/Show/fe0488a1-fe27-4ee2-b1d9-1ebf54f33205</link>
-      <description>&lt;p&gt;The Commonwealth seeks supply of a complete and operable Bulk Fuel Farm System (the Equipment), to replace existing bulk fuel farm at Macquarie Island.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/fe0488a1-fe27-4ee2-b1d9-1ebf54f33205</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>NS1333: NS1333 National Cleaning Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/13d71999-0097-4c1b-b35b-cdeca931a61b</link>
       <description>&lt;p&gt;The ABC is seeking proposals from suitably qualified and experienced cleaning service providers to deliver cleaning and related services across one or more ABC service regions (state).&lt;/p&gt;</description>
@@ -438,6 +452,13 @@
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>RFT 02-2026: Travel and Occupational Medical Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/72e3a249-4388-47cc-9ca4-eaed371f0758</link>
+      <description>&lt;p&gt;Provision of travel and occupational medical services.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/72e3a249-4388-47cc-9ca4-eaed371f0758</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Health/PH25/16174: Request for Tender for the provision of services under the Health Technology Assessment and Support Services Panel</title>
       <link>https://www.tenders.gov.au/Atm/Show/494d8977-b105-4bf2-a9dd-66829dd29857</link>
       <description>&lt;p&gt;The Department of Health, Disability and Ageing (Department) is seeking to establish a panel arrangement for the provision of Health Technology Assessment and support services. Services include health technology evaluations, expert reviews, vaccine assessments, research support, technical writing and related advisory services to support Australian Government health technology assessment processes.&lt;/p&gt;</description>
@@ -457,6 +478,16 @@
       <description>&lt;p&gt;The Bank is seeking a secure, scalable, externally hosted software platform to provide both Visitor and Contractor Management functionality. The software needs to meet not only functional requirements but also non-functional requirements such as data sovereignty and security standards such as ISO 27001.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/22f363c8-6e2a-4b6d-babd-86cf274494b1</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFP BRUNSWICK HEADS: LONG TERM COMMONWEALTH LEASE BRUNSWICK HEADS, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/aa4c9133-7f18-463a-a8b9-0d4c3755aa78</link>
+      <description>&lt;p&gt;Exceptional Leasing Opportunity&lt;/p&gt;
+&lt;p&gt;COMMONWEALTH LEASE&lt;/p&gt;
+&lt;p&gt;BRUNSWICK HEADS, NSW&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/aa4c9133-7f18-463a-a8b9-0d4c3755aa78</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ATM_2026_3048: Northern Endeavour Decommissioning Program Phase 3A - LamCor Subsea Infrastructure Recovery</title>
