@@ -4,7 +4,7 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 02 Sep 2026 17:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:35:02 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
     <item>
       <title>10030652: Specialised Broadcasting maintenance services for the Indian Ocean Territories</title>
@@ -77,13 +77,6 @@
       <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AIMSRFT787: AIMS Index of Marine Industry</title>
-      <link>https://www.tenders.gov.au/Atm/Show/df489bf3-1b90-4336-a2a4-39213c988e9f</link>
-      <description>&lt;p&gt;The Australian Institute of Marine Science (AIMS) is seeking suitably qualified economic consultancies to deliver the AIMS Index of Marine Industry 2027, including a strengthened Blue Economy and Blue Carbon assessment&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/df489bf3-1b90-4336-a2a4-39213c988e9f</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>PROC-8302: NDIA Salesforce Backup and Disaster Recovery Solution</title>
       <link>https://www.tenders.gov.au/Atm/Show/df4a612e-1fde-4d92-b078-66a8f6c9e225</link>
       <description>&lt;p&gt;National Disability Insurance Agency -Salesforce Backup&lt;/p&gt;</description>
@@ -153,6 +146,13 @@
       <description>&lt;p&gt;Albury Wodonga Military Area Fire Services Building Upgrades&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/0b6ef88c-3366-40eb-b76d-2b7082a80be7</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIMSRFT787: AIMS Index of Marine Industry</title>
+      <link>https://www.tenders.gov.au/Atm/Show/df489bf3-1b90-4336-a2a4-39213c988e9f</link>
+      <description>&lt;p&gt;The Australian Institute of Marine Science (AIMS) is seeking suitably qualified economic consultancies to deliver the AIMS Index of Marine Industry 2027, including a strengthened Blue Economy and Blue Carbon assessment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/df489bf3-1b90-4336-a2a4-39213c988e9f</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-17195: Global Market Intelligence Subscription</title>
