@@ -4,58 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Mon, 28 Sep 2026 17:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:35:09 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>PROC-9177459: Southern Region pulse research, demonstration, and extension</title>
-      <link>https://www.tenders.gov.au/Atm/Show/0f4f9cda-1973-4b45-bfd1-b571860c0ed8</link>
-      <description>&lt;p&gt;Southern Region pulse research, demonstration, and extension&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/0f4f9cda-1973-4b45-bfd1-b571860c0ed8</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-9177472: Northern Region pulse research, demonstration and extension (Southern to Central NSW)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/80af1297-ddf0-4fc2-88ff-a5b380dc2055</link>
-      <description>&lt;p&gt;Northern Region pulse research, demonstration and extension (Southern to Central NSW)&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/80af1297-ddf0-4fc2-88ff-a5b380dc2055</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-9177473: Northern Region pulse research, demonstration and extension (Northern NSW to Central QLD)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b53a99b1-78d2-40f4-af70-cd662d77b922</link>
-      <description>&lt;p&gt;The National Pulse Expansion, Improvement, and Adoption Program - Northern Region research, demonstration, and extension (Northern NSW to Central QLD)&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b53a99b1-78d2-40f4-af70-cd662d77b922</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-9177458: Western Region pulse research, demonstration, and extension</title>
-      <link>https://www.tenders.gov.au/Atm/Show/d2384014-438a-434e-93c5-6b1a5b2cc3d3</link>
-      <description>&lt;p&gt;Western Region pulse research, demonstration, and extension&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/d2384014-438a-434e-93c5-6b1a5b2cc3d3</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DFAT/SXD/AICF: Australia-India CEO Forum – Secretariat Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/e85efc98-5bfb-4dde-8ef9-03918129df25</link>
-      <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;The Department of Foreign Affairs and Trade (DFAT) requires the services of a suitably qualified and experienced provider to provide secretariat services to support DFAT in the management of the Australia-India CEO Forum.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/e85efc98-5bfb-4dde-8ef9-03918129df25</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROC-9177471: The National Pulse Expansion, Improvement, and Adoption Program - National Coordination and Strategy Function</title>
-      <link>https://www.tenders.gov.au/Atm/Show/f6f26f14-d9b7-48ea-911d-baf44d19d37e</link>
-      <description>&lt;p&gt;The National Pulse Expansion, Improvement, and Adoption Program - National Coordination and Strategy Function&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/f6f26f14-d9b7-48ea-911d-baf44d19d37e</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WS3287682550: Enterprise AI Broker Platform</title>
-      <link>https://www.tenders.gov.au/Atm/Show/36e3e2bb-a970-45f7-98f8-ea708cb636f7</link>
-      <description>&lt;p&gt;Airservices Australia is issuing this Request for Information (RFI) to identify market capabilities, commercial models, and potential partners for the design, build, deployment, and ongoing managed service operation of an Enterprise Artificial Intelligence (AI) Broker Platform within the Airservices private AWS tenancy.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/36e3e2bb-a970-45f7-98f8-ea708cb636f7</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>S-EST10798: Albury Wodonga Military Area Fire Services Building Upgrades, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/0b6ef88c-3366-40eb-b76d-2b7082a80be7</link>
@@ -69,6 +19,13 @@
       <description>&lt;p&gt;RFI to investigate novel and innovative lighterage Solutions to connect landing craft to shore&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/b5926df9-857d-4ede-923b-ab44cc988199</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WS3287682550: Enterprise AI Broker Platform</title>
+      <link>https://www.tenders.gov.au/Atm/Show/36e3e2bb-a970-45f7-98f8-ea708cb636f7</link>
+      <description>&lt;p&gt;Airservices Australia is issuing this Request for Information (RFI) to identify market capabilities, commercial models, and potential partners for the design, build, deployment, and ongoing managed service operation of an Enterprise Artificial Intelligence (AI) Broker Platform within the Airservices private AWS tenancy.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/36e3e2bb-a970-45f7-98f8-ea708cb636f7</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>A26/21: Scrivener Dam Independent Technical Advisor - 2026-2029</title>
@@ -192,11 +149,11 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>REQ000206: Enterprise Architecture Tools</title>
-      <link>https://www.tenders.gov.au/Atm/Show/460efdfc-82cb-4ec5-a549-563fde0e17b8</link>
-      <description>&lt;p&gt;The is an RFI (Request for Information) to understand the market for Enterprise Architecture platforms that can help APRA create a single trusted repository of architecture information across its business, applications, data, technology, risks and transformation initiatives. APRA is not selecting a supplier but rather conducting market research to inform future decisions&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/460efdfc-82cb-4ec5-a549-563fde0e17b8</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+      <title>AZ6635: Defence Infrastructure – Alternative Finance Market Sounding</title>
+      <link>https://www.tenders.gov.au/Atm/Show/43311a1b-cefd-4ab1-b7d4-930b2ef349ec</link>
+      <description>&lt;p&gt;Defence Infrastructure – Alternative Finance Market Sounding&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/43311a1b-cefd-4ab1-b7d4-930b2ef349ec</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST10805-1: Fleet Base West Building Refurbishment Works, WA.</title>
@@ -204,13 +161,6 @@
       <description>&lt;p&gt;Fleet Base West Building Refurbishment Works, WA.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/d5d1264f-e808-4e3e-b2d9-49ee5282332b</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST11083: Port Wakefield Civil Upgrades, SA</title>
-      <link>https://www.tenders.gov.au/Atm/Show/f631b023-5d52-40cb-bea5-d86125b9e8bf</link>
-      <description>&lt;p&gt;Port Wakefield Civil Upgrades&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/f631b023-5d52-40cb-bea5-d86125b9e8bf</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>24/1281/59-P1: Reserve Bank of Australia – 65 Martin Place Head Office Redevelopment – Cardon Planning and Management Advisor Services</title>
@@ -295,6 +245,20 @@
       <description>&lt;p&gt;Testing market appetite for property availability and alternative financing solutions for logistics facilities.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/a2675333-e59b-42e9-9ae8-c83ecfdeed08</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AZ6636: Defence Living-in Accommodation (LIA) Industry Engagement and Market Sounding</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d5d83102-e2c1-4ce0-a1c3-6f394f46e4f3</link>
+      <description>&lt;p&gt;To assist the Commonwealth of Australia (“Commonwealth”), represented by the Department of Defence (“Defence”), in considering the potential provision of LIA for Australian Defence Force (“ADF”) personnel, the Commonwealth invites feedback from persons or entities interested in participating in the planning, delivery and / or provision of LIA.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d5d83102-e2c1-4ce0-a1c3-6f394f46e4f3</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST11083: Port Wakefield Civil Upgrades, SA</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f631b023-5d52-40cb-bea5-d86125b9e8bf</link>
+      <description>&lt;p&gt;Port Wakefield Civil Upgrades&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f631b023-5d52-40cb-bea5-d86125b9e8bf</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CSIRORFT2026022: Labware and Chemicals Panel</title>
@@ -397,6 +361,13 @@
       <description>&lt;p&gt;Delivery and installation of Containerised Powder Coating System&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e45139b6-bd10-4af6-98ff-0f52b0a036aa</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>REQ000206: Enterprise Architecture Tools</title>
+      <link>https://www.tenders.gov.au/Atm/Show/460efdfc-82cb-4ec5-a549-563fde0e17b8</link>
+      <description>&lt;p&gt;The is an RFI (Request for Information) to understand the market for Enterprise Architecture platforms that can help APRA create a single trusted repository of architecture information across its business, applications, data, technology, risks and transformation initiatives. APRA is not selecting a supplier but rather conducting market research to inform future decisions&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/460efdfc-82cb-4ec5-a549-563fde0e17b8</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>FIN 2026-27-00168-CP: Consultation Paper - Travel and Procurement Payment Services for the Australian Government</title>
@@ -581,6 +552,13 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PROC-17622: Company and Industry Data</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0d966134-e4fb-46ca-b830-da5d8d30166c</link>
+      <description>&lt;p&gt;This procurement is to engage a supplier to provide online access to a range of company and industry information to support ATO compliance activities, taxpayer analysis, strategy development, risk assessment and other work across the organisation.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0d966134-e4fb-46ca-b830-da5d8d30166c</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>FIN-2026-27-00074: Provider of Certificate IV in Procurement and Contracting for the Pathways to Procurement program</title>
       <link>https://www.tenders.gov.au/Atm/Show/ea6207af-a311-43f7-b970-8bab5b1f91d7</link>
       <description>&lt;p&gt;Delivery of multiple sessions of Certificate IV in Procurement and Contracting qualification&lt;/p&gt;</description>
@@ -600,6 +578,20 @@
       <description>&lt;p&gt;Faba bean is one of Australia’s major pulse crops and an important export commodity, with premium food markets placing strong emphasis on visual grain quality. Seed coat colour stability and seed size uniformity are key determinants of grain classification, market acceptance and price, yet deterioration in seed appearance during storage and handling can increase the risk of quality downgrades and reduce grower returns. Recent advances in artificial intelligence, digital phenotyping, genomics and molecular breeding provide new opportunities to accelerate genetic improvement of these traits. This investment will develop the knowledge, genetic resources and breeding tools required to improve seed coat colour stability and seed size uniformity in Australian faba bean, including identification of valuable genetic variation, development of high throughput phenotyping and imaging technologies, molecular marker discovery and delivery of breeder ready germplasm to Australian breeding programs. Ultimately, this investment will provide the tools and germplasm required to accelerate breeding for improved visual grain quality, helping maintain access to premium markets, reduce quality downgrades and strengthen the long-term competitiveness and value of the Australian faba bean industry.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Advert/Show/1cd10743-5591-4edc-a438-5cf99dd02503</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WS316091813: Aviation Rescue Fire Fighting Domestic Response Vehicles (DRVs)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/64f1250f-f151-47d0-85cc-e4e2e46cc2e1</link>
+      <description>&lt;p&gt;Airservices seeks to understand the current landscape of companies supplying Domestic Response Vehicles (DRVs) to support ARFF operations&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/64f1250f-f151-47d0-85cc-e4e2e46cc2e1</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROC-9177492: Establishing pigeon pea as a summer pulse crop in the Northern Region</title>
+      <link>https://www.tenders.gov.au/Advert/Show/501fed4c-3e6d-403d-9282-75257b476466</link>
+      <description>&lt;p&gt;The northern grains industry is seeking a more reliable summer legume option for hotter, drier farming environments where current commercial options are limited. While mungbean and soybean are well-established in some parts of the northern region, their higher water requirements and sensitivity to heat, seasonal stress and limited stored soil moisture can make them less dependable in lower-rainfall areas. This limits growers’ ability to confidently include a summer legume in rotations, reducing opportunities to improve system diversity, nitrogen inputs and overall farming system resilience.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Advert/Show/501fed4c-3e6d-403d-9282-75257b476466</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST10852: Mount Stuart Training Area Non-Permanent Facility Installation, QLD</title>
@@ -644,6 +636,13 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ATM_2026_3944: Facilities Emergency Management Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f9643d84-c472-42c4-83e4-a36b5725ce58</link>
+      <description>&lt;p&gt;Facilities Emergency Management (FEM) services, including emergency management planning, evacuation diagrams, emergency training and exercises, compliance monitoring, records management and operation of a secure emergency management portal.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f9643d84-c472-42c4-83e4-a36b5725ce58</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>DHAPROC26_591: Nirimba Fields_Stage 7 Civil and Associated Works</title>
       <link>https://www.tenders.gov.au/Atm/Show/e970e73c-ee43-4251-8eba-67a406bb89f9</link>
       <description>&lt;p&gt;Defence Housing Australia (DHA) invites Tenders from qualified civil and landscape contractors to this Request for Tender (RFT) for the provision of civil construction to be carried out in accordance with these Conditions of Tender for Nirimba Fields Stage 7.&lt;/p&gt;
@@ -680,11 +679,25 @@
       <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ANNPSR 001: Commercial Pressurised Water Reactor Technical Support Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d8977086-1d78-45cf-b39e-21289cf7130d</link>
+      <description>&lt;p&gt;Commercial Pressurised Water Reactor Technical Support Services&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d8977086-1d78-45cf-b39e-21289cf7130d</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>10033493: Advanced Manufacturing Facility EOI</title>
       <link>https://www.tenders.gov.au/Atm/Show/60f49d69-6e2b-4eb8-a51e-5ecdd421934b</link>
       <description>&lt;p&gt;The Authority invites Applications for ECI Partner Services for the Advanced Manufacturing Facility Major Delivery Package in accordance with the Expression of Interest (EOI) document.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/60f49d69-6e2b-4eb8-a51e-5ecdd421934b</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GWEOS/RFP/97003/1: Very Short Range Air and Surface Defence</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2b7b42f3-f296-4b1b-b9b7-145c02188453</link>
+      <description>&lt;p&gt;Very Short Range and Surface Defence System for Protection of RAN Vessels&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2b7b42f3-f296-4b1b-b9b7-145c02188453</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ADSS/RFT/84124/1: SPA9102 Narrowband SATCOM Capability</title>
