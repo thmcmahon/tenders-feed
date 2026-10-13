@@ -4,36 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Sun, 11 Oct 2026 16:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>S-EST10714: Borneo Barracks Infrastructure Works, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5e45cd07-6916-41aa-bc68-b22033697004</link>
-      <description>&lt;p&gt;Borneo Barracks Powerhouse Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5e45cd07-6916-41aa-bc68-b22033697004</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AIR/NOT/102637/1: LAND 6504 Medium Range Ground Based Air and Missile Defence (MRGBAD)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/b901e388-8094-41a8-ad24-ebac88135684</link>
-      <description>&lt;p&gt;LAND6504 MRGBAD&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/b901e388-8094-41a8-ad24-ebac88135684</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SHFT25019: HAZMAT Register Review and Associated Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/3931cb1e-6d1a-4c40-a9f6-d0f404555a67</link>
-      <description>&lt;p&gt;Request for expressions of interest - HAZMAT Register Review and Associated Services&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/3931cb1e-6d1a-4c40-a9f6-d0f404555a67</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>26AMSA128: Provision of Meosar Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/85640fe2-7dbd-427e-b32e-91ac9f64da03</link>
-      <description>&lt;p&gt;Provision of MEOSAR Ground Segment and Nodal MCC Services&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/85640fe2-7dbd-427e-b32e-91ac9f64da03</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>RFI/2026/ASCQ: Market sounding for the establishment of logistics facilities in the Alice Springs and Central Queensland regions.</title>
       <link>https://www.tenders.gov.au/Atm/Show/a2675333-e59b-42e9-9ae8-c83ecfdeed08</link>
@@ -51,7 +23,7 @@
     <item>
       <title>FIN-2025-26-00788: Procurement of Secure Commercial-off-the-Shelf Claims Management and Insurance Solution</title>
       <link>https://www.tenders.gov.au/Atm/Show/4830556e-3d58-4335-94f8-a1cf751e2ee7</link>
-      <description>&lt;p&gt;Addendum 4 - responses to questions&lt;/p&gt;</description>
+      <description>&lt;p&gt;Addendum 5 - Lodgement of tenders&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/4830556e-3d58-4335-94f8-a1cf751e2ee7</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
     </item>
@@ -217,13 +189,6 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>MTS RFI: Request for Information for Modern Transport Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/ea95abf5-a4c7-4bad-a6db-0a4a301da392</link>
-      <description>&lt;p&gt;The Department of Veterans’ Affairs (DVA) seeks market information to inform how to modernise the existing transport services for DVA clients who need to travel to attend compensable treatment.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/ea95abf5-a4c7-4bad-a6db-0a4a301da392</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>FWO 2026-27 001: Vocational and Education Training (VET) Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/a5ef7ec3-d018-49ed-9a0f-f3608f35ad2d</link>
       <description>&lt;p&gt;The FWO is seeking to engage a suitably qualified Potential Supplier to deliver a range of VET services, including:&lt;/p&gt;
@@ -359,6 +324,13 @@
       <description>&lt;p&gt;The purpose of this EOI to understand market capability to supply, deliver, install, commission, train and support modern liquid chromatography systems and associated software to support specialised chromatography applications used in radiochemistry research, radioisotope production and radiotracer development at ANSTO Lucas Heights.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/fdc3f4e1-4852-46b9-be17-4696cda14825</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MTS RFI: Request for Information for Modern Transport Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/ea95abf5-a4c7-4bad-a6db-0a4a301da392</link>
+      <description>&lt;p&gt;The Department of Veterans’ Affairs (DVA) seeks market information to inform how to modernise the existing transport services for DVA clients who need to travel to attend compensable treatment.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/ea95abf5-a4c7-4bad-a6db-0a4a301da392</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-17622: Company and Industry Data</title>
@@ -609,6 +581,20 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>50820: Services to deliver disaster and risk resilience materials for regional organisations in the tourism industry</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f32d001d-5b4b-47e6-961e-1047370cc0bb</link>
+      <description>&lt;p&gt;This ATM seeks a supplier to deliver guidance materials for regional organisations including regional tourism organisations (RTOs) and local councils to build capability in resilience planning for natural disasters and crisis events, and responding to natural disasters and crisis events.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f32d001d-5b4b-47e6-961e-1047370cc0bb</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DFAT-1096: Australian Volunteers Program</title>
+      <link>https://www.tenders.gov.au/Atm/Show/026f5ee5-feae-4698-8e6c-86e94c7a33c2</link>
+      <description>&lt;p&gt;Australian Volunteers Program&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/026f5ee5-feae-4698-8e6c-86e94c7a33c2</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST10844: HMAS Kuttabul &amp; Waterhen Infrastructure Works, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/9bad1faa-55a6-4d58-a5e7-3e7680d90804</link>
       <description>&lt;p&gt;HMAS Kuttabul &amp;amp; Waterhen Infrastructure Works&lt;/p&gt;</description>
@@ -658,11 +644,25 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>S-EST11095: HMAS Cairns Minor Refurbishment, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5e34ce6b-5336-418f-84a1-17d3c56184e8</link>
+      <description>&lt;p&gt;HMAS Cairns Minor Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5e34ce6b-5336-418f-84a1-17d3c56184e8</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Health/E26-312716: Provision of Australian Prescriber Online Journal and Podcast Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/6735c232-fc01-43e7-a6e3-10a7819257ac</link>
       <description>&lt;p&gt;The Department of Health, Disability and Ageing is seeking a provider to publish and maintain Australian Prescriber as a free, national, independent and peer-reviewed online journal, together with associated podcast, digital delivery, promotion, reporting and support services&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/6735c232-fc01-43e7-a6e3-10a7819257ac</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>EOI/WAGGA/Grazing: RAAF Base Wagga - Yuruga Grazing Licence - 01 Dec 2026 to 31 Jan 2029</title>
+      <link>https://www.tenders.gov.au/Atm/Show/321c6491-7136-4a0e-97b0-cb5768142853</link>
+      <description>&lt;p&gt;Yuruga Grazing Licence - RAAF Base Wagga&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/321c6491-7136-4a0e-97b0-cb5768142853</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>HOMEAFFAIRS/2208/RFT: Australian Border Force (ABF) Ships' Boats (ASBs) - Panel Establishment</title>
@@ -719,6 +719,13 @@
       <description>&lt;p&gt;SPA9102 LOE2 Narrowband SATCOM Capability&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/a7575010-2689-4b37-8fd6-c34caf30d261</guid>
       <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOMEAFFAIRS/2220/RFI: Supply and Sustainment of Surveillance and Enforcement Communications Technology and related services (CCTV &amp; EC Panel)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/823c674f-ce6e-4c56-aa78-4ce2adfd37f6</link>
+      <description>&lt;p&gt;CCTV &amp;amp; Enforcement Communications Panel&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/823c674f-ce6e-4c56-aa78-4ce2adfd37f6</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ADSS/NOT/84124/1: SPA9102 Narrowband Payload Space Segment</title>
