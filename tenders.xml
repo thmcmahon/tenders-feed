@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 14 Oct 2026 16:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:35:07 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>NAODS/RFT/102152: Certificate IV in Alcohol and Other Drugs for the Royal Australian Navy Alcohol and Drug Program Advisors Course</title>
-      <link>https://www.tenders.gov.au/Atm/Show/df52f687-1a92-4e49-93c9-2af87f7007bc</link>
-      <description>&lt;p&gt;Certificate IV in AOD for the Royal Australian Navy ADPA Course&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/df52f687-1a92-4e49-93c9-2af87f7007bc</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASCA-RFT-2026-LDTPM: Land Distributed Tactical Power Management Challenge</title>
-      <link>https://www.tenders.gov.au/Atm/Show/c83b9592-4ff5-4910-ad3a-01a2d6765912</link>
-      <description>&lt;p&gt;Request for Tender for ASCA Innovation Challenge 2026: Power Challenge&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/c83b9592-4ff5-4910-ad3a-01a2d6765912</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSIRORFT2026006: Manuscript Editorial Platform</title>
-      <link>https://www.tenders.gov.au/Atm/Show/dad6282a-95af-4235-af00-44d72a4ab343</link>
-      <description>&lt;p&gt;The Commonwealth Scientific and Industrial Research Organisation (CSIRO) through this RFT is seeking responses from suitably qualified and experienced service providers for the provision of a manuscript submission and peer review platform for CSIRO Publishing’s journals. Service delivery is required to commence 1 July 2027 following an implementation and transition period of up to 6 months, expected to begin in early 2027.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/dad6282a-95af-4235-af00-44d72a4ab343</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>105519: Expression of Interest (EOI) – Web Application Sustainment, Technical Uplift and Data Migration Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/377a0e2f-6f1f-4e08-82ef-6790d223c69c</link>
@@ -98,13 +77,6 @@
       <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>S-EST11109: Holsworthy Building Refurbishments, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4f525cbd-3f88-4d8f-ab64-b9365bf1c441</link>
-      <description>&lt;p&gt;Holsworthy Building Refurbishments Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4f525cbd-3f88-4d8f-ab64-b9365bf1c441</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>RFT1001035471: Interpreting and Translation Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/d56682d1-ca8a-44a4-a7ba-97c7116557c6</link>
       <description>&lt;p&gt;For the provision of Interpreting and Translation Services.&amp;nbsp;&lt;/p&gt;</description>
@@ -157,13 +129,6 @@
 &lt;p&gt;b.&amp;nbsp; &amp;nbsp; delivery and issuance of PSP50416 Diploma of Government Investigations nationally&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/a5ef7ec3-d018-49ed-9a0f-f3608f35ad2d</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST11107: Garden Island Maintenance and Remediation, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/6c6a29bb-068e-4517-8cc0-88bd0c67df6d</link>
-      <description>&lt;p&gt;Garden Island Maintenance and Remediation&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/6c6a29bb-068e-4517-8cc0-88bd0c67df6d</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CSIRORFT2026022: Labware and Chemicals Panel</title>
@@ -259,6 +224,13 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>S-EST11109: Holsworthy Building Refurbishments, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4f525cbd-3f88-4d8f-ab64-b9365bf1c441</link>
+      <description>&lt;p&gt;Holsworthy Building Refurbishments Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4f525cbd-3f88-4d8f-ab64-b9365bf1c441</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>13016: Operational Energy Transitions Defence Research Centre Lead Partner</title>
       <link>https://www.tenders.gov.au/Atm/Show/4897f566-bd30-4ddd-83a9-c3671dea68ef</link>
       <description>&lt;p&gt;Defence is calling for tenders to engage a supplier as a Lead Partner to provide research leadership and expertise at the program and project level for the OET DRC.&lt;/p&gt;</description>
@@ -285,6 +257,13 @@
       <description>&lt;p&gt;The Department of Veterans’ Affairs (DVA) seeks market information to inform how to modernise the existing transport services for DVA clients who need to travel to attend compensable treatment.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/ea95abf5-a4c7-4bad-a6db-0a4a301da392</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST11107: Garden Island Maintenance and Remediation, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/6c6a29bb-068e-4517-8cc0-88bd0c67df6d</link>
+      <description>&lt;p&gt;Garden Island Maintenance and Remediation&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/6c6a29bb-068e-4517-8cc0-88bd0c67df6d</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>SRC006484: Public Relations Services</title>
@@ -399,6 +378,13 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>GA2026/2136: Street-view and LiDAR data acquisition program in Queensland</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7eb6987d-1afe-489d-9b58-579cc3c55509</link>
+      <description>&lt;p&gt;Street-view and mobile LiDAR data collection&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7eb6987d-1afe-489d-9b58-579cc3c55509</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM_2026_3569: Procurement of a Segmented Flow Analyser</title>
       <link>https://www.tenders.gov.au/Atm/Show/c1693a56-90ba-4d74-83a3-7d3aadb8369c</link>
       <description>&lt;p&gt;Procurement of a segmented flow analyser for the Inorganics Laboratory within the National Measurement Institute's (NMI’s) Analytical Services Branch (ASB).&lt;/p&gt;</description>
@@ -507,6 +493,15 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PF26/00051: Research participant recruitment services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0c4e006c-5ece-4992-91e7-21dc8eaffcab</link>
+      <description>&lt;p&gt;The Australian Digital Health Agency (the Agency) conducts research, evaluation, consultation and user testing to understand awareness, attitudes, behaviours, experiences and outcomes associated with digital health technologies, including the Agency's products, services and capabilities. The Research, Evaluation &amp;amp; Statistics (RES) team is responsible for delivering this program of work.&lt;/p&gt;
+&lt;p&gt;To support these activities, the Agency requires access to participant recruitment services and participant panels comprising Australian healthcare consumers, carers, healthcare professionals and healthcare administrative staff.&lt;/p&gt;
+&lt;p&gt;The Agency is seeking one or more suppliers that can provide a consistent, transparent and scalable approach to participant recruitment across a range of research projects.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0c4e006c-5ece-4992-91e7-21dc8eaffcab</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST11113: RAAF Williamtown Refurbishment Works, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/43ab2360-0596-4762-8931-8c540eb1c3e8</link>
       <description>&lt;p&gt;RAAF Williamtown Refurbishment Works&lt;/p&gt;</description>
@@ -591,11 +586,27 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>IT-26/154-RFEOI: RFEOI FX Settlement Netting Solution</title>
+      <link>https://www.tenders.gov.au/Atm/Show/e91bfff1-f93a-47ae-893e-c8f15fb50f7f</link>
+      <description>&lt;p&gt;Reserve Bank of Australia&amp;nbsp; invites Expression of Interest from capable suppliers to supply the bank with a Foreign Exchange (FX) Settlement Netting Solution.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/e91bfff1-f93a-47ae-893e-c8f15fb50f7f</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ATM_2026_3678: Automated Sample Preparation Platform</title>
       <link>https://www.tenders.gov.au/Atm/Show/ae0d329d-e193-4e08-9022-8dcd39bdb258</link>
       <description>&lt;p&gt;The Australian Forensic Drug Laboratory requires an automated sample-preparation platform to replace two ageing robotic systems. The new platform will be flexible to automate multiple qualitative, quantitative and drug-profiling workflows, improving capacity, precision, reliability and operational efficiency.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/ae0d329d-e193-4e08-9022-8dcd39bdb258</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>10019334: Construction Services – Managing Contractor (Fitout of 3-5 National Circuit, Barton)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/55146c8d-d57d-4c8c-934a-70abcedb69ae</link>
+      <description>&lt;p&gt;The Attorney-General’s Department requires the fitout of existing premises for their Canberra-based office. The Premises are located at 3-5 National Circuit, ACT.&lt;/p&gt;
+&lt;p&gt;The Department requires the Works to be delivered via a managing contractor model, as detailed in the Draft Contract.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/55146c8d-d57d-4c8c-934a-70abcedb69ae</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>68269: Salary Packaging Services</title>
@@ -697,6 +708,13 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>APSC2689: Off the shelf Project Management suite learning solution</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7c080b43-7dc6-4f6c-922f-8e8db25060c7</link>
+      <description>&lt;p&gt;Off the shelf Project Management suite learning solution&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7c080b43-7dc6-4f6c-922f-8e8db25060c7</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>10033493: Advanced Manufacturing Facility EOI</title>
       <link>https://www.tenders.gov.au/Atm/Show/60f49d69-6e2b-4eb8-a51e-5ecdd421934b</link>
       <description>&lt;p&gt;The Authority invites Applications for ECI Partner Services for the Advanced Manufacturing Facility Major Delivery Package in accordance with the Expression of Interest (EOI) document.&lt;/p&gt;</description>
@@ -744,6 +762,13 @@
       <description>&lt;p&gt;LAND6504 MRGBAD&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/771d808f-514a-4bed-a977-b957b3d7d729</guid>
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>93127-1: Mortuary and Bereavement Support Standing Offer for Services - Request for Tender</title>
+      <link>https://www.tenders.gov.au/Atm/Show/7918e5c1-902b-4958-8671-3f31f27b8910</link>
+      <description>&lt;p&gt;Mortuary and Bereavement Support Standing Offer for Services - Request for Tender&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/7918e5c1-902b-4958-8671-3f31f27b8910</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GWEOS/RFP/97003/1: Very Short Range Air and Surface Defence</title>
