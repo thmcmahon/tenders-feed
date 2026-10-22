@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Wed, 21 Oct 2026 16:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:35:02 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>6132-2025-26: Townsville (TFTA) Demolition and Site Remediation</title>
-      <link>https://www.tenders.gov.au/Atm/Show/62588e72-df93-4f07-ade4-53ab55c29d4e</link>
-      <description>&lt;p&gt;The Bureau of Meteorology requires a suitably qualified siteworks and demolition contractor to complete make-good works at the former Townsville Field Training Area (TFTA) radar facility. The requirement includes removal of remaining infrastructure, demolition of residual concrete and asphalt, backfilling, reinstatement and minor rehabilitation so the site is left clean, stable, trafficable and free draining.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/62588e72-df93-4f07-ade4-53ab55c29d4e</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>10032377: Cascade Pier Upgrades – Statutory Approvals Documentation</title>
-      <link>https://www.tenders.gov.au/Atm/Show/8b3675f1-8358-4076-bfbb-77773a4e3e13</link>
-      <description>&lt;p&gt;Provision of planning, environmental, heritage and regulatory approval services for the Cascade Pier Upgrades Project, including preparation of assessments, supporting studies and statutory approval documentation through to development approval determination.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/8b3675f1-8358-4076-bfbb-77773a4e3e13</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>5950a-2025-26: Upgrade of the Automatic Weather Station (AWS) network in the Republic of Kiribati</title>
       <link>https://www.tenders.gov.au/Atm/Show/3f8c7e54-2161-4b82-88d3-42e04e0c3b21</link>
@@ -27,13 +13,6 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/3f8c7e54-2161-4b82-88d3-42e04e0c3b21</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST11093: Brymaroo Building Works, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/2241831c-5574-480b-86f0-7aff77e5cb43</link>
-      <description>&lt;p&gt;Brymaroo Building Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/2241831c-5574-480b-86f0-7aff77e5cb43</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>S-EST11265: Lavarack Barracks Building works, QLD</title>
@@ -99,13 +78,6 @@
       <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>S-EST08611: Greenvale Training Area Road Works, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4d90f55e-8d19-48b5-bc5f-1fe7be105c44</link>
-      <description>&lt;p&gt;Greenvale Training Area road works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4d90f55e-8d19-48b5-bc5f-1fe7be105c44</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>S-EST11109: Holsworthy Building Refurbishments, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/4f525cbd-3f88-4d8f-ab64-b9365bf1c441</link>
       <description>&lt;p&gt;Holsworthy Building Refurbishments Works&lt;/p&gt;</description>
@@ -127,11 +99,25 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>S-EST11093: Brymaroo Building Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2241831c-5574-480b-86f0-7aff77e5cb43</link>
+      <description>&lt;p&gt;Brymaroo Building Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2241831c-5574-480b-86f0-7aff77e5cb43</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST10853: Greenbank Training Area Non-Permanent Facility Installation, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/50a5d5fc-2ec0-4e5e-8b90-7580e76e1324</link>
       <description>&lt;p&gt;S-EST10853 - Greenbank Training Area Non-Permanent Facility Installation&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/50a5d5fc-2ec0-4e5e-8b90-7580e76e1324</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST08611: Greenvale Training Area Road Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4d90f55e-8d19-48b5-bc5f-1fe7be105c44</link>
+      <description>&lt;p&gt;Greenvale Training Area road works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4d90f55e-8d19-48b5-bc5f-1fe7be105c44</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>DHF26/01613-01: Development of Digital health foundations course for medical students</title>
@@ -270,13 +256,6 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>ATM_2026_3676: Gas Chromatograph with Tandem Quadrupole Mass Spectrometer (GC-MSMS)</title>
-      <link>https://www.tenders.gov.au/Atm/Show/a8b85f1d-f7aa-451c-bd60-47f78a5bd5df</link>
-      <description>&lt;p&gt;The National Measurement Institute require a Gas Chromatograph with Tandem Quadropole Mass Spectrometer to support their extensive testing services across a range of sectors (e.g., environmental, pharmaceutical, agricultural, and food).&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/a8b85f1d-f7aa-451c-bd60-47f78a5bd5df</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>GA-A26-14-RFI: New Alice Springs Ground Station Draft Specification</title>
       <link>https://www.tenders.gov.au/Atm/Show/2663cf17-463b-4c1e-bf5d-459cfaaae7b9</link>
       <description>&lt;p&gt;Request for Information - Industry Feedback on Draft Specification for the New Alice Springs Ground Station&lt;/p&gt;</description>
@@ -351,18 +330,18 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>S-EST11113: RAAF Williamtown Refurbishment Works, NSW</title>
-      <link>https://www.tenders.gov.au/Atm/Show/43ab2360-0596-4762-8931-8c540eb1c3e8</link>
-      <description>&lt;p&gt;RAAF Williamtown Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/43ab2360-0596-4762-8931-8c540eb1c3e8</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>S-EST10713: Randwick Barracks Office Refurbishment, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/f0303d54-f6df-421b-bd98-b337d3cb243d</link>
       <description>&lt;p&gt;Randwick Barracks Office Refurbishment&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/f0303d54-f6df-421b-bd98-b337d3cb243d</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2026_3676: Gas Chromatograph with Tandem Quadrupole Mass Spectrometer (GC-MSMS)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a8b85f1d-f7aa-451c-bd60-47f78a5bd5df</link>
+      <description>&lt;p&gt;The National Measurement Institute require a Gas Chromatograph with Tandem Quadropole Mass Spectrometer to support their extensive testing services across a range of sectors (e.g., environmental, pharmaceutical, agricultural, and food).&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a8b85f1d-f7aa-451c-bd60-47f78a5bd5df</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>NAVY/TF/TA-ITLM99627: Navy Way Point Leadership Program</title>
@@ -586,6 +565,28 @@
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>PROCUR-125428212-392: ICT NETWORK SUPPORT SERVICES</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3455866c-c9db-4d1e-9c85-45a1a2327df4</link>
+      <description>&lt;p&gt;NOPSEMA is seeking a qualified service provider to deliver Fortinet and Microsoft Azure network engineering support and project-based networking services.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3455866c-c9db-4d1e-9c85-45a1a2327df4</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROCUR-125428212-445: SERVER, CLOUD AND ENDPOINT MANAGEMENT SUPPORT</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5f927cc1-7c2a-459c-9ab1-3a4a4ae876af</link>
+      <description>&lt;p&gt;NOPSEMA is seeking a suitably qualified service provider to deliver ongoing infrastructure and platform support and associated project services&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5f927cc1-7c2a-459c-9ab1-3a4a4ae876af</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>6542-2025-26: Derby Power Rectification</title>
+      <link>https://www.tenders.gov.au/Atm/Show/d99b734e-08e1-47e3-bf60-8b60a4afc2cb</link>
+      <description>&lt;p&gt;Uplift of electrical installation at the Bureau of Meteorology's Derby Aero Automatic Weather Stations (AWS).&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;Refer to Statement of Requirements.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/d99b734e-08e1-47e3-bf60-8b60a4afc2cb</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>HOMEAFFAIRS/2195/RFT: Request for Tender (RFT) for the Establishment of a Job Roles Assessment and Services (JRAS) Panel</title>
       <link>https://www.tenders.gov.au/Atm/Show/ca23d42d-1eb8-4946-b054-d04ecc6a4962</link>
       <description>&lt;p&gt;To re-establish a panel of suitably qualified providers to deliver health-related assessment and associated services to Department workers occupying roles requiring position suitability assessments. Services may include medical and fitness assessments, psychological and psychometric assessments, wellbeing and monitoring services, and vaccinations and communicable disease testing.&lt;/p&gt;</description>
@@ -605,6 +606,14 @@
       <description>&lt;p&gt;Procurement of Liquid Chromatograph Mass Spectrometer (LCMS)&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/881db19c-0849-44f6-91c3-0245a690c525</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>6387-2026-27: Cultural Heritage Assessments and Engagement</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5d910c27-bdea-40ab-9c4b-ba49b38bd4f1</link>
+      <description>&lt;p&gt;The Bureau is seeking a specialised service provider to undertake comprehensive Rapid-Cultural Heritage Risk Assessment and Cultural Heritage Field Assessments (CHFA).&lt;/p&gt;
+&lt;p&gt;Refer to Statement of Requirements.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5d910c27-bdea-40ab-9c4b-ba49b38bd4f1</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>10033493: Advanced Manufacturing Facility EOI</title>
@@ -628,6 +637,13 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>S-EST11113: RAAF Williamtown Refurbishment Works, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/43ab2360-0596-4762-8931-8c540eb1c3e8</link>
+      <description>&lt;p&gt;RAAF Williamtown Refurbishment Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/43ab2360-0596-4762-8931-8c540eb1c3e8</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST11059: HMAS Penguin Refurbishment Works, NSW</title>
       <link>https://www.tenders.gov.au/Atm/Show/5d31d4a0-901b-4436-8d76-e16fae99a73c</link>
       <description>&lt;p&gt;HMAS Penguin Refurbishment Works&lt;/p&gt;</description>
@@ -647,6 +663,16 @@
       <description>&lt;p&gt;The Department is seeking an experienced contractor to provide planning, engineering, offshore recovery and transport services for the removal of subsea infrastructure from the Laminaria and Corallina fields to a nominated Australian port.&amp;nbsp;&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/270a195c-a914-4160-aaf8-f825fe0d7052</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>3487-2023-24: Enterprise Monitoring and Support Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f7940007-d9b0-400f-8011-ba61830504e7</link>
+      <description>&lt;p&gt;The Bureau is seeking a suitable partner for the supply and provision of an Enterprise Monitoring platform for all the monitored endpoints and associated components.&lt;/p&gt;
+&lt;p&gt;The objective of this procurement process is to engage a Supplier under a Standard Contract for the supply and installation of the Enterprise Monitoring platform in accordance with the requirements set out in this Statement of Requirements including the detailed requirements specified in Appendix 2.&lt;/p&gt;
+&lt;p&gt;Refer to Statement of Requirements.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f7940007-d9b0-400f-8011-ba61830504e7</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CBP-CON-00260: Antithrombin III Procurement</title>
@@ -740,6 +766,13 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>APSC2682: Workforce Planning suite</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4eac3343-9852-456a-8294-0b016835ec3b</link>
+      <description>&lt;p&gt;Workforce planning suite&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4eac3343-9852-456a-8294-0b016835ec3b</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>ADSS/RFT/84124/1: SPA9102 Narrowband SATCOM Capability</title>
       <link>https://www.tenders.gov.au/Atm/Show/a7575010-2689-4b37-8fd6-c34caf30d261</link>
       <description>&lt;p&gt;SPA9102 LOE2 Narrowband SATCOM Capability&lt;/p&gt;</description>
@@ -759,6 +792,13 @@
       <description>&lt;p&gt;CCTV &amp;amp; Enforcement Communications Panel&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/823c674f-ce6e-4c56-aa78-4ce2adfd37f6</guid>
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LSD/RFT/90631/1: Supply and Maintenance of Rescue Equipment</title>
+      <link>https://www.tenders.gov.au/Atm/Show/4db36107-f09e-40f4-a483-16a468a15033</link>
+      <description>&lt;p&gt;RFT to establish a Standing Offer for the Supply and Maintenance of Rescue Equipment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/4db36107-f09e-40f4-a483-16a468a15033</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>ADSS/NOT/84124/1: SPA9102 Narrowband Payload Space Segment</title>
