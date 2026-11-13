@@ -4,29 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Thu, 12 Nov 2026 16:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>LCD-26-0078: Land Capability Division - Professional Development Programs</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5f844ba7-631f-45bc-b698-f8e7a1b218d7</link>
-      <description>&lt;p&gt;Development and delivery of professional development courses supporting Defence Capability System learning&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5f844ba7-631f-45bc-b698-f8e7a1b218d7</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>S-EST11095: HMAS Cairns Minor Refurbishment, QLD</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5e34ce6b-5336-418f-84a1-17d3c56184e8</link>
-      <description>&lt;p&gt;HMAS Cairns Minor Refurbishment Works&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5e34ce6b-5336-418f-84a1-17d3c56184e8</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DTE-RFI-2026-01: The Defence Targeting Enterprise</title>
-      <link>https://www.tenders.gov.au/Atm/Show/4dbd8688-1ead-4d1c-b11b-c0f6636cb6fd</link>
-      <description>&lt;p&gt;The Commonwealth are seeking information from industry on products, services and capabilities that may contribute to the Defence Targeting Enterprise.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/4dbd8688-1ead-4d1c-b11b-c0f6636cb6fd</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>PSC002904: ANSTO Security (Guarding) Services Registration of Interest (ROI)</title>
       <link>https://www.tenders.gov.au/Atm/Show/3c5fbfc6-ee21-400a-868b-b5c04a44dbc8</link>
@@ -71,20 +50,6 @@
       <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>PROCUR-125428212-392: ICT NETWORK SUPPORT SERVICES</title>
-      <link>https://www.tenders.gov.au/Atm/Show/3455866c-c9db-4d1e-9c85-45a1a2327df4</link>
-      <description>&lt;p&gt;NOPSEMA is seeking a qualified service provider to deliver Fortinet and Microsoft Azure network engineering support and project-based networking services.&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/3455866c-c9db-4d1e-9c85-45a1a2327df4</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>PROCUR-125428212-445: SERVER, CLOUD AND ENDPOINT MANAGEMENT SUPPORT</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5f927cc1-7c2a-459c-9ab1-3a4a4ae876af</link>
-      <description>&lt;p&gt;NOPSEMA is seeking a suitably qualified service provider to deliver ongoing infrastructure and platform support and associated project services&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5f927cc1-7c2a-459c-9ab1-3a4a4ae876af</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>6542-2025-26: Derby Power Rectification</title>
       <link>https://www.tenders.gov.au/Atm/Show/d99b734e-08e1-47e3-bf60-8b60a4afc2cb</link>
       <description>&lt;p&gt;Uplift of electrical installation at the Bureau of Meteorology's Derby Aero Automatic Weather Stations (AWS).&lt;/p&gt;
@@ -127,6 +92,20 @@
       <description>&lt;p&gt;Procurement of Liquid Chromatograph Mass Spectrometer (LCMS)&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/881db19c-0849-44f6-91c3-0245a690c525</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROCUR-125428212-392: ICT NETWORK SUPPORT SERVICES</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3455866c-c9db-4d1e-9c85-45a1a2327df4</link>
+      <description>&lt;p&gt;NOPSEMA is seeking a qualified service provider to deliver Fortinet and Microsoft Azure network engineering support and project-based networking services.&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3455866c-c9db-4d1e-9c85-45a1a2327df4</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PROCUR-125428212-445: SERVER, CLOUD AND ENDPOINT MANAGEMENT SUPPORT</title>
+      <link>https://www.tenders.gov.au/Atm/Show/5f927cc1-7c2a-459c-9ab1-3a4a4ae876af</link>
+      <description>&lt;p&gt;NOPSEMA is seeking a suitably qualified service provider to deliver ongoing infrastructure and platform support and associated project services&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/5f927cc1-7c2a-459c-9ab1-3a4a4ae876af</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>6387-2026-27: Cultural Heritage Assessments and Engagement</title>
@@ -687,6 +666,13 @@
       <description>&lt;p&gt;Defence Housing Australia (DHA) invites Tenders from suitably qualified, licensed, experienced and financially capable residential building contractors to undertake the design, approval, and construction of eighteen 18 residential dwellings at Googong, New South Wales.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/e3f003d2-fdfd-4b0c-b52c-28c998faac20</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFI 09-2026: Learning Managemenet System (LMS)</title>
+      <link>https://www.tenders.gov.au/Atm/Show/2c35fc64-2e17-44ce-8949-a3ac3f49cde3</link>
+      <description>&lt;p&gt;Learning Managemenet System&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/2c35fc64-2e17-44ce-8949-a3ac3f49cde3</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>EOI-2026-27 003: Trustee and Fund Manager for the Creative Industries Impact Fund (CIIF)</title>
