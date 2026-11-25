@@ -4,22 +4,8 @@
     <title>AusTender Current ATM List</title>
     <language>en-AU</language>
     <link>https://www.tenders.gov.au/Atm/List</link>
-    <lastBuildDate>Tue, 24 Nov 2026 16:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:35:00 GMT</lastBuildDate>
     <description>AusTender Current ATM List</description>
-    <item>
-      <title>LCD-26-0037: Armoury Racking Systems</title>
-      <link>https://www.tenders.gov.au/Atm/Show/e5a8420f-b689-49d4-9032-e75827a3fe98</link>
-      <description>&lt;p&gt;Request for Proposal for commercially available armoury racking and weapon storage solutions.&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/e5a8420f-b689-49d4-9032-e75827a3fe98</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>APSC2691: Working Effectively Suite</title>
-      <link>https://www.tenders.gov.au/Atm/Show/5fce400b-b617-4783-a4aa-2bb8716130ee</link>
-      <description>&lt;p&gt;Design and development of the Working Effectively suite&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/5fce400b-b617-4783-a4aa-2bb8716130ee</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
-    </item>
     <item>
       <title>88587: RFT88587 Defence Fuel Training Services</title>
       <link>https://www.tenders.gov.au/Atm/Show/62bd611f-8d70-43a9-b3b2-ee997bf3b9f2</link>
@@ -75,16 +61,6 @@
       <description>&lt;p&gt;ABC is seeking a modern network monitoring and management solution to improve network visibility,&lt;br&gt;proactive fault detection and operational efficiency. The procurement will evaluate solutions that can&lt;br&gt;consolidate existing capabilities, improve monitoring and automation, and provide enhanced&lt;br&gt;visibility across ABC's network infrastructure and services.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/62d8c11c-7cbf-4278-9f4f-ab8aab261817</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>3487-2023-24: Enterprise Monitoring and Support Services</title>
-      <link>https://www.tenders.gov.au/Atm/Show/f7940007-d9b0-400f-8011-ba61830504e7</link>
-      <description>&lt;p&gt;The Bureau is seeking a suitable partner for the supply and provision of an Enterprise Monitoring platform for all the monitored endpoints and associated components.&lt;/p&gt;
-&lt;p&gt;The objective of this procurement process is to engage a Supplier under a Standard Contract for the supply and installation of the Enterprise Monitoring platform in accordance with the requirements set out in this Statement of Requirements including the detailed requirements specified in Appendix 2.&lt;/p&gt;
-&lt;p&gt;Refer to Statement of Requirements.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-      <guid>https://www.tenders.gov.au/Atm/Show/f7940007-d9b0-400f-8011-ba61830504e7</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>IP-INFRA TUV MB RFP: IP-INFRA Tuvalu Mooring Buoys - Request for Proposal</title>
@@ -306,6 +282,16 @@
       <description>&lt;p&gt;Review of Engineering Documentation.&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/00f96193-dfe5-4ab2-a352-0ca82ac21bda</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>3487-2023-24: Enterprise Monitoring and Support Services</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f7940007-d9b0-400f-8011-ba61830504e7</link>
+      <description>&lt;p&gt;The Bureau is seeking a suitable partner for the supply and provision of an Enterprise Monitoring platform for all the monitored endpoints and associated components.&lt;/p&gt;
+&lt;p&gt;The objective of this procurement process is to engage a Supplier under a Standard Contract for the supply and installation of the Enterprise Monitoring platform in accordance with the requirements set out in this Statement of Requirements including the detailed requirements specified in Appendix 2.&lt;/p&gt;
+&lt;p&gt;Refer to Statement of Requirements.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f7940007-d9b0-400f-8011-ba61830504e7</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>CBP-CON-00260: Antithrombin III Procurement</title>
@@ -672,11 +658,25 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>JCOMS-RFI-01: JCOMS Sensor Server RFI</title>
+      <link>https://www.tenders.gov.au/Atm/Show/f56bb31e-0703-46c2-a7bf-f35ea8780909</link>
+      <description>&lt;p&gt;A portable server (Sensor Server) that provides high-performance computing, storage, networking, and packet-capture&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/f56bb31e-0703-46c2-a7bf-f35ea8780909</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>EWPNOTICE 04/2026: Notice - Estate Works Program Defence Industry Update</title>
       <link>https://www.tenders.gov.au/Atm/Show/88227b1c-bb34-4528-ba83-d50d148c1418</link>
       <description>&lt;p&gt;Notice - Estate Work Program - Estate Works Program Industry Briefings - Industry Briefing Materials&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/88227b1c-bb34-4528-ba83-d50d148c1418</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2026_3646: Horizon Europe National Contact Point Service</title>
+      <link>https://www.tenders.gov.au/Atm/Show/a25a3a45-eadd-4544-bebb-7a5cfb3b9275</link>
+      <description>&lt;p&gt;The Horizon Europe National Contact Point Service will provide Australia’s Horizon Europe National Contact Points, who will provide accessible, impartial advice and training to help Australian researchers, research organisations and businesses identify relevant opportunities, understand programme requirements and connect with international partners. The Horizon Europe National Contact Point Service will also provide feedback to the department on implementation issues and barriers to participation.&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/a25a3a45-eadd-4544-bebb-7a5cfb3b9275</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-17649: External Collection Agency (ECA) Mercantile Debt Management Services</title>
@@ -820,6 +820,20 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>S-EST11711: Lavarack Barracks Roofing Works, QLD</title>
+      <link>https://www.tenders.gov.au/Atm/Show/fabb2e25-92ad-42f1-8e4b-27febd9b6bdd</link>
+      <description>&lt;p&gt;Lavarack Barracks Roofing Works&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/fabb2e25-92ad-42f1-8e4b-27febd9b6bdd</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>S-EST11066: Rockdale Training Depot Building Refurbishment, NSW</title>
+      <link>https://www.tenders.gov.au/Atm/Show/3957d101-339b-4fa7-ba76-a8b0f065d42e</link>
+      <description>&lt;p&gt;Rockdale Training Depot Building Refurbishment&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/3957d101-339b-4fa7-ba76-a8b0f065d42e</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>S-EST10704: RAAF Base Amberley Building Refurbishment, QLD</title>
       <link>https://www.tenders.gov.au/Atm/Show/614dbed0-c2b3-404a-acde-6a337f063268</link>
       <description>&lt;p&gt;RAAF Base Amberley Building Refurbishment&lt;/p&gt;</description>
@@ -857,6 +871,13 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>ATM_2026_7356: 2026 Strategic purchase of water rights to bridge the gap in the NSW Lachlan</title>
+      <link>https://www.tenders.gov.au/Atm/Show/0e4be192-890f-4322-aed2-89155595ea07</link>
+      <description>&lt;p&gt;2026 Strategic purchase of water rights in the NSW Lachlan&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/0e4be192-890f-4322-aed2-89155595ea07</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>PROC-9177516: Open innovation call to realise step changes in soil and water productivity and unlock plant potential</title>
       <link>https://www.tenders.gov.au/Advert/Show/61bbba81-a6c7-4b87-a058-80f248105e79</link>
       <description>&lt;p&gt;GRDC is investing in an open innovation call to help drive step changes in soil and water productivity and unlock plant potential in line with the new frontiers pillar of GRDC’s 2023-2028 RD&amp;amp;E plan. This open innovation call is seeking early-stage research and innovation (TRL ? 4) to unlock new opportunities in these areas and complement the existing GRDC portfolio in later-stage applied research in areas such as soil amelioration, pre-breeding, and nutrient management. GRDC anticipates investing up to $25,000,000.00 AUD in multiple projects following this open innovation call&lt;/p&gt;</description>
@@ -869,6 +890,13 @@
       <description>&lt;p&gt;Suitably qualified and experienced electrical and mechanical engineering contractor&lt;/p&gt;</description>
       <guid>https://www.tenders.gov.au/Atm/Show/39fa87f8-49bb-40d6-9303-f243f48e9233</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ATM_2026_6037: 2026 Strategic purchase of groundwater rights to bridge the gap in the Queensland Upper Condamine Alluvium Tributaries</title>
+      <link>https://www.tenders.gov.au/Atm/Show/11e7d598-da34-4de1-8be8-cadb7306ec5c</link>
+      <description>&lt;p&gt;2026 Strategic purchase of groundwater rights in the Queensland Upper Condamine Alluvium Tributaries&lt;/p&gt;</description>
+      <guid>https://www.tenders.gov.au/Atm/Show/11e7d598-da34-4de1-8be8-cadb7306ec5c</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>PROC-9177507: Barley Net Blotch Initiative (BNBI) Program 2 – Host and pathogen genetics</title>
